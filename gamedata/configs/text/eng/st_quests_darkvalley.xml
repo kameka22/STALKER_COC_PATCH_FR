@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- bandit_companion_task_1       -->
+	<string id="bandit_companion_task_1_start_dialog_1">
+	<text>Passe devant, on te suit. T'auras ta part quand on aura fini. Faut juste que tu fasses que зa soit nous qu'on fait le pillage et qu'tu surveilles nos arriиres.</text>
+	</string>
+	<string id="bandit_companion_task_1_start_dialog_2">
+	<text>Faut qu'on bouge, j'ai la gвchette qui m'dйmange. Oublie pas: le butin c'est pour nous !</text>
+	</string>
+	<string id="bandit_companion_task_1_complete">
+	<text>T'as fait du bon boulot. Voilа ta part.</text>
+	</string>
+	<string id="bandit_companion_task_1_actor_reply">
+	<text>Ok.</text>
+	</string>
+	<!-- val_smart_terrain_7_4_bandit_trader_stalker -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_name">
+	<text>Йliminer la menace mutante</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_text">
+	<text>Des mutants ont йtй repйrйs prиs de cet endroit, ce qui rend la Zone plus que dangereuse. Vous avez йtй chargй d'йliminer la menace mutante dans ce coin. Faites un rapport а Olivius lorsque le travail aura йtй accompli.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_about">
+	<text>On cherche un mec avec assez de couilles pour aller buter des mutants un peu partout. Les Stalkers viennent pas ici parce qu'ils ont trop peur, si on fait rien on pourra plus faire du 'commerce' avec eux... Et alors on devra se barrer d'ici.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_finish">
+	<text> Nickel ! V'lа ton pognon. J'parlerais de toi au patron.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_name">
+	<text>Йliminer la menace ennemie</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_text">
+	<text>Vous avez йtй chargй d'йliminer une menace territoriale au sein de la Zone. Faites un rapport а Olivius quand le travail sera fait.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_about">
+	<text>Des enfoirйs rфdent sur notre territoire. Le patron m'a dit de recruter un mec avec assez de couilles au cul pour aller se les faire tout seul, tous. Qu'est-ce que t'en dis ? T'as assez de poil aux couilles pour tenter ?</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_finish">
+	<text>Ok, bien ! Voilа ton blй. J'dirais au patron que c'est toi qui s'en est chargй.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_name">
+	<text>Chiki-briki i v Damke</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_text">
+	<text>Choppez les Stalkers locaux pour les soulager de leurs objets de valeur jusqu'а ce que votre bande soit satisfaite. Faites-leur leurs sacs а la baston, laissez-pas bйton. Cheeki Breeki !</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_about">
+	<text>Y'а quelques gars qui cherchent un mec pour allez zoner avec eux pendant un certain temps. Ils ont besoin d'un йclaireur pour leur trouver des cibles, et ils te payeront quand ils auront terminй.</text>
+	</string>
+	<!-- val_smart_terrain_7_3_bandit_mechanic_stalker -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_name">
+	<text>Trouvez %s</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_text">
+	<text>Vous avez йtй invitй а rйcupйrer un %s. Ramenez-le а Populik si vous arrivez а mettre la main dessus.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_about">
+	<text>Y m'faut des nouveaux outils, mec. Je peux rien faire avec ces merdes rouillйes et j'suis а court d'huiles pour flingues. Si t'es intйressй d'm'aider, j'vais t'dire ce que tu dois m'trouver.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_about">
+	<text>Je besoin d'un %s. Il devrait contenir les huiles et les outils que j'ai besoin pour bosser sur les flingues. Rapporte-moi un truc comme зa, j'te paierais. Sur la tкte de ma mиre, promis-jurй. Quoi, t'as pas confiance ?</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_finish">
+	<text>Putain ! C'est pile ce que je voulais, mec. J'vais pouvoir bien ameliorer les flingues maintenant !</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_name">
+	<text>Trouvez %s</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_text">
+	<text>Vous avez йtй invitй а rйcupйrer un %s. Il a besoin d'outils plus avancйs pour faire de meilleures amйliorations. Ramenez-le а Populik si vous arrivez а mettre la main dessus.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_about">
+	<text>La boоte а outils qu'tu m'as filй elle est grande, mais y'a pas tout ce qu'il faut. Tu pourrais pas m'en trouver une meilleure ?</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_about">
+	<text>Je besoin d'un %s. J'sais pas oщ y'en a, mais si tu peux en trouver un, j'en ai besoin.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_finish">
+	<text>T'as trouvй les outils ! Bonne affaire, mec. Tiens, v'lа un peu d'pognon.</text>
+	</string>
+</string_table>

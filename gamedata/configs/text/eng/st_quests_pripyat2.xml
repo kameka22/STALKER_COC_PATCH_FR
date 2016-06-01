@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- pri_monolith_monolith_mechanic_stalker -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_name">
+	<text>Trouvez %s</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_text">
+	<text>Vous avez йtй invitй а rйcupйrer un %s. Ramenez-le а Clerc si vous arrivez а en trouver un.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_about">
+	<text>Frиre, je veux que tu fasses quelque chose pour moi. J'ai besoin d'outils particuliers pour amйliorer nos armes.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_about">
+	<text>J'ai besoin d'un %s. Va, maintenant, Frиre.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_finish">
+	<text>Tu as bien fait, Frиre.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_name">
+	<text>Trouvez %s</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_text">
+	<text>Vous avez йtй invitй а rйcupйrer un %s. Il a besoin d'outils plus avancйs pour faire des mises а niveau supйrieures, et accomplir ainsi la volontй du Monolithe. Ramenez-les а Clerc si vous arrivez а mettre la main dessus.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_about">
+	<text>Frиre, il me faut de meilleurs outils. Peux-tu trouver ce que je demande, une fois de plus ?</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_about">
+	<text>Bien, je besoin d'un %s. Cela devrait contenir de meilleurs outils, ceux dont j'ai besoin pour amйliorer nos armes.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_finish">
+	<text>Bien. tu me les a apportй, pour moi et le Monolithe.</text>
+	</string>
+	<!-- pri_monolith_monolith_trader_stalker -->
+	<string id="pri_monolith_monolith_trader_stalker_task_1_name">
+	<text>Vaincre vos ennemis</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_text">
+	<text>Vous avez йtй chargй de conquйrir une menace territoriale dans une zone. Faites votre rapport а Krolik une fois le travail terminй.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_about">
+	<text>Frиre, j'ai vu le Monolithe en rкve, et Il m'a parlй. Il m'a confiй une mission importante pour toi. Tu dois voyager dans la Zone, et y йliminer une grande menace pour nos forces. Es-tu prкt а accomplir la volontй du Monolithe ?</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_finish">
+	<text>Ta mission est terminйe ? Bien, frиre. Le Monolithe sera satisfait. GLOIRE AU MONOLITHE !</text>
+	</string>
+</string_table>

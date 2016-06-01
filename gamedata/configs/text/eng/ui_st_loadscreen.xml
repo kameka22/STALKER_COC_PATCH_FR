@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="ls_header">
+	<text>100 CONSEILS ZONE DE SURVIE</text>
+	</string>
+ 
+	<string id="ls_tip_number">
+	<text>Astuce #</text>
+	</string>
+ 
+	<string id="ls_tip_1">
+	<text>Visitez les forums de l'йquipe EPIC а www.epicstalker.com pour des nouvelles, des informations et conseils et d'autres mйdias telles que des vidйos. Profitez-en pour leur dresser un autel et leur rendre gloire а genoux, parce que le travail qu'ils ont fait pour ce mod est formidable. sйrieux.</text>
+	</string>
+ 
+	<string id="ls_tip_2">
+	<text>Si des objets vous alourdissent et que vous ne voulez pas les vendre, vous pouvez utiliser un sac а dos pour crйer une cachette. Quand vous retirez tous les objets d'une cachette, le sac а dos reviendra dans votre inventaire. Magie.</text>
+	</string>
+ 
+	<string id="ls_tip_3">
+	<text>Le poids que vous portez rйduit votre endurance. L'excиs de poids va restreindre votre mobilitй, et кtre complиtement surchargй vous empкchera de vous dйplacer. Genre а 1 gramme prйs, tu peux plus bouger.</text>
+	</string>
+ 
+	<string id="ls_tip_4">
+	<text>Vous pouvez cacher et montrer diffйrents marqueurs sur la carte dans votre PDA en utilisant des filtres. Les boutons de filtrage sont situйs au-dessus de la carte, sous le rйsumй de la mission actuelle. C'est trиs utile. Si.</text>
+	</string>
+ 
+	<string id="ls_tip_5">
+	<text>Certaines combinaisons ont des casques intйgrйs. Il est impossible d'utiliser d'autres types de casques avec de ces combinaisons. Ouais, c'est chiant. Mauvaise idйe, GSC.</text>
+	</string>
+ 
+	<string id="ls_tip_6">
+	<text>Pour attendre la fin d'une йmission, mettez-vous а couvert dans un bвtiment solide ou sous terre. Quand une йmission arrive, l'abri le plus proche sera marquй sur votre PDA. Courez sans vous retourner.</text>
+	</string>
+ 
+	<string id="ls_tip_7">
+	<text>La 'weapon flatness' affecte la trajectoire de la balle, tandis que l'ergonomie dйtermine le temps qu'il lui faut pour revenir а sa position initiale aprиs le tir. C'est pas gйnial, mais faut faire avec.</text>
+	</string>
+ 
+	<string id="ls_tip_8">
+	<text>Vous pouvez utiliser un bandage, une trousse de secours militaire ou des mйdicaments Vinca pour arrкter le saignement. Si vous ne le traitez pas rapidement, le saignement peut sйrieusement affecter votre santй. Alors, bandez. VOS PLAIES !!!</text>
+	</string>
+ 
+	<string id="ls_tip_9">
+	<text>Les mйdicaments ne prennent pas effet immйdiatement et certaines durent assez longtemps. Alors reprenez-en.</text>
+	</string>
+ 
+	<string id="ls_tip_10">
+	<text>Vous pouvez accйder а des informations dйtaillйes sur la mission actuelle en appuyant sur "$$ACTION_SCORES$$". Mais il faudra lire, aussi.</text>
+	</string>
+ 
+	<string id="ls_tip_11">
+	<text>Vous pouvez dйcharger les armes que vous trouverez pour obtenir plus de munitions. Pour зa, clic-droit sur l'arme dans votre sac а dos, puis sйlectionnez l'action appropriйe dans le menu contextuel. Les actions inappropriйes ne seront pas tolйrйes.</text>
+	</string>
+ 
+	<string id="ls_tip_12">
+	<text>Pour utiliser un objet via l'emplacement d'usage rapide, faites-le glisser de votre sac а dos vers l'un des quatre emplacements au-dessus des conteneurs а artefacts. Dans votre inventaire. Avec votre souris. P'tain faut tout vous dire.</text>
+	</string>
+ 
+	<string id="ls_tip_13">
+	<text>Vous avez besoin d'un dйtecteur pour trouver des artйfacts. Les meilleurs dйtecteurs facilitent la recherche et peuvent mкme dйtecter les artйfacts les plus prйcieux. MON PRЙCIEUUUUX !!!</text>
+	</string>
+ 
+	<string id="ls_tip_14">
+	<text>Stalkers n'aiment pas lorsque vous pointez votre arme sur eux et vous demanderont de la cacher si ils se sentent menacйs. Vous devriez rengainer votre arme avant de leur parler. C'est plus poli.</text>
+	</string>
+ 
+	<string id="ls_tip_15">
+	<text>Vous pouvez localiser les bords d'une anomalie en jetant des boulons. Pour sortir un boulon, appuyez sur"$$ACTION_WPN_6$$". Pour ranger un boulon, faites l'inverse. C'est pas compliquй.</text>
+	</string>
+ 
+	<string id="ls_tip_16">
+	<text>L'une des menaces les plus courantes dans la Zone sont les radiations. Une exposition sйrieuse nuira а votre santй et peut кtre fatale sans traitement adйquat. Quand c'est adйquat, tout va.</text>
+	</string>
+ 
+	<string id="ls_tip_17">
+	<text>En plus de vous soulager de la faim, la nourriture peut aussi lйgиrement amйliorer votre santй. Me demandez pas pourquoi.</text>
+	</string>
+ 
+	<string id="ls_tip_18">
+	<text>Les boissons йnergisantes amйliorent temporairement votre rйcupйration d'endurance, ce qui augmente votre potentiel de mobilitй. Enfin vous courez plus longtemps, quoi.</text>
+	</string>
+ 
+	<string id="ls_tip_19">
+	<text>Prenez un peu de nourriture avec vous quand vous partez pour un long raid. Si vous avez vraiment faim, votre rйcupйration d'endurance en souffrira grandement. Alors, mangez.</text>
+	</string>
+ 
+	<string id="ls_tip_20">
+	<text>Une faible endurance peut vous rendre immobile et vulnйrable а une attaque de l'ennemi dans les moments cruciaux. Et c'est vraiment rageant.</text>
+	</string>
+ 
+	<string id="ls_tip_21">
+	<text>Vous pouvez surveiller votre йtat de dissimulation а l'aide des indicateurs de dйtection de bruit et ennemis situйs dans le coin supйrieur gauche de l'йcran. Mкme si c'est abuser.</text>
+	</string>
+ 
+	<string id="ls_tip_22">
+	<text>Avoir un dйtecteur dans une main ne vous empкche pas d'utiliser un couteau, un pistolet ou un boulon avec l'autre. C'est l'intйrкt d'avoir deux mains.</text>
+	</string>
+ 
+	<string id="ls_tip_23">
+	<text>Vous pouvez basculer certaines donnйes ou dйsactivйe via les boutons situйs en haut de votre PDA. Si зa vous amuse.</text>
+	</string>
+ 
+	<string id="ls_tip_24">
+	<text>Le symbole de la goutte de sang dans le coin en bas а droite de l'йcran vous avertit d'un saignement et de la nйcessitй de l'arrкter. La couleur du symbole indique la gravitй de l'hйmorragie. C'est з'lаaaa oui...</text>
+	</string>
+ 
+	<string id="ls_tip_25">
+	<text>Un symbole de danger de radiation dans le coin en bas а droite de l'йcran vous avertit que vous avez йtй exposй а des radiations. Dans ce cas, utilisez des mйdicaments anti-radiations. La couleur du symbole indique а quel point vous кtes irradiй. Protip: si vous brillez dans le noir, c'est qu'il y a un problиme.</text>
+	</string>
+ 
+	<string id="ls_tip_26">
+	<text>Vos relations avec les gens influent directement sur le prix des biens et services qu'ils vous proposent. Si vous n'кtes pas en bons termes, ne vous attendez pas un rabais. Mais si vous vous entendez bien, le commerзant pourrait mкme кtre enclin а vous offrir quelque chose de spйcial. Bon, quand mкme pas une gвterie non plus, hein, mais un truc spйcial.</text>
+	</string>
+ 
+	<string id="ls_tip_27">
+	<text>Vous pouvez faire apparaоtre le menu contextuel pour les йlйments de votre sac а dos en plaзant votre souris sur l'йlйment requis et appuyant sur le bouton droit de la souris.</text>
+	</string>
+ 
+	<string id="ls_tip_28">
+	<text>En plus de leurs effets utiles, la plupart des objets sont йgalement radioactifs. Ceci peut кtre compensй en utilisant des objets qui absorbent le rayonnement.</text>
+	</string>
+ 
+	<string id="ls_tip_29">
+	<text>Votre couteau est inefficace lors d'une fusillade contre des ennemis armйs d'armes а feu. Utilisez-le en combat rapprochй ou pour un meutre furtif. Зa paraоt йvident, mais GSC a pensй qu'il fallait quand mкme le prйciser. Genre on vous prend pas pour des cons.</text>
+	</string>
+ 
+	<string id="ls_tip_30">
+	<text>Un dйtecteur est le seul moyen fiable de vйrification des zones anomales en artйfacts. Le doigt mouillй tendu en l'air, зa marche pas.</text>
+	</string>
+ 
+	<string id="ls_tip_31">
+	<text>La plupart des artйfacts resteront invisibles car ils se dйplacent dans l'anomalie jusqu'а ce qu'ils soient identifiйs par votre dйtecteur. Mais faudra le sortir, pour зa. Subtil, hein ?</text>
+	</string>
+ 
+	<string id="ls_tip_32">
+	<text>Les mutants sont plus actifs la nuit, ce qui explique pourquoi les Stalkers prйfиrent attendre la lumiиre du jour avant de s'aventurer dans la Zone. Petits pйteux.</text>
+	</string>
+ 
+	<string id="ls_tip_33">
+	<text>Si vous avez subi une grave exposition aux radiations, utilisez des mйdicaments anti-radiations. Si vous n'en avez pas, utilisez des medkits pour faire face aux premiers symptфmes jusqu'а trouver un mйdecin. Ou bourrez-vous la gueule а la vodka, зa marche aussi.</text>
+	</string>
+ 
+	<string id="ls_tip_34">
+	<text>Beaucoup de Stalkers croient que le lйgendaire Exauceur de Voeux existe et est cachй quelque part dans la centrale nuclйaire de Tchernobyl. Ah, les cons.</text>
+	</string>
+ 
+	<string id="ls_tip_35">
+	<text>Vendre des artйfacts n'est pas la seule faзon de faire de l'argent: le dйchargement des йquipements inutiles peut кtre une entreprise rentable, aussi. Gardez а l'esprit que les commerзants ne sont gйnйralement pas intйressйs par des articles qui sont sйrieusement endommagйs. Donc ta merde rouillйe, tu peux te la garder.</text>
+	</string>
+ 
+	<string id="ls_tip_36">
+	<text>Pour rйparer un йlйment vous devrez trouver un technicien et cliquer sur le bouton de rйparation une fois que vous avez sйlectionnй le point dans l'йcran de modification. Vous pouvez aussi faire clic-droit sur l'objet dans la mкme fenкtre pour sйlectionner l'action appropriйe dans le menu contextuel. А condition que зa reste appropriй.</text>
+	</string>
+ 
+	<string id="ls_tip_37">
+	<text>Les mйcaniciens exigeront des outils spйciaux pour certaines mises а niveau. Leur en ramener leur permettra d'amйliorer encore vos armes et йquipements. Genre parce que vous lui rapportez un tournevis cruciforme, un mйcano peut transformer un fusil а pompe en fusil automatique. Si.</text>
+	</string>
+ 
+	<string id="ls_tip_38">
+	<text>Pour dйtacher de votre arme un silencieux, une lunette ou un lance-grenades, clic-droit sur l'arme dans votre sac а dos, puis sйlectionnez l'action appropriйe dans le menu contextuel. Parce que si vous sйlectionnez une action inappropriйe, зa va pas le faire.</text>
+	</string>
+ 
+	<string id="ls_tip_39">
+	<text>Diffйrentes factions ont des rapports diffйrents. Ce n'est pas parce le Devoir est hostile а la Libertй que зa veut dire que le Firmament et toutes les autres factions le sont aussi. -Vous avez captй la rйfйrence Libertй-Devoir ? Sans dйconner, c'йtait bien vu, c'est rare de voir un truc intelligent dans un jeu vidйo.</text>
+	</string>
+ 
+	<string id="ls_tip_40">
+	<text>Si vous souhaitez dйplacer avec un minimum de bruit, appuyez sur $$ACTION_ACCEL$$de marcher ou $$ACTION_CROUCH$$ pour vous accroupir. Sinon, ben courez.</text>
+	</string>
+ 
+	<string id="ls_tip_41">
+	<text>Les fusils de chasse sont des armes de combat rapprochй. Plus votre ennemi est loin de vous, moins ils sont efficaces. Donc faut se rapprocher. C'est tout con, la vie.</text>
+	</string>
+ 
+	<string id="ls_tip_42">
+	<text>En vous mettant а couvert lors d'une fusillade, assurez-vous de vous cacher derriиre quelque chose de solide. Contrairement aux murs de bйton, les planches de bois et de tфle ne font pas des couverts trиs sыrs. En mкme temps, contre un RPG-7, tout le monde est йgal.</text>
+	</string>
+ 
+	<string id="ls_tip_43">
+	<text>Contre les Psi-tempкtes, les йmissions et les retombйes acides, vous aurez besoin de vous mettre а l'abri. Restez debout а l'air libre pendant ces йvйnements a des consйquences. Du genre devoir recharger une partie.</text>
+	</string>
+ 
+	<string id="ls_tip_44">
+	<text>Les bandages doivent кtre utilisйs immйdiatement pour arrкter les saignements. En saigant vous perdrez graduellement de la santй et finirez par devoir utiliser une trousse de secours. Tout зa pour avoir voulu йconomiser un bandage. Ce serait con, quand mкme.</text>
+	</string>
+ 
+	<string id="ls_tip_45">
+	<text>Chaque type de mutant dans la zone a ses propres traits de combat. Si vous prenez зa en compte, vous serez beaucoup plus de chances de survivre. Quoiqu'une roquette de RPG-7, зa marche pour tout, aussi.</text>
+	</string>
+ 
+	<string id="ls_tip_46">
+	<text>La vodka, une alternative pas chиre aux mйdicaments antirad, est la meilleure faзon de rйduire les effets des radiations sur l'organisme. Enfin, le tout c'est d'y croire.</text>
+	</string>
+ 
+	<string id="ls_tip_47">
+	<text>Les ennemis peuvent et vont utiliser des grenades. Quand vous voyez l'indicateur de grenade, quittez immйdiatement la zone dangereuse. COURS, FOREST, COURS !!! </text>
+	</string>
+ 
+	<string id="ls_tip_48">
+	<text>Courir avant de sauter vous permet de surmonter les grands fossйs et les fissures dans le sol. Зa s'appelle prendre de l'йlan.</text>
+	</string>
+ 
+	<string id="ls_tip_49">
+	<text>Les principaux indicateurs qui montrent votre santй et l'endurance sont situйs dans le coin en bas а droite de l'йcran. Et ils vous pourrissent l'immersion, donc virez-les avec un mini-mod dйs que possible. Mille mercis а XoBAR !</text>
+	</string>
+ 
+	<string id="ls_tip_50">
+	<text>Les mines papillon peuvent кtre utilisйes pour tendre des embuscades contre les autres Stalkers ou les mutants. Assurez-vous de ne pas rester а cфtй aprиs leur placement, parce qu'elles explosent peu importe si vous кtes ami ou ennemi. C'est ballot.</text>
+	</string>
+ 
+	<string id="ls_tip_51">
+	<text>La prйcision de vos tirs souffre considйrablement lorsque vous кtes en dйplacement. Restez immobile ou accroupi pour l'amйliorer. On est pas au cinйma.</text>
+	</string>
+ 
+	<string id="ls_tip_52">
+	<text>Les petits boulots ne sont pas offerts exclusivement par les commerзants et les mйcaniciens. Les membres ordinaires de votre faction peuvent avoir quelque chose pour vous, aussi. Mкme si ils paieront moins, les radins.</text>
+	</string>
+ 
+	<string id="ls_tip_53">
+	<text>La Zone a une vie propre, ce qui signifie qu'il y a toujours une chance de se cogner des mutants ou des Stalkers ennemis dans les zones que vous avez pourtant dйjа explorйes. C'est ce qui fait le charme, le gйnie et la gloire de la sйrie STALKER. Sйrieux, pourquoi jouer а autre chose ? </text>
+	</string>
+ 
+	<string id="ls_tip_54">
+	<text>Restez en alerte dans la Zone et ne comptez pas sur les anciennes informations. Lorsque vous revenez dans un champ d'anomalie vous avez dйjа explorй, vous pouvez constater que l'ancien chemin йprouvй est plus disponible. Souvent, vous devez recharger votre partie, du coup, parce que vous кtes mort.</text>
+	</string>
+ 
+	<string id="ls_tip_55">
+	<text>Les artйfacts ne sont gйnйralement pas statiques: ils ont tendance а se dйplacer dans un champ d'anomalie. Tenter de pourchasser un artйfact sans rйflйchir vous entraоnera dans une anomalie en peu de temps. Et vous aurez l'air con. Ou mort.</text>
+	</string>
+ 
+	<string id="ls_tip_56">
+	<text>Certains produits mйdicaux ont des propriйtйs uniques. Par exemple, Hercules vous permet de transporter temporairement plus de poids, alors que les mйdicaments psi-bloquants vous aident а rйsister aux psi-attaques sur votre cerveau. Ce qui est psi-trop bien.</text>
+	</string>
+ 
+	<string id="ls_tip_57">
+	<text>Certains Stalkers peuvent vous offrir des services tels que des informations, des produits exclusifs, ou vous passer des commandes pour des artйfacts spйcifiques. Mais on peut pas les tuer pour leur reprendre aprйs paiement. C'est con.</text>
+	</string>
+ 
+	<string id="ls_tip_58">
+	<text>Parler aux Stalkers peut fournir des renseignements utiles sur de nouveaux domaines ou les йvйnements rйcents. Зa aide aussi а briser la solitude et l'isolement. Ceci йtait un message de SOS Dйtresse-Amitiй.</text>
+	</string>
+ 
+	<string id="ls_tip_59">
+	<text>De nouveaux artйfacts peuvent apparaоtre dans les champs d'anomalies que vous aviez dйjа explorйs aprиs une йmission. D'oщ l'intйrкt d'y faire un tour aprиs.</text>
+	</string>
+ 
+	<string id="ls_tip_60">
+	<text>Vous pouvez placer une arme dans n'importe quel des deux emplacements d'armes. Cela vous permet de crйer des combinaisons flexibles, tels que le fusil d'assaut/fusil et pistolet/fusil de sniper. Mкme si dans les faits, fusil d'assaut/fusil est la combinaison gagnante а tous les coups. Йquilibrage mal branlй.</text>
+	</string>
+ 
+	<string id="ls_tip_61">
+	<text>Chaque commerзant vous rencontrez dans divers camps de Stalkers offre sa propre gamme de produits. Par d'exemple, des mйdecins ont la meilleure sйlection de produits mйdicaux. Et les armuriers la meilleure sйlection d'armes. Tout se tient.</text>
+	</string>
+ 
+	<string id="ls_tip_62">
+	<text>Si vous arrivez а un camp de Stalkers blessй ou empoisonnй par les radiations, vous pouvez demander l'assistance du mйdecin local. Mais c'est pas gratuit. Hippocrate mon cul, oui. (jeu de mot cachй)</text>
+	</string>
+ 
+	<string id="ls_tip_63">
+	<text>Dйtruisez toutes les boоtes et les petits conteneurs mйtalliques que vous voyez pour les ouvrir  - au couteau, en tirant dessus si vous avez des balles а gaspiller, ou а la grenade et а la roquette si vous aimez rire. Vous pouvez trouver de la nourriture ou des articles mйdicaux que vous pouvez ensuite utiliser ou vendre. Et c'est bien normal.</text>
+	</string>
+ 
+	<string id="ls_tip_64">
+	<text>Si vous avez besoin d'attendre une heure spйcifique, vous pouvez faire une sieste au camp pour passer le temps. Pour ce faire, trouver l'aire de repos, appuyez sur"$$ACTION_USE$$" et choisissez combien de temps vous voulez dormir. Un suppo', et au lit.</text>
+	</string>
+ 
+	<string id="ls_tip_65">
+	<text>Le dispositif de vision nocturne dans votre casque peut кtre mis а niveau vers une version de nouvelle gйnйration. Зa permettra d'йlargir considйrablement sa portйe et sa luminositй. Comme зa, on a plus peur du tout, la nuit.</text>
+	</string>
+ 
+	<string id="ls_tip_66">
+	<text>Si vous voulez survivre, faites toujours attention au crйpitement du compteur Geiger, qui vous avertit des radiations, et а l'alarme sonore qui vous permet de savoir que vous кtes а proximitй d'une anomalie. Ou vous ferez vite 'splortch'.</text>
+	</string>
+ 
+	<string id="ls_tip_67">
+	<text>Lorsque vous errez dans la Zone, ayez un petit stock de munitions de rechange sur vous - c'est pratique. Et c'est toujours mieux que devoir essayer de se faire un Pseudogйant au couteau.</text>
+	</string>
+ 
+	<string id="ls_tip_68">
+	<text>Rappelez-vous de sauvegarder rйguliиrement votre partie  - зa vous йvitera de devoir recommencer encore et encore la mкmes partie а plusieurs reprises. C'est l'expйrience qui parle, vous jouez а STALKER aprиs tout.</text>
+	</string>
+ 
+	<string id="ls_tip_69">
+	<text>Pour utiliser les mйdicaments de faзon appropriйe, il est utile de savoir ce qu'ils font. Consultez les descriptions des mйdicaments pour connaоtre les effets de certains mйdicaments. Vous aussi, soyez appropriй.</text>
+	</string>
+ 
+	<string id="ls_tip_70">
+	<text>Utilisez des grenades pour attaquer les ennemis а couvert. Gardez а l'esprit le rayon d'explosion de la grenade pour йviter de blesser les Stalkers amis. Remarquez, зa peut кtre marrant aussi.</text>
+	</string>
+ 
+	<string id="ls_tip_71">
+	<text>Pour supprimer un article de votre sac а dos, clic-droit sur l'йlйment et sйlectionnez l'action appropriйe dans le menu contextuel. Attention, faut que зa soit appropriй.</text>
+	</string>
+ 
+	<string id="ls_tip_72">
+	<text>Vous pouvez utiliser un paramиtre spйcial dans le menu des options pour que le jeu sauvegarde automatiquement votre progression а des points clйs. C'est l'auto-sauvegarde, et c'est pour les nuls. Retournez jouer а Call of Duty.</text>
+	</string>
+ 
+	<string id="ls_tip_73">
+	<text>Lorsque vous rentrez au camp vous pouvez rйparer votre йquipement, vendre le butin inutile et reconstituer vos munitions et fournitures mйdicales. Ou continuer а vous balader avec une arme rouillйe, une armure trouйe, et plus rien dans les poches.</text>
+	</string>
+ 
+	<string id="ls_tip_74">
+	<text>Vous pouvez modifier la difficultй du jeu а tout moment dans le menu 'jeu' des options. Vous aurez l'air d'un p'tit pйteux qui assume pas de jouer hardcore, mais tant que personne vous voit, зa va.</text>
+	</string>
+ 
+	<string id="ls_tip_75">
+	<text>Pour rйduire les effets nocifs des champs d'anomalies que vous traverserez au cours de vos raids dans la zone, utilisez une combinaison de protection, des objets, ou des mйdicaments appropriйs. Ou sinon, mourrez. Et rechargez une partie. Et mourrez encore. Et rechargez. Etc.</text>
+	</string>
+ 
+	<string id="ls_tip_76">
+	<text>Chaque arme a des caractйristiques de prйcision, l'ergonomie, les dommages et la cadence de tir qui lui sont propres, vous permettant de choisir celle qui vous convient le mieux parmi une grande sйlection d'armes et d'йquipements. Moi j'dis plus c'est prйcis mieux c'est, enfin bon, aprиs chacun ses goыts.</text>
+	</string>
+ 
+	<string id="ls_tip_77">
+	<text>En plus des armes et des munitions, des cadavres ennemis peuvent contenir des objets de valeur tels que les PDA avec des informations sur eux. Au pillage, les gens !</text>
+	</string>
+ 
+	<string id="ls_tip_78">
+	<text>Les artйfacts ne sont pas seulement un butin de valeur: en plus d'кtre lйgers et de se vendre cher, ils peuvent souvent avoir des effets extrкmement utiles. Et ils font de la belle lumiиre, parfois. C'est toujours mieux quand c'est joli.</text>
+	</string>
+ 
+	<string id="ls_tip_79">
+	<text>En raison de l'environnement de la Zone, de nombreux mutants sont radioactifs. Manger de la viande de mutant dйpecй sans protection adйquate contre les radiations est extrкmement dangereux. M'enfin bon, avec un peu de vodka, зa passe. Et c'est toujours moins cher que de manger des conserves.</text>
+	</string>
+ 
+	<string id="ls_tip_80">
+	<text>Certaines armes vous permettent d'installer une lunette longue portйe rйglable. Pour rйgler le degrй de zoom, appuyez sur"$$ACTION_NEXT_SLOT$$" ou "$$ACTION_PREV_SLOT$$". C'est souvent un peu buggй, mais c'est quand mкme pratique. Si.</text>
+	</string>
+ 
+	<string id="ls_tip_81">
+	<text>La plupart des armes ont plusieurs modes de tir par dйfaut et vous pouvez en ajouter de nouveaux plus tard en achetant des modifications. Pour basculer entre les diffйrents modes de tir, appuyez sur"$$ACTION_WPN_FIREMODE_NEXT$$" ou "$$ACTION_WPN_FIREMODE_PREV$$". Quand c'est bien fait, зa s'appelle faire un Roger Troutman. Mais faut savoir le faire.</text>
+	</string>
+ 
+	<string id="ls_tip_82">
+	<text>Certains endroits sont impossibles а traverser, mкme en position accroupie. Pour vous accroupir aussi bas que possible, appuyez et maintenez"$$ACTION_CROUCH$$" et "$$ACTION_ACCEL$$" simultanйment. C'est un peu foireux, mais on s'y fait.</text>
+	</string>
+ 
+	<string id="ls_tip_83">
+	<text>Pour prendre une capture dйcran, appuyez sur"$$ACTION_SCREENSHOT$$". Et aprйs, partagez-la dans le sous-forum STALKER sur le forum Canard PC. On y est en bonne compagnie, y'а que des gens biens lа-bas. Comme Borovos, Luc Cul, RongeurD'Os et Smurth par exemple.</text>
+	</string>
+ 
+	<string id="ls_tip_84">
+	<text>Pour rйduire vos chances d'кtre touchй par un tir ennemi, ripostez en vous penchant au coin d'un mur. Pour ce faire, hold"$$ACTION_LLOOKOUT$$" ou "$$ACTION_RLOOKOUT$$". Enfin, si vous avez la chance d'avoir un mur tout prиs. En terrain dйcouvert, c'est plus compliquй.</text>
+	</string>
+ 
+	<string id="ls_tip_85">
+	<text>Grвce а un mйcanisme de dйtection de cibles intйgrй, vos jumelles vous permettent d'obtenir non seulement un bon aperзu des objets йloignйs, mais aussi de trouver vos ennemis. Pour sortir vos jumelles, appuyez sur"$$ACTION_WPN_5$$". Moi je dis, c'est cheatй.</text>
+	</string>
+ 
+	<string id="ls_tip_86">
+	<text>Pour activer votre lampe frontale ou la dйsactiver, appuyez sur"$$ACTION_TORCH$$". Qu'est-ce qu'on peut avoir l'air con avec зa sur le front... et on fait une belle cible aussi, on voit direct oщ il faut tirer.</text>
+	</string>
+ 
+	<string id="ls_tip_87">
+	<text>Pour sortir votre boulon, appuyez sur"$$ACTION_WPN_6$$". NON, PAS CE BOULON-LА ! RANGEZ-MOI ЗA !!! </text>
+	</string>
+ 
+	<string id="ls_tip_88">
+	<text>Si vous avez un dispositif de vision nocturne intйgrй dans votre casque, vous pouvez l'activer et le dйsactiver en appuyant sur"$$ACTION_NIGHT_VISION$$". Jour, nuit. Jour... nuit. Jour. Nuit. Jour-nuit. Et ainsi de suite.</text>
+	</string>
+ 
+	<string id="ls_tip_89">
+	<text>Appuyez sur"$$ACTION_QUICK_USE_1$$", "$$ACTION_QUICK_USE_2$$", "$$ACTION_QUICK_USE_3$$", "$$ACTION_QUICK_USE_4$$" pour utiliser l'йlйment appropriй dans votre panneau d'accиs rapide. Mais attention, faut que зa reste appropriй.</text>
+	</string>
+ 
+	<string id="ls_tip_90">
+	<text>Votre PDA a une carte, des informations sur les missions actuelles, vos statistiques personnelles et un message journal. Pour ouvrir votre PDA, appuyez sur"$$ACTION_ACTIVE_JOBS$$". C'est pratique, hein ?</text>
+	</string>
+ 
+	<string id="ls_tip_91">
+	<text>Vous devez sortir votre dйtecteur pour rechercher des artйfacts. Pour ce faire, appuyez sur"$$ACTION_SHOW_DETECTOR$$". Piles non fournies.</text>
+	</string>
+ 
+	<string id="ls_tip_92">
+	<text>Pour suspendre le jeu, appuyez sur"$$ACTION_PAUSE$$". C'est ce qu'on appelle 'faire une pause'. Vous pouvez aller pisser, boire un coup, enfin ce que vous voulez quoi.</text>
+	</string>
+ 
+	<string id="ls_tip_93">
+	<text>Pour faire une Sauvegarde Rapide, appuyez sur"$$ACTION_QUICK_SAVE$$". Appuyez sur"$$ACTION_QUICK_LOAD$$" pour QuickLoad-er la derniиre Sauvegarde Rapide. Et croyez-moi, зa, vous allez vite le savoir par coeur.</text>
+	</string>
+ 
+	<string id="ls_tip_94">
+	<text>La course est le meilleur moyen de se dйplacer, mais aussi le plus fatigant. Appuyez sur"$$ACTION_SPRINT_TOGGLE$$"а courir. Ou vous pouvez marcher, sinon.</text>
+	</string>
+ 
+	<string id="ls_tip_95">
+	<text>Tirer en visant est beaucoup plus prйcis que le tir а la hanche. Pour viser, appuyez sur"$$ACTION_WPN_ZOOM$$". C'est pourtant йvident.</text>
+	</string>
+ 
+	<string id="ls_tip_96">
+	<text>Si vous avez un lance-grenade sur votre arme, vous pouvez basculer entre зa et le mode de tir normal en appuyant sur"$$ACTION_WPN_FUNC$$". Dйchainez la puissance de la Fonk.</text>
+	</string>
+ 
+	<string id="ls_tip_97">
+	<text>Si vous avez plusieurs types de munitions pour votre arme actuelle, vous pouvez basculer entre eux en appuyant sur"$$ACTION_WPN_NEXT$$". Esprit tactique ma couille, tu peux pas test.</text>
+	</string>
+ 
+	<string id="ls_tip_98">
+	<text>Pour recharger votre arme avant que son chargeur soit vide, appuyez sur"$$ACTION_WPN_RELOAD$$". C'est mieux.</text>
+	</string>
+ 
+	<string id="ls_tip_99">
+	<text>Pour jeter votre arme actuelle, appuyez sur"$$ACTION_DROP$$". C'est con, mais vous pouvez le faire quand mкme.</text>
+	</string>
+ 
+	<string id="ls_tip_100">
+	<text>Pour regarder dans votre sac а dos, appuyez sur"$$ACTION_INVENTORY$$". Vous y trouverez plein de bonnes choses. QUoique, en fait зa dйpend.</text>
+	</string>
+ 
+</string_table>

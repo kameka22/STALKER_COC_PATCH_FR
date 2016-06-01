@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<!------------------ bar_visitors_barman_stalker_trader ----------->
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_11">
+		<text>Salut, mec. Quoi de neuf?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_12">
+		<text>De quoi t'as besoin, Stalker?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_13">
+		<text>T'es ici pour acheter des trucs ?</text>
+	</string>
+<!------------------------- bar_visitors_stalker_mechanic ------------------------>
+	<string id="bar_visitors_stalker_mechanic_start_dialog_1">
+		<text>Hй gars, comment va la Zone? Alors ... J'espйre que t'es lа pour me faire faire des rйparations... Hй, j'ai salement besoin d'argent...</text>
+	</string>
+</string_table>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<!------------------- yan_ecolog_kruglov   -------------->
+	<string id="yan_ecolog_kruglov_start_dialog_1">
+	<text>Salutations, Stalker.</text>
+	</string>
+<!------------------- yan_ecolog_semenov   -------------->
+	<string id="yan_ecolog_semenov_start_dialog_1">
+	<text>Ah, Stalker, que vous faut-il ?</text>
+	</string>
+	<string id="yan_ecolog_semenov_start_dialog_yan_ecolog_semenov_task_1">
+	<text>Il me faut collecter encore d'autres donnйes. Allons trouver d'autres mutants.</text>
+	</string>
+<!------------------- yan_ecolog_vasilyev   -------------->
+	<string id="yan_ecolog_vasilyev_start_dialog_1">
+	<text>Salutations, Stalker.</text>
+	</string>
+<!------------------- yan_stalker_sakharov -------------->
+	<string id="yan_stalker_sakharov_start_1">
+	<text>Bonjour, Stalker. Qu'est-ce qui vous amиne ?</text>
+	</string>
+	<string id="yan_stalker_sakharov_player_query_brain_scorcher">
+	<text>Que pouvez-vous me dire sur le Lobotomisateur ?</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_query_brain_scorcher">
+	<text>Hmmm, eh bien, nos chercheurs sur le terrain ne font que longer les bords de l'installation, ainsi le peu que nous savons est la plupart du temps de l'ordre du ouп-dire. Ce que nous savons avec certitude, ce sont ses effets. Cette chose semble йmettre des ondes envahissant l'esprit de quiconque s'y aventure de trop prиs. Les symptфmes typiques sont des migraines, des hallucinations, la vision en tunnel - et, mкme si cela ne sonne pas trйs professionnel, la phase terminale est la zombification. Si je devais lui donner un nom scientifique, Je pense qu'on pourrait appeler cela un йmetteur psi а distance; mais je dois effectuer des recherches plus poussйes avant de me fixer sur cette conclusion.</text>
+	</string>
+	<string id="yan_stalker_sakharov_player_query_psi_helmet">
+	<text>Professeur, j'ai besoin d'un йquipement de protection anti-psy. Je dois traverser la zone du Lobotomisateur et sans зa, je ne pourrais pas survivre.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_query_psi_helmet">
+	<text>Je suppose que vous comprenez combien il est risquй de traverser ou mкme simplement d'approcher ces zones psychiquement volatiles, n'est-ce pas ? ... Oh, bon, je pense que c'est le cas, vous ne viendriez pas m'en parler sinon... Eh bien, il y a ce casque de psi-protection, un modиle sur lequel nous avons travaillй avec soin, mais il est encore inachevй, il manque quelques calibrations finales. Nous pouvons vous donner le psi-casque dиs maintenant pour la modique somme de 10.000 RU, mais alors vous allez avoir а faire face aux risques que comporte l'utilisation un matйriel non finalisй ! Il y a une autre possibilitй cependant: nous pouvons accйlйrer nos travaux sur le processus de calibrage, mais cela nous obligerait а y consacrer plus d'argent, et vous а attendre. Il vous en coыterait environ 17 500 RU, une fois que vous nous apporterez cet argent, nous commencerons immйdiatement а travailler pour terminer nos йtalonnages, ce qui devrait durer environ deux jours, а prendre ou а laisser.</text>
+	</string>
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_1">
+	<text>Je suis pressй - Je vais prendre le prototype.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_1">
+	<text>Si vous insistez... Mais je suis sыr que votre aventure exige un йquipement en йtat de fonctionnement otpimal... Oh, j'oubliais presque: vous pouvez toujours vous adresser de nouveau а nous pour le calibrage final, au besoin. Si vous sentez que quelque chose ne va pas, n'allez pas plus loin et revenez immediatement nous voir. Nous ne pouvons nous permettre aucune perte ! ... Bien, alors ce sera environ 10.000 RU.</text>
+	</string>
+ 
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_2">
+	<text>Voilа l'argent. Merci, professeur.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_2">
+	<text>Trиs bien. Mais je voudrais que vous le testiez, d'abord. Vous pouvez nous aider en dйsactivant le psi-йmetteur dans le laboratoire, juste au nord d'ici. Espйrons que le casque vous protйgera bien, malgrй tout...</text>
+	</string>
+ 
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_3">
+	<text>Je suis dйcidй а vous laisser terminer votre travail. Calibrez soigneusement ce casque, s'il vous plaоt.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_3">
+	<text>Vous ne pouvez pas savoir combien c'est un soulagement pour moi et mes collиgues. Nous laisser faire l'йtalonnage final va grandement rйduire le risque de votre dйcиs, nous ne voulons vraiment pas devoir кtre coupables de vous avoir fourni un appareil non testй... Bien, alors, puisque vous nous avez dйjа aidй financiиrement, le calibrage final devrait vous coыter environ 8000 RU. Et vous devrez attendre environ deux jours pour que nos travaux soient finalisйs.</text>
+	</string>
+ 
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_1">
+	<text>J'espиre que ma patience vaudra la version entiиrement calibrйe.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_1">
+	<text>Bien sыr, vous verrez. Une fois que nous aurons fini de travailler sur ce casque, vous serez en mesure de vous promener partout dans la Zone librement, sans courir aucun risque, car son potentiel de psi-protection sera maximisй. Alors, donc... Ce sera 17 500 RU.</text>
+	</string>
+ 
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_2">
+	<text>Voilа l'argent.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_2">
+	<text>Merci, Stalker. Je vais commencer l'йtalonnage final dиs maintenant. Venez me revoir dans quelques jours.</text>
+	</string>
+ 
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_3">
+	<text>Il est prкt, maintenant ?</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_3">
+	<text>Oui ! Et voilа. Mais je voudrais que vous le testiez, d'abord. Vous pouvez nous aider en dйsactivant le psi-йmetteur dans le laboratoire, juste au nord d'ici. Le casque devrait vous protйger efficacement.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_3_1">
+	<text>Pas encore. Merci de revenir plus tard.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_3_1">
+	<text>Je vais d'abord y rйflйchir.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_3_1">
+	<text>Trиs bien. Ne vous inquiйtez pas, nous allons mettre de cфtй le psi-casque pour vous, il vous est rйservй.</text>
+	</string>
+<!------------------- yan_merc_guards --------------------->
+	<string id="yan_merc_guards_start_2">
+	<text>T'es au mauvais endroit, mon pote ! Et tu ferais mieux de partir avant que зa se gвte...</text>
+	</string>
+	<string id="yan_merc_guards_start_3">
+	<text>Tu cherches les ennuis ou quoi ? Casse-toi d'ici avant d'en trouver !</text>
+	</string>
+	<string id="yan_merc_guards_start_4">
+	<text>Casse-toi, mon pote. Fais зa, et on restera pacifiques.</text>
+	</string>
+</string_table>

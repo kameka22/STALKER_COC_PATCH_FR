@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- cit_killers_merc_trader_stalker -->
+	<string id="cit_killers_merc_trader_stalker_task_1_name">
+	<text>Contrat de Mercenaire</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_text">
+	<text>Vous avez йtй engagй pour trouver et йliminer cette cible. Paiement quand la tвche sera terminйe.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_about">
+	<text>Le client a une liste de contrats. On a besoin de quelqu'un pour faire ces coups-lа discrиtement. Intйressй ?</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_finish">
+	<text>C'est fait ? Parfait. Voila ton pourcentage:</text>
+	</string>
+	<!-- cit_killers_merc_mechanic_stalker -->
+	<string id="cit_killers_merc_mechanic_stalker_task_1_name">
+	<text>Trouvez %s</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_text">
+	<text>Vous avez йtй invitй а rйcupйrer un %s. Ramenez-les а Toad si vous arrivez а mettre la main dessus.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_about">
+	<text>J'ai une proposition pour toi. Si tu peux me trouver de nouveaux outils, tu recevras un paiement. Partant pour ca ?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_about">
+	<text>Bien. Je l'ai cherchй partout pour un %s. Ce truc devrait contenir les huiles et les outils qu'il me faut pour bosser sur les armes et les combinaisons. Je te paierais si tu peux me rapporter зa.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_finish">
+	<text>Parfait. C'est ce que je cherchais depuis longtemps, merci!</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_name">
+	<text>Trouvez %s</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_text">
+	<text>Vous devez rйcupйrer un %s. Toad a besoin d'outils plus avancйs pour faire des mises а niveau supйrieures. Ramenez-les lui si vous arrivez а mettre la main dessus.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_about">
+	<text>J'ai une autre proposition. La boite а outils que tu m'a apportй est bien fournie, mais il n'y a pas tout ce qu'il me faut. Tu penses que tu saurais me trouver un meilleur kit ?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_about">
+	<text>Je besoin d'un %s. Je ne sais pas oщ tu peux obtenir un de ceux-ci, mais si vous pouvez en trouver un, je besoin.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_finish">
+	<text>Exactement ce qu'il me fallait. Merci.</text>
+	</string>
+</string_table>

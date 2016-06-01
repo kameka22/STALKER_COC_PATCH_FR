@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<!-- GENERAL -->
+	<string id="dm_universal_actor_start">
+	<text>J'ai un truc а te demander.</text>
+	</string>
+	<string id="dm_universal_actor_exit">
+	<text>Зa fait rien.</text>
+	</string>
+	<string id="dm_universal_actor_agree">
+	<text>Bien.</text>
+	</string>
+	<string id="dm_universal_actor_exit_thanks">
+	<text>Merci.</text>
+	</string>
+	<string id="dm_universal_npc_start_1">
+	<text>Sur quoi ?</text>
+	</string>
+	<string id="dm_universal_npc_start_2">
+	<text>Bien sыr.</text>
+	</string>
+	<string id="dm_universal_npc_start_3">
+	<text>Vas-y.</text>
+	</string>
+	<string id="dm_universal_npc_start_4">
+	<text>Oui ?</text>
+	</string>
+	<string id="dm_no_more_1">
+	<text>Je te l'ai dйjа dit.</text>
+	</string>
+	<string id="dm_no_more_2">
+	<text>J'en sais pas beaucoup plus.</text>
+	</string>
+	<string id="dm_no_more_3">
+	<text>C'est tout ce que je sais. Demande а quelqu'un d'autre.</text>
+	</string>
+	<string id="dm_no_more_4">
+	<text>Bordel, mec. T'as craquй sur moi ou quoi ? Va demander а quelqu'un d'autre.</text>
+	</string>
+	<string id="dm_no_more_5">
+	<text>Y'a pas beaucoup plus а te dire, mec.</text>
+	</string>
+	<string id="dm_no_more_6">
+	<text>Tu peux continuer а poser tes questions а la con, moi j'ai rien de plus а dire.</text>
+	</string>
+	<string id="dm_no_more_7">
+	<text>Laisse tomber, mec.</text>
+	</string>
+	<string id="dm_no_more_8">
+	<text>Une autre fois, mec.</text>
+	</string>
+	<string id="dm_no_more_9">
+	<text>Repasse plus tard, et peut-кtre que je pourrais t'en dire plus.</text>
+	</string>
+	<string id="dm_no_more_10">
+	<text>Ben, je sais pas tout lа-dessus hein, tu as d'autres questions ?</text>
+	</string>
+	<string id="dm_do_not_know_1">
+	<text>Mon pote, si j'avais toutes les rйponses je serais pas dans ce foutu trou а merde.</text>
+	</string>
+	<string id="dm_do_not_know_2">
+	<text>Bonne question. Si tu trouves, partages l'info avec moi, ok ?</text>
+	</string>
+	<string id="dm_do_not_know_3">
+	<text>Tu me poses une colle, mec. Je sais pas.</text>
+	</string>
+	<string id="dm_do_not_know_4">
+	<text>Putain, si je savais ca, mec...</text>
+	</string>
+	<string id="dm_do_not_know_5">
+	<text>y'a toujours quelque chose a faire dans la Zone, mais rien que je voudrais partager avec toi.</text>
+	</string>
+	<string id="dm_do_not_know_6">
+	<text>J'ai rien a te dire, mec. Personne me dit jamais rien, а moi.</text>
+	</string>
+	<string id="dm_do_not_know_7">
+	<text>Tu demandes au mauvais gars.</text>
+	</string>
+	<string id="dm_do_not_know_8">
+	<text>J'aimerais bien savoir зa moi aussi.</text>
+	</string>
+	<string id="dm_do_not_know_9">
+	<text>Dйsolй, je peux pas t'aider.</text>
+	</string>
+	<string id="dm_do_not_know_10">
+	<text>Dйsolй, je ne peux pas t'aider.</text>
+	</string>
+<!-- HELLO -->
+	<string id="dm_hello_general_1">
+	<text>Comment зa va ?</text>
+	</string>
+	<string id="dm_hello_general_2">
+	<text>Hй, mec, quoi d'neuf ?</text>
+	</string>
+	<string id="dm_hello_general_3">
+	<text>Bonjour, comment tu vas ?</text>
+	</string>
+	<string id="dm_hello_1">
+	<text>Salut, frиre.</text>
+	</string>
+	<string id="dm_hello_2">
+	<text>Salutations, Stalker.</text>
+	</string>
+	<string id="dm_hello_3">
+	<text>Moi зa va, quoi d'neuf toi ?</text>
+	</string>
+	<string id="dm_hello_4">
+	<text>Bonjour.</text>
+	</string>
+	<string id="dm_hello_5">
+	<text>Quoi de neuf ?</text>
+	</string>
+	<string id="dm_hello_6">
+	<text>Qu'est ce que tu veux ?</text>
+	</string>
+	<string id="dm_hello_7">
+	<text>Jusqu'ici, tout va bien; et toi ?</text>
+	</string>
+	<string id="dm_hello_8">
+	<text>Y'a eu des jours meilleurs, de quoi t'as besoin ?</text>
+	</string>
+	<string id="dm_hello_9">
+	<text>Bonjour !</text>
+	</string>
+	<string id="dm_hello_10">
+	<text>Ouais, qu'est-ce qu'y a ?</text>
+	</string>
+	<string id="dm_hello_11">
+	<text>Va chier, Stalker.</text>
+	</string>
+	<string id="dm_hello_12">
+	<text>Qu'est ce que tu veux?</text>
+	</string>
+	<string id="dm_hello_13">
+	<text>Bon, juste un seule question, mais putain aprйs ca il vaut mieux que tout ce que je voie c'est ton cul et tes coudes.</text>
+	</string>
+	<string id="dm_hello_14">
+	<text>Qu'est-ce qu'y te faut, Stalker ?</text>
+	</string>
+<!-- HELP -->
+	<string id="dm_help_1">
+	<text>Aidez-moi! S'il te plait ... Je meurs ...</text>
+	</string>
+	<string id="dm_help_2">
+	<text>Aide-moi, mec ... Oh bon Dieu, ca fait mal !</text>
+	</string>
+	<string id="dm_help_3">
+	<text>Mec, un mйdikit... Donnes-moi un mйdikit...</text>
+	</string>
+	<string id="dm_help_4">
+	<text>Mec... Mec, sauve-moi !</text>
+	</string>
+	<string id="dm_help_5">
+	<text>Mec, le mйdikit... le 'kit, vite !</text>
+	</string>
+	<string id="dm_help_6">
+	<text>Stalker, aide-moi... file-moi un mйdikit...</text>
+	</string>
+	<string id="dm_help_7">
+	<text>J'suis blessй ... Au secours !</text>
+	</string>
+	<string id="dm_help_8">
+	<text>Putain ! Nique la Zone !</text>
+	</string>
+	<string id="dm_help_9">
+	<text>mйdikit !</text>
+	</string>
+	<string id="dm_help_10">
+	<text>A l'aide, mec !</text>
+	</string>
+	<string id="dm_help_11">
+	<text>Un mйdikit ! Vite !</text>
+	</string>
+	<string id="dm_help_12">
+	<text>Aide-moi ! J'vais mourir !</text>
+	</string>
+	<string id="dm_help_13">
+	<text>File-moi les premiers soins, gars ! Dйpкche toi !</text>
+	</string>
+	<string id="dm_help_14">
+	<text>Y m'faut une trousse de secours ! Aide-moi !</text>
+	</string>
+	<string id="dm_help_15">
+	<text>Un mйdecin !</text>
+	</string>
+	<string id="dm_help_16">
+	<text>Hй mec, peux-tu partager un medikit ?</text>
+	</string>
+<!-- ANOMALIES -->
+	<string id="dm_anomalies_general_1">
+	<text>Qu'est-ce que tu sais а propos des anomalies ou des artйfacts ?</text>
+	</string>
+	<string id="dm_anomalies_general_2">
+	<text>Tu sais quelque chose sur les anomalies ou les artйfacts ?</text>
+	</string>
+	<string id="dm_anomalies_general_3">
+	<text>Qu'est-ce que tu peux me dire sur les anomalies ou les artйfacts ?</text>
+	</string>
+	<string id="dm_anomalies_0">
+	<text>J'ai pas vraiment la tкte а te dire quoi que ce soit.</text>
+	</string>
+	<string id="dm_anomalies_1">
+	<text>Ben, l'anomalie Brыleur peut кtre un peu difficile а voir, mкme pendant la journйe tu ne peux voir qu'une lйgиre brume. Si tu lui balance un de tes boulons зa va renvoyer un grand pilier de flammes dans les airs, donc reste pas trop prиs.</text>
+	</string>
+	<string id="dm_anomalies_2">
+	<text>Les anomalies Comиte sont un peu comme le Brыleur, toutes les deux avec du feu, sauf que celle-lа c'est une grosse boule de flammes flottante, qui vole un peu partout. Le mieux c'est de s'accroupir et de se barrer quand ces trucs passent tout prйs, sinon tu vas avoir le cul brыlй.</text>
+	</string>
+	<string id="dm_anomalies_3">
+	<text>Les Vortex est un genre de truc flottant, зa traоne vers lui tout ce qui passe а proximitй et зa le fait tourbillonner. Si t'es pris lа-dedans, tu finiras en йclaboussure un peu partout.</text>
+	</string>
+	<string id="dm_anomalies_4">
+	<text>Les Tremplins sont ces espйce de boules de gravitй variable, mais tu les touches et whoosh, зa va t'йclater au visage. Tu en trouveras partout, et tu vas probablement les entendre bourdonner avant de les voir.</text>
+	</string>
+	<string id="dm_anomalies_5">
+	<text>Tu devrais faire gaffe aux Hachoirs, de la poussiиre et des feuilles qui volent c'est un trиs bon signe qu'il y en a une а proximitй. J'ai vu un Croque-Mort se faire attirer dedans quand j'йtais au Cordon, il a commencй а tourbillonner autour jusqu'а ce qu'il finisse par se dйchirer en morceaux juste par la force de l'anomalie.</text>
+	</string>
+	<string id="dm_anomalies_6">
+	<text>Le Champignon Visqueux est une flaque de merde verte йclatante par terre qui va siffler et te cracher dessus. Tu peux trouver un bon artйfact dedans si tu es assez courageux pour se rester а cфtй, mais зa va te faire fondre la tronche si tu t'approches trop.</text>
+	</string>
+	<string id="dm_anomalies_7">
+	<text>Les anomalies Flore Ardente se trouvent gйnйralement en extйrieur, зa ressemblent а de la mousse ou des vignes, et зa pend comme des rideaux. Ce truc te tire des spores а la gueule si tu cours et que tu les touche, un peu comme un mйcanisme de dйfense.</text>
+	</string>
+	<string id="dm_anomalies_8">
+	<text>Attention aux anomalies de gaz vertes qui flottent au-dessus du sol. C'est acide et si tu essaies de te promener dedans зa va te bouffer les jambes.</text>
+	</string>
+	<string id="dm_anomalies_9">
+	<text>Ouvre les yeux pour repйrer les anomalies Nuage de gaz, si tu vois un ballon d'acide vert se balader, fais le tour ou baisse-toi sinon tu vas ressembler а un Croque-Mort.</text>
+	</string>
+	<string id="dm_anomalies_10">
+	<text>T'as vu ces flaques йlectriques gйantes par terre ? Les scientifiques appellent зa des Electrica. La plupart dйchargent leur йlectricitй si quelque chose se retrouve dedans, mais la moitiй du temps, je jure que зa se met а exploser mкme quand il n'y a rien. Certaines semblent disparaоtre pendant quelques secondes aussi. Si tu calcules bien ton coup, tu peux marcher droit dedans sans aucun problиme.</text>
+	</string>
+	<string id="dm_anomalies_11">
+	<text>Il y a quelques jours, je suis tombй sur cette grosse boule d'йlectricitй flottante, je pense que les intellos l'ont nommй d'aprиs ce mec-lа, qui bossait dans l'йlectricitй, Tesla ou je sais plus quoi. Enfin bref, je suis dans ce couloir et зa se met а bouger -non, а voler de haut en bas. J'ai dы bien calculer mon coup et y aller pas а pas en traversant la piиce, en me cachant derriиre vieilleries et en la laissant me passer devant.</text>
+	</string>
+	<string id="dm_anomalies_12">
+	<text>Tu sais que le Forestier, ce gars, lа, dans la Forкt Rouge, dit qu'il est restй coincй dans une de ces Anomalies Spatiales ? A ce qu'il dit c'йtait comme un immense champ couvert d'herbe, sans fin et sans issue. Jusqu'а ce qu'il trouve un artйfact Boussole, qui lui a montrй la sortie, exactement comme ce que les gens disent. Le Forestier dit qu'il a agressй par une bande de renйgats peu de temps aprиs et qu'il l'a perdu, mais personnellement, je pense que ce vieux fou est juste sйnile.</text>
+	</string>
+	<string id="dm_anomalies_13">
+	<text>Y'a quelques annйes, Firmament a poursuivi un Stalker qui se dirigeait vers la Centrale, on sait tous comment зa a fini, mais il y avait ce mercenaire avec eux, Le Balafrй. Le peu de gens qui ont survйcu а la pagaille disent que ces anomalies qui le tйlйportaient pour se rapprocher du Stalker qu'il suivait ont commencй а apparaоtre partout aprиs, comme si la Zone l'aidait. Ces bizarre, ces conneries.</text>
+	</string>
+	<string id="dm_anomalies_14">
+	<text>T'as dйjа vu des roches dйchiquetйes qui sortent du sol avec un bouquet d'arbres dйformйs а cфtй ? Moi non plus. Mais j'ai entendu qu'il ya quelque chose comme зa dans la Forкt Rouge. Apparemment, ces anomalies Symbiote sont assez bonnes pour les artйfacts, tu peux en trouver toutes sortes dedans.</text>
+	</string>
+	<string id="dm_anomalies_15">
+	<text>Les йcologistes se grattent la tкte au sujet des anomalies Fault. C'est ces fissures, d'immenses fractures dans le sol; elles ont gйnйralement tout un tas de Comиtes et d'autres anomalies en dessous. ils ne savent pas si elles sont juste des champs d'anomalies ou si il y a quelque chose d'autre. А quand remonte la derniиre fois que tu as entendu parler d'un tremblement de terre dans cette partie du monde ?</text>
+	</string>
+	<string id="dm_anomalies_16">
+	<text>Tu n'as pas а devoir ramper а travers les anomalies tout le temps pour trouver des artйfacts. Quelqu'un m'a racontй une histoire sur comment on peut trouver un artйfact dans la nature, sans aller dans un champ d'anomalie. Le dйtecteur d'un Stalker commence а devenir fou, а afficher des conneries, donc le mec rйflйchit et se dit que c'est un condensateur qui est mort. Il le remplace et зa se remet а marcher; Et paf, un artйfact tombe pratiquement dans ses mains.</text>
+	</string>
+	<string id="dm_anomalies_17">
+	<text>Mйfies-toi des Hachoirs et des anomalies Vortex, mec. Absolument dangereux, mкme pour un Stalker expйrimentй. Ce truc t'arrache violemment vers l'intйrieur et зa te secoue comme une poupйe de chiffon. Une fois j'ai vu un mec se faire attraper dedans. Je pensais que j'allais avoir une nouvelle paire de bottes, mais ce tarй a commencй а courir aussi vite qu'il pouvait. Et j'y crois pas, vl'а qu'il a plongй tout droit hors de l'anomalie avant de se faire dйchiqueter.</text>
+	</string>
+	<string id="dm_anomalies_18">
+	<text>Jamais entendu parler des Gravi ? Ce truc ressemble а ce qu'un pseudodog viendrait de chier, mais c'est mйtallique. Les scientifiques sont prкts а bien payer pour ces artйfacts. Je m'emmerderais pas а en chercher, pourtant; toute personne qui en touche un va se mettre а briller dans le noir pendant un mois. Il y a des artйfacts similaires appelйs Goldfish, je suis sыr que tu peux deviner а quoi зa ressemble, c'est encore plus rare. Mieux vaut le garder pour tu si tu en trouve un.</text>
+	</string>
+	<string id="dm_anomalies_19">
+	<text>Le premier artйfact que tu devrais essayer de trouver, c'est une Mйduse. Plus tu mets la main sur des artйfacts qui absorbent les radiations, comme un Tortillon ou une Bulle, plus tu seras protйgй. J'ai dйjа vu trop de Stalkers qui meurent lentement d'irradiation, sans pouvoir trouver un mйdecin ou en йtant trop pauvres pour acheter des antirads.</text>
+	</string>
+	<string id="dm_anomalies_20">
+	<text>J'arrive pas а comprendre ce que les scientifiques font des artйfacts qu'ils achиtent dans la Zone. Tout ce que je sais c'est que pour eux l'argent semble кtre sans limites. Et qu'ils s'en foutent si l'artйfact est positif ou non, plus c'est un artйfact puissant, plus ils paient.</text>
+	</string>
+	<string id="dm_anomalies_21">
+	<text>T'as dйjа entendu parler des Goutelettes ? Ce truc ressemble а une boule de verre sale et pourtant зa brille. Mec, cet artйfact pourrait arrкter le saignement des pires blessures si tu as quelque chose pour absorber son rayonnement. Ne le vends pas si tu en trouve un.</text>
+	</string>
+	<string id="dm_anomalies_22">
+	<text>J'ai plusieurs fois entendu parler d'un truc appelй la Boussole. Semblerait que cet artйfact serait presque parfait, а part le rayonnement qu'il йmet. On dit que зa protиge contre la plupart des risques de la Zone, mais encore mieux, il semblerait que son porteur peut trouver un chemin sыr а travers les pires champs d'anomalies.</text>
+	</string>
+	<string id="dm_anomalies_23">
+	<text>Qu'est-ce que je peux te dire d'autre que les histoires que tout le monde entend ici, autour d'un feu ? Si tu veux un conseil, fais gaffe а tout, tout simplement.</text>
+	</string>
+	<string id="dm_anomalies_24">
+	<text>J'ai souvent entendu des histoires au sujet de certains champs d'artйfact merveilleux encore jamais visitйs qui pourraient faire d'un pauvre Stalker inexpйrimentй un homme riche. Mon avis, c'est que tous ces trucs sont des piиges. Comment peut-on penser а aller entrer dans ces labyrinthes d'anomalies juste par cupiditй ? Surtout sachant que les anomalies peuvent se dйplacer, et donc fermer une sortie et t'emprisonner dedans... quand t'y penses, ces petites choses brillantes qui t'attirent sont parfaites dans leur rфle.</text>
+	</string>
+	<string id="dm_anomalies_25">
+	<text>Tout ce que je peux te dire c'est qu'il faut vraiment faire attention а l'йquipement que tu veux porter, et pourquoi. Ne t'amuse pas а aller faire une chasse а l''artйfact avec un exosquelette blindй lourd. Ce truc peut devenir comme une broche en fer dans les champs йlectriques, et dans des anomalies chimiques зa fondra sur toi comme du chocolat chaud.</text>
+	</string>
+	<string id="dm_anomalies_26">
+	<text>Le plus difficile avec la chasse aux artйfacts, c'est les dйbuts. Si tu peux rйcupйrer un artйfact de protection, alors tu peux explorer d'autres anomalies du mкme type facilement. Puis revendre tes trouvailles, acheter un meilleur йquipement, et ainsi de suite. Aussi, plus tu en traverse et plus tu sauras y faire. Il faut juste кtre trиs prudent, parce que de tes premiйres heures de dйbutant jusqu'а ce que tu deviennes un Stalker expйrimentй, si tu le deviens, la Zone prйpare toujours de nouveaux piиges.</text>
+	</string>
+	<string id="dm_anomalies_27">
+	<text>Reste en bonne condition physique, c'est le conseil le plus intelligent que je peux te donner. La zone peut кtre vraiment dure et parfois йpuisante. tu auras de meilleures chances de survivre а de longs trajets et а leurs dangers inйvitables si ton corps est prкt pour зa. C'est vrai а propos des anomalies aussi: tu crois que que tu peux traverser un champ chimique avec un meute de mutants derriйre toi, aprиs une nuit d'abus de vodka ?</text>
+	</string>
+	<string id="dm_anomalies_28">
+	<text>Beaucoup de Stalkers, encore plus ceux qui boivent rйguliиrement de la vodka, ne font pas attention aux dangers psychiques de la Zone. Et donc, ils meurent quand ils doivent sortir d'un champ psi. C'est une bonne chose d'avoir un йquipement de psi-protection; l'artйfact Clair de Lune peut faire la diffйrence dans les moments dйcisifs. En plus, зa peut кtre utile contre un Contrфleur, par exemple.</text>
+	</string>
+	<string id="dm_anomalies_29">
+	<text>Souviens-toi que certaines personnes ici ne s'embкtent pas а chasser les artйfacts. Ils prйfиrent chasser les humains... en d'autres termes, faire attention aux bandits. C'est bien connu qu'ils ont des commandes au marchй noir pour des artйfact. Ne laisse pas trop de gens savoir quels artйfacts tu as, non plus.</text>
+	</string>
+	<string id="dm_anomalies_30">
+	<text>Tu savais que les artйfacts sont presque indestructibles ? Parfois, il vaut mieux tirer sur l'artйfact pour le faire sortir de l'anomalie, au lieu de se faire aspirer directement dedans.</text>
+	</string>
+	<string id="dm_anomalies_31">
+	<text>Je voudrais avoir connu la Zone dont j'ai entendu parler avant, celle qui йtait comme une terre sans homme. Comment pouvons-nous кtre riche maintenant ? Maintenant que, aprиs chaque йmission, un tas de Stalker se rue vers tous les champs d'anomalie pour ramasser leurs fleurs.</text>
+	</string>
+	<string id="dm_anomalies_32">
+	<text>Pourquoi je devrais te donner des conseils ? Surtout quand c'est sur ce que beaucoup d'entre nous font pour se faire de l'argent ? Bon, ben trouve-toi un bon dйtecteur, зa t'aidera. Les scientifiques doivent probablement avoir ce que tu cherches.</text>
+	</string>
+	<string id="dm_anomalies_33">
+	<text>Beaucoup de nouveaux arrivants fantasment sur 'l'artйfact qui tu rend riche'. Te fatigue pas а зa, mкme si la Zone peut кtre fructueuse, зa prend souvent beaucoup de temps et une йnorme quantitй d'argent pour avoir l'йquipement qui te permettra d'aller а l'intйrieur des zones les plus dangereuses et productives. Bien sыr, tu peux кtre chanceux mais, connaissant cet endroit, je ne voudrais pas compter autant lа-dessus si j'йtais toi.</text>
+	</string>
+	<string id="dm_anomalies_34">
+	<text>Tu sais oщ c'est la Station de Draguage ? C'est un coin bourrй d'anomalies gravitationnelles, mais pas trop mal pour un Stalker expйrimentй. Jette juste des boulons comme d'habitude. Il y a aussi le rayonnement, а l'intйrieur et а l'extйrieur -c'est comme кtre а cфtй d'un morceau massif d'uranium enrichi.</text>
+	</string>
+	<string id="dm_anomalies_35">
+	<text>Parfois, t'as pas besoin de sauter dans les anomalies pour trouver un artйfact. On m'a dit qu'on peut dйcouvrir des artйfacts dans la nature, hors des champ d'anomalies. Un Stalker avait un dйtecteur qui a commencй а avoir des bugs, donc il a dйcidй de changer les piles. Dиs qu'il a fait зa, le dйtecteur montre ses relevйs de lecture et bam, un artйfact lui tombe presque dans les mains. Un sacrй veinard, hein ? C'est зa, la Zone: parfois, elle te punit et parfois elle tu rйcompense.</text>
+	</string>
+	<string id="dm_anomalies_36">
+	<text>L'endroit le plus sыr, c'est le Marais Acide. C'est plein d'anomalies gravitationnelles, mais elles sont faciles а repйrer. Suffit de garder les yeux sur la surface de l'eau et tu ne peux pas te faire avoir. Les anomalies de gaz sont plus dures, parce qu'il n'y a pratiquement pas d'air а respirer. Se faire gicler dessus par зa, зa fait pas plaisir, tu peux me croire. Ce truc te bouffe une combinaison plus vite que l'acide sulfurique.</text>
+	</string>
+	<string id="dm_anomalies_37">
+	<text>Il ya un vieux poste йlectrique ici, aussi appelйe la Forкt de Fer. Tu comprendras quand tu la verra. Certains affirment avoir trouvй des grappes d'artйfacts lа-bas aprиs une йmission. Mais il n'y a pas que toutes ces anomalies dangereuses, principalement йlectriques et un peu de rayonnement ... Il ya aussi quelques Poltergeists, qui va t'enterrer sous une montagne de saloperies а force de te les balancer а la tкte si tu te caches pas а temps.</text>
+	</string>
+	<string id="dm_anomalies_38">
+	<text>Il ya beaucoup d'anomalies calorifiques а la ferme brыlйe sur la colline. Les gens trouvent des artйfacts de feu lа-bas. Regarde dans les maisons: celle qui a le plus d'anomalies aprиs une йmission, c'est oщ les artйfacts sont.</text>
+	</string>
+	<string id="dm_anomalies_39">
+	<text>Y'en a probablement beaucoup dans les grottes sous la ferme brыlйe. Si tu marches sur la colline avec un dйtecteur allumй, il s'arrкte pas de biper. Aller dans les grottes, c'est assez facile -suffit de sauter droit dedans а travers les fissures au-dessus. Sortir c'est le plus difficile, avec toutes les anomalies lа-bas. Surtout les Vortex et l'acide. Certains disent aussi qu'ils ont vu quelque chose ressemblant а une Comиte dans ce trou. Un beau un mйlange de dangers, c'est sыr, mais donc зa veut aussi dire que plusieurs artйfacts diffйrents s'y trouvent.</text>
+	</string>
+	<string id="dm_anomalies_40">
+	<text>T'as dйjа vu une anomalie Cirque ? C'est une йnorme anomalie Tremplin avec deux comиtes qui tournent en rond -un spectacle а voir. Mais а voir de loin, cependant, parce que le Cirque c'est chaud comme l'enfer, avec beaucoup d'anomalies calorifiques. On y trouve beaucoup d'artйfacts, mais ils sont gardйs par une saloperie de Poltergeist de Feu qui essaie de te rфtir quand tu approches.</text>
+	</string>
+	<string id="dm_anomalies_41">
+	<text>C'est cet endroit qu'on appelle La Balafre, oщ le sol a l'air d'avoir йtй tranchй avec une hache. Des gens ont trouvй des artefacts lа-bas, mais une fois que tu y es, une chose йtrange commence а se produire. Un truc frappe ta cerveau si fort que t'en oublierais presque comment respirer, bon courage pour essayer de sortir ton cul de lа.</text>
+	</string>
+	<string id="dm_anomalies_42">
+	<text>Si t'es intйressй par les artйfacts gravitationnels, va les chercher dans l'anomalie Crocs. Le lieu est facile а repйrer -les anomalies ont retournй le terrain, la moitiй de la colline est dйvastйe. Quelques grottes se sont ouvertes dans le sol, et elles ont йtй immйdiatement colonisйes par des Snorks. Heureusement, ils vont rarement а l'extйrieur.</text>
+	</string>
+	<string id="dm_anomalies_43">
+	<text>Il y a un endroit а Zaton oщ des anomalies thermiques ont йmergй sous l'eau. On appelle cela 'La Bouilloire', parce que зa fait de la vapeur qui sort de la terre. Si tu penses que la vapeur c'est rien, dйtrompe-toi. Les Stalkers chevronnйs disent que ce genre d'anomalie vaporeuse ravage autant qu'une anomalie calorifique normale, si pas plus. La tempйrature est peut-кtre un peu plus faible, mais зa te grille sur le long terme. Quant aux artйfacts, ils sont du genre habituel, ceux de feu.</text>
+	</string>
+	<string id="dm_anomalies_44">
+	<text>On dit que c'est un beau coin de fouille dans la carriиre, avec beaucoup d'artйfacts, mais pas mal d'anomalies aussi. Tout au fond il y a tellement de bulles d'anomalies de gaz que зa brыle les yeux, mкme avec un masque а gaz.</text>
+	</string>
+	<string id="dm_anomalies_45">
+	<text>Le Tas de Cendres est au vieux cimetiиre prиs Kopachy. il y a beaucoup d'anomalies calorifiques et des zombies de temps а autre. Les gens essaient d'йviter le coin, mais on trouvent de bons artйfacts lа-bas.</text>
+	</string>
+	<string id="dm_anomalies_46">
+	<text>On dit que des artйfacts ont йtй trouvйs au Parking. Il y a encore des vйhicules qui datent de la premiиre catastrophe de Tchernobyl -ces bйbйs donnent des brыlures d'estomac au compteur de radiations. En plus, l'endroit est plein d'anomalies йlectriques aussi.</text>
+	</string>
+	<string id="dm_anomalies_47">
+	<text>Dans le Bois Putride, oщ les arbres sont tous dйformйs par l'acide. Ceux qui ont йtй lа-bas disent que c'est plein d'anomalies gazeuses. Il y a tellement de gaz chimique dans l'air que tu peux mкme pas voir correctement, mais avec assez d'expйrience, tu peux trouver les trucs que tu cherches.</text>
+	</string>
+	<string id="dm_anomalies_48">
+	<text>Si tu veux des artйfacts, cherche ceux de type acide. Le meilleur endroit pour en trouver c'est dans le Bain de Bйton. Tu auras pas beaucoup de concurrence: les gens aiment pas cet endroit а cause de sa proximitй avec le bвtiment Jupiter.</text>
+	</string>
+	<string id="dm_anomalies_49">
+	<text>Pas loin de l'usine Jupiter un morceau de la route s'est effondrй. On a appelй ce lieu Bitume, parce que le trottoir a carrйment fondu. Il y a beaucoup d'anomalies dans le fossй -des calorifiques mйlangйes avec des gravitationnelles. Et comme il y a deux types d'anomalies, les artйfacts doivent кtre diffйrents йgalement.</text>
+	</string>
+	<string id="dm_anomalies_50">
+	<text>Il y a un petit port au-delа de la Cimenterie appelйe Fen. L'ensemble du port s'est transformй en sale marais puant et l'eau est pleine d'anomalies de gaz. Y'a mкme plus vraiment d'eau en fait, c'est devenu plus comme de l'acide. Les gens ont trouvй des artйfacts lа avant, mais l'endroit grouille de monstres aussi.</text>
+	</string>
+	<string id="dm_anomalies_51">
+	<text>Regarde dans la vieille cimenterie. Beaucoup d'anomalies, mais зa vaut la peine. Bien sыr, il y a des endroits oщ les artйfacts sont plus faciles а trouver, mais зa attire la concurrence aussi. Lа, la seule compйtition c'est les hamsters, et encore que si tu descends dans le sous-sol.</text>
+	</string>
+	<string id="dm_anomalies_52">
+	<text>Tu devrais regarder prиs du Pinchкne. C'est cette chose biscornue entre les collines, au-dessus des anomalies de gaz. Tout le monde l'appelle comme зa depuis qu'un certain connaisseur a identifiй l'йcorce de cet arbre comme йtant а la fois celle du pin et du chкne. Si tu veux chercher des artйfacts lа-bas, t'auras besoin d'une bonne protection chimique. Prends beaucoup de munitions, aussi, parce que ces collines sont occupйes par des meutes et des meutes de chiens, y'en a tout le temps.</text>
+	</string>
+	<string id="dm_anomalies_53">
+	<text>J'ai entendu des Stalkers chevronnйs dire que parfois le artйfacts se dйplacent en dehors des anomalies. Ton dйtecteur commence а faire 'biiip', tu le sors, mais il n'y a rien. Ce qui veut dire qu'un artйfact 'nomade' est passй devant toi, mais зa ne sert а rien de courir aprиs, parce que seule la Zone dйcide qui sera rйcompensй avec.</text>
+	</string>
+	<string id="dm_anomalies_54">
+	<text>Personne n'a encore cherchй d'artйfacts dans Pripyat. Tous ceux que je connais ont seulement йtй lа-bas un court moment, donc reste prudent.</text>
+	</string>
+	<string id="dm_anomalies_55">
+	<text>Je ne sais pas si quelqu'un connaоt les bons coins. Pripyat est encore mal explorй.</text>
+	</string>
+	<string id="dm_anomalies_56">
+	<text>J'irais regarder dans les tunnels souterrains. On dit qu'il y en a des tonnes sous la ville.</text>
+	</string>
+	<string id="dm_anomalies_57">
+	<text>On sait pas grand chose sur ces endroits. Les histoires de Garry, la plupart du temps. Il dit qu'il y a un coin oщ une йnorme vigne pousse sur une anomalie acide, haute comme un immeuble de dix йtages. Peut-кtre qu'il se moque de nous, mais je voudrais aller vйrifier la vigne pour les artйfacts juste au cas oщ.</text>
+	</string>
+ 
+<!-- INFORMATION -->
+	<string id="dm_information_general_1">
+	<text>Quoi de neuf dans la Zone ?</text>
+	</string>
+	<string id="dm_information_general_2">
+	<text>Tu sais ce qui se passe ici ?</text>
+	</string>
+	<string id="dm_information_general_3">
+	<text>Je cherche des informations.</text>
+	</string>
+	<string id="dm_information_0">
+	<text>Je n'ai aucune info.</text>
+	</string>
+	<string id="dm_information_1">
+	<text>L'armйe a mis en place une base dans Agroprom, en plein milieu. L'endroit grouille de chiens et d'autres mutants qui se baladent librement. En soi, rien de si spйcial, mais il y a cette йnorme complexe souterrain plein d'anomalies juste en dessous. Si y'avait pas les soldats je serais dйjа lа-bas en ce moment en train de trimballer tout un tas d'artйfacts.</text>
+	</string>
+	<string id="dm_information_2">
+	<text>Le souterrain d'Agroprom est sous les bвtiments de l'Institut de Recherche. J'entends des choses diffйrentes а ce sujet tout le temps: un jour, on me dit que c'est pleine d'anomalies, parfait pour la chasse aux artйfacts, aprиs, que c'est stйrile et qu'il y a que des mutants, et aprиs, que c'est plein de Contrфleurs et de Poltergeists. Moi, je sais pas ce qu'il faut croire, mais pas moyen que j'aille lа-bas tous les troufions qui patrouillent.</text>
+	</string>
+	<string id="dm_information_3">
+	<text>T'as dйjа йtй au Bar ? Tu as les 100 Rads et l'Arиne juste en face pour te tenir occupй. Une vraie йtoile qui brille au milieu du trou du cul de la Terre, tu trouves pas ? Avant, tout зa c'йtait un complexe industriel gйant, et le Devoir l'a trouvй parfait pour installer leur base d'opйrations lа-bas. Je me plains pas cela dit, ils font un bon travail pour repousser toutes les saloperies au loin, tu verras aucun bandits ou mutant lа-bas.</text>
+	</string>
+	<string id="dm_information_4">
+	<text>Le Cordon est plus calme que la plupart des autres zones. La plupart de rester au village de Rookie nord du cordon militaire rйelle jusqu'а ce qu'ils aient assez de vitesse et de l'expйrience а la tкte plus profondйment dans la zone. tu trouveras Nimble et Sidorovich lа aussi, Agile tu aidera а mettre la main sur engrenage vraiment haut de gamme, le meilleur des meilleurs, alors que Sid assoit dans son bunker oщ il wil tu vendre en contrebande de marchandises; alimentaires, des fournitures mйdicales, tu voyez l'idйe.</text>
+	</string>
+	<string id="dm_information_5">
+	<text>Darkscape relie la pointe Sud de la Vallйe Obscure avec le tunnel а l'Est du Cordon. Plein de forкts, de mutants, de bandits et d'anomalies, mais de toute faзon, tu trouveras toujours un groupe de Stalkers indйpendants lа-bas. Je resterais pas trop prиs de la route а ta place, tu reviendrais brillant la nuit а cause du rayonnement ou tu finirais dйchirй en morceaux par une meute de chiens.</text>
+	</string>
+	<string id="dm_information_6">
+	<text>La Vallйe Obscure est un endroit inhospitalier, rempli d'йpaves rouillйes et de bвtiments en ruine. Il n'y a quelques anomalies а proximitй, oщ tu peux tenter ta chance а la chasse aux artйfacts, mais les bandits occupent l'usine au Nord, alors bonne chance pour pas te faire braquer aprиs.</text>
+	</string>
+	<string id="dm_information_7">
+	<text>La Ville Morte est juste entre Yantar et Limansk, avec tout un rassemblement de mercenaires en plein milieu. Doit y avoir une йnorme cachette d'armes et de mйdicaments lа quelque part, oщ est-ce qu'ils stockeraient tous leurs trucs sinon ? Si tu veux traverser la place sans te faire botter le cul, j'ai entendu qu'on pourrait se faufiler а travers toute la ville par les йgouts. Je peux te dire grand-chose d'autre а part зa, mec.</text>
+	</string>
+	<string id="dm_information_8">
+	<text>Tu sais qu'ils ont jetй dans la Dйcharge toutes leurs machines en ruines et leurs vйhicules aprиs la catastrophe ? Les Stalkers et les bandits ont toujours essayй d'obtenir le meilleur butin, ils s'entre-tuent tout le temps en essayant de ne pas finir bouffй par les mutants. Il y a tout un groupe d'anomalies dans le petit cimetiиre de vйhicules aussi, t'es presque assurй de trouver un artйfact si tu y vas juste aprиs une йmission.</text>
+	</string>
+	<string id="dm_information_9">
+	<text>T'as jamais йtй aux Gйnйrateurs ? Ils sont au Nord au-delа de la Centrale, six d'entre eux disposйs en anneau avec l'ancien Laboratoire de Guerre pas loin, au Sud. Pas grand chose а voir а part quelques vieux labs, mais beaucoup de mutants pour garder ta arme occupйe pendant que t'es lа-bas, si c'est ton truc.</text>
+	</string>
+	<string id="dm_information_10">
+	<text>Nous occupons la quasi-totalitй de l'Hфpital Dйsertй, la plupart des chemins а travers qui mиnent plus loin vers la centrale nuclйaire de Tchernobyl sont clфturйs par un emplacements de mitrailleuses ou des trucs de ce genre. Aucun Stalkers ne va passer par-lа de sitфt.</text>
+	</string>
+	<string id="dm_information_11">
+	<text>Jupiter est encore inoccupйe -un peu comme Zaton, et depuis qu'ils ont rallumй le Lobotomisateur, c'est presque impossible d'aller lа-bas sans mettre ta vie en jeu. Si tu veux pas avoir le cerveaux cramй alors ta seule voie est а travers la Forкt Rouge, mais c'est pas dit que tu traversera tout зa vivant avec les mutants et les anomalies qui se cachent derriиre tous les arbres.</text>
+	</string>
+	<string id="dm_information_12">
+	<text>T'as pensй а voyager а travers le complexe souterrain de Jupiter ? T'auras besoin d'une combinaison avec module respiratoire en circuit fermй а cause du gaz а l'intйrieur, mais зa te fera passer juste en dessous de Pripyat Plaza pour aller directement aux Alentours de Pripyat, donc tu йviteras tous ces tarйs du Monolithe.</text>
+	</string>
+	<string id="dm_information_13">
+	<text>Limansk est une lieu vide, plein de bвtiments et de vйhicules abandonnйs. J'ai entendu que les mercenaires ont essayй de pousser а travers Limansk en partant de la Ville Morte rйcemment, mais ils sont pas allйs trиs loin, ils ont perdu trop d'hommes а cause des anomalies et des mutants.</text>
+	</string>
+	<string id="dm_information_14">
+	<text>Les Marais sont pour la plupart un trou humide et irradiй dans le sol, mais tu trouveras quelques bвtiments et villages abandonnйs ici et la qui valent le pillage. Il y a aussi la base de Firmament, quelque part vers le Sud, un endroit assez isolй.</text>
+	</string>
+	<string id="dm_information_15">
+	<text>Jamais entendu parler des Entrepфts Militaires ? Les mecs de la Libertй y ont йtabli leur base aprиs qu'ils se soient pris une branlйe par des bandits il y a quelques annйes, et ils disent qu'ils protиgent la Zone en dйfendant la Barriиre lа-bas, qui mиne а Radar. C'est de la connerie totale si tu me demandes, si les bandits essayaient de leur mettre une deuxiйme branlйe, tu peux кtre sыr que la Libertй laisserait passer le Monolith pendant ce temps-lа.</text>
+	</string>
+	<string id="dm_information_16">
+	<text>Les Monolithes sont retranchйs dans Pripyat Plaza а ce que j'ai entendu. Pas moyen de passer а travers toutes les anomalies et les mutants avec eux а te tirer dessus tout le temps.</text>
+	</string>
+	<string id="dm_information_17">
+	<text>Tu devrais envisager d'aller vйrifier les Alentours de Pripyat, beaucoup d'anomalies peuvent te rendre riche et tu auras mкme pas а devoir passer par la Place de Prypiat pour y arriver, en plus. Suffit de prendre le passage souterrain de l'usine Jupiter, y'a pas de Monolithes lа-bas.</text>
+	</string>
+	<string id="dm_information_18">
+	<text>Ces salauds ont rallumй le Lobotomisateur quand ils ont repris le Radar, il n'y a aucun moyen de passer de l'autre cфtй de la Zone maintenant, sauf si tu as envie de servir de bouffe а la faune locale ou d'кtre transformй en l'un de ces zombies comme ceux qu'on voit а Yantar.</text>
+	</string>
+	<string id="dm_information_19">
+	<text>De plus en plus de Stalkers se sont fait tuer en essayant de franchir la Forкt Rouge depuis la reprise du Radar par les Monolithes. Le Forestier ne peut pas faire grand-chose avec leur йquipement pour aider, et je ne me sens pas d'aller coller mes couilles dans la poкle а frire juste pour quelques artйfacts.</text>
+	</string>
+	<string id="dm_information_20">
+	<text>Le Territoire Sauvage йtait une assez grande usine de fabrication, mais maintenant l'endroit grouille de monstres et est plein d'anomalies. La seule raison d'aller par lа c'est si tu veux te rendre au Bar ou si tu cherches dйsespйrйment du butin, mais il y a beaucoup d'autres itinйraires plus sыrs а utiliser а la place.</text>
+	</string>
+	<string id="dm_information_21">
+	<text>Qu'est-ce que tu ferais, toi, comme voeu ? C'est quoi, la seule chose que tu voudrais vraiment ? Si tu m'aides а trouver l'Exauceur de Voeux, alors peut-кtre que зa va se rйaliser... je l'ai entendu, il est enterrй sous la Centrale quelque part. Tu crois que c'est pour зa que les Monolithes se battent ? Pour le protйger ?</text>
+	</string>
+	<string id="dm_information_22">
+	<text>Yantar est morbide et dйtrempйe par la mort. Quiconque ose s'aventurer trop loin devient fou. Les zombies et les Snorks sont partout, ils attendent de te sauter dessus. Cette usine continue d'en dйgueuler tous les jours, la moitiй du temps quand les Йcologistes en flinguent ils se rendent compte que c'йtait un de leurs propres hommes qui tirait sur eux. Quel truc de tarй.</text>
+	</string>
+	<string id="dm_information_23">
+	<text>Hй Stalker, si jamais tu es а Zaton tu devrais aller au Skadovsk, c'est ce vieux bateau rouillй tenu par ce Stalker qui se fait appeler le Barbu, ou du moins c'est ce qu'il aime penser qu'il fait. Tu peux trouver un endroit pour dormir, rйparer ton йquipement et vendre tout ton butin. Le Hibou est toujours intйressй pour t'acheter les PDA que tu trouverais si ils ont de belles infos sur eux.</text>
+	</string>
+	<string id="dm_information_24">
+	<text>Hй, йcoute, t'as entendu parler d'un gars appelй Black Digger ? On m'a dit que c'йtait un mec qui a vraiment eu de la chance, il s'est fait une belle quantitй de roubles et il s'est trouvй un tas d'йquipements high-tech aussi. Certains disent qu'il avait une planque secrиte а lui cachйe profond parmi les piles de dйchets et autres saloperies. J'aurais vraiment voulu le trouver un jour et lui faire cracher l'info, mais on dirait que son secret l'a suivi dans la tombe.</text>
+	</string>
+	<string id="dm_information_25">
+	<text>J'crois qu'il faudra pas longtemps avant que toi ou moi on soit chargйs de rйcupйrer des infos cachйes en profondeur dans certains laboratoires abandonnйs. X-18 est gйrable, X-16 est plus difficile pour ton psychisme et a plus d'humanoпdes а qui il faudra faire un trou supplйmentaire ou deux.</text>
+	</string>
+	<string id="dm_information_26">
+	<text>Si t'as un boulot qui t'oblige а aller soit а Jupiter soit а la partie orientale de Pripyat et ses environs, utilise le passage souterrain pour passer Pripyat Plaza inaperзu -tu auras pas а t'occuper des fanatiques au-dessus. Tu devras trиs probablement avoir affaire seulement а des mutants et des zombies -j'en ai rencontrй plusieurs il y a prиs d'un mois- mais ils ne reviennent pas avant qu'une heure soit passйe donc tu peux utiliser en toute sйcuritй pour revenir а l'endroit oщ tu es entrй.</text>
+	</string>
+	<string id="dm_information_27">
+	<text>Mйfies-toi des nids de mitrailleuses йparpillйs autour de certains bastions ou d'emplacements stratйgiques. Le tireur ne peut йvidemment pas te toucher quand t'es dans son dos, donc se faufiler jusqu'а lui c'est une stratйgie valable aussi longtemps que tu foires pas ton infiltration et que tu te fais pas repйrer par tout le monde autour de lui. Habituellement, les autres seront assez en panique pour ne pas prendre en charge la position du tireur tombй. N'oublie pas les grenades aussi, un lancer bien placй peut suffire pour tuer si tu es pris en tenaille et que tu peux pas sortir de ton couvert.</text>
+	</string>
+	<string id="dm_information_28">
+	<text>Si t'as envie de faire une longue promenade, ou de prendre un poste avancй sur le chemin de la base des bandits а la Vallйe Obscure, pars а l'Est au Cordon et continue jusqu'а ce que tu atteignes Darkscape. Parfois, une escouade ou deux peut-кtre en patrouille lа-bas, mais fais gaffe aux mutants de toutes faзons. C'est un endroit relativement calme mais ces saloperies de mutants se reproduisent partout. Quant а l'avant-poste dont je te parlais, il est situй а peu prиs au milieu, lа oщ la route fait un virage.</text>
+	</string>
+	<string id="dm_information_29">
+	<text>Tu recherches des infos, hein ? Je peux te dire que, tant que tu restes sous notre protection, les mercenaires oseront pas lever un doigt sur toi. On vaut pas assez pour кtre la cible de leurs commanditaires parce que leurs anciens chefs se sont fait avoir, ils ont pйri, disparu, cassй leur pipe, appelle зa comme tu veux. Personne Se prйcipite pour reprendre le commandement, d'ailleurs, on s'engueule sur trop de trucs pour зa. Le seul qui continue а garder une petite zone aujourd'hui c'est Sultan, mais il a pas le bras assez long pour se faire obйir de chaque bandit dans toute la Zone.</text>
+	</string>
+	<string id="dm_information_30">
+	<text>Tu te sens pas comme une envie de buter quelqu'un au hasard ? Les Stalkers Neutres ont toujours йtй le premier choix pour зa. On les fait chier depuis l'aube des temps et ces merdeux ont toujours mйritй зa. La plupart sont pas bien armйs, mais ils nous dйtestent assez pour faire une belle bagarre, donc avec eux tu peux avoir а la fois un йquipement dйcent et t'entraоner au combat.</text>
+	</string>
+	<string id="dm_information_31">
+	<text>Hй, t'as dйjа vu un nain orange fluo qui se taille un chemin а travers les roseaux denses ? Moi ouais bien sыr, et ces sacs poubelles ambulants font tellement tвche que tu peux repиrer un йcologiste а un kilomиtre sans jumelles. En ce moment on dirait qu'ils se mettent а varier les couleurs, ils ont moins souvent les teintes а vomir qu'ils reзoivent d'habitude.</text>
+	</string>
+	<string id="dm_information_32">
+	<text>La seule chose qui a moins de cervelle que ces stupides Stalkers Neutres, c'est les membres de la faction Monolithe. C'est marrant d'entendre des histoires sur eux; ils ressemblent а une version 'Made in la Zone' d'attardйs mentaux qui ne savent penser qu'а une seule chose et rien d'autre. Dommage qu'ils soient trop cons pour craindre la mort.</text>
+	</string>
+	<string id="dm_information_33">
+	<text>Mec, je me souviens des histoires sur la faзon dont il y a longtemps des gars avec un scorpion sur leurs patchs ont foutu une branlйe а des gamins en pyjama bleu. Ici tout le monde se marre toujours en pensant а eux et а leurs vкtements, parce qu'ils йtaient plus fraibles qu'un bйbй sangsue aveugle dans son nid. Oh, attends, maintenant que je me souviens, tous ces intellos savaient pas tenir une arme dans leurs mains. Ils savaient pas comment vivre avec ce que la Zone leur donne.</text>
+	</string>
+	<string id="dm_information_34">
+	<text>Si seulement tu savais ce que je donnerais pour qu'une vague de mutants йnorme aille dйvaster le Bar un de ces jours. Chaque fois qu'on essaye d'approcher on se fait expulser par ces cons en noir et rouge. Ils se sont vraiment bien installйs, ils ont mкme postй une paire de PKM pour йloigner les intrus comme nous. Ils sont assez bien armйs, mais leur structure de commandement... hйhй, c'est pas les plus purs de toute la Zone, hein, y'a beaucoup eu d'accords secrets entre nous et le Devoir, mais maintenant ils veulent que tout le monde la ferme et ils ne veulent pas voir nos tronches prйs d'eux. Dieu sait quand ils arrкteront enfin de piquer leur crise pour une question de fiertй.</text>
+	</string>
+	<string id="dm_information_35">
+	<text>Ceux de la Libertй se vantent souvent de leur force et de la 'libertй dans la Zone'. Ben on leur a montrй leur juste ce que c'est que la libertй ici, et ils ont dы dйplacer leurs culs loin de nous, tout dйgoыtйs. Aujourd'hui, y veulent que tu penses le contraire et qu'ils ont changй de base parce que c'est 'plus sыr contre les mutants' ou que 'nous pouvons repousser les envahisseurs plus facilement'. Mon pote, зa, c'est des conneries, ils veulent pas admettre qu'on leur a foutu la trouille profondйment. Et pas que la trouille, d'ailleurs.</text>
+	</string>
+	<string id="dm_information_36">
+	<text>Les troufions se montrent moins qu'avant, en ce moment. La rumeur dit que leurs opйrations se sont toutes cassй la gueule. Moi, зa me ferait vraiment chier d'кtre commandй par un connard qui va m'envoyer dйchirer un paquet de mutants ou un groupe de Stalkers seulement pour qu'il chope une promotion et que зa fasse avancer sa carriиre. Ils ont la vie dure, mais on dirait que toutes leurs opйrations foirйes зa a fini par rйussir а leur foutre du plomb dans le crвne.</text>
+	</string>
+	<string id="dm_information_37">
+	<text>L'avиnement des artefacts et leur йtude approfondie me laisse parfois songeur, je me demande combien les choses pourraient кtre pires. Ces objets possиdent des propriйtйs innombrables, certaines si dйvastatrices que leur incorporation dans des armes pourrait dйpasser tout ce qui a йtй fait jusqu'ici. Imaginez ce qu'une bombe construite sur l'йnergie procurйe de divers types d'artefacts pourrait faire !</text>
+	</string>
+	<string id="dm_information_38">
+	<text>J'trouve зa ironique que la Libertй est la faction qui n'arrкte pas de parler de la nйcessitй de laisser tout le monde faire usage de la Zone, mais que le Devoir sont ceux qui viennent а Yantar nous protйger et donner des artefacts а nos йminents scientifiques pour les aider а trouver de nouvelles faзons d'йliminer la Zone.</text>
+	</string>
+	<string id="dm_information_39">
+	<text>Les bandits n'arrкtent pas de prendre des otages pour extorquer de l'argent et des artefacts, ils n'ont aucune honnкtetй et ne tiennent jamais parole, sans parler du fait qu'ils agissent comme des tarйs et sont les plus dйtestables formes de vie ici. Ils vivent mieux quand quelqu'un de plus malin les prend en main, mкme si ils font profil bas depuis un moment maintenant et aucun chef s'est encore dйvouй pour prendre le contrфle de chaque bande de bandit dans toute la Zone. Pour l'instant, ils sont surtout organisйs en petites groupes йparpillйs. Ce qui rend plus difficile а semer la confusion et la panique chez eux quand quelqu'un d'important veut s'imposer.</text>
+	</string>
+	<string id="dm_information_40">
+	<text>Certains endroits peuvent sembler plus impressionnants qu'ils ne le sont vraiment. Les souterrains d'Agroprom c'est l'exemple-type parce qu'en ce moment plusieurs de ses zones sont fermйes et les mutants n'ont pas beaucoup d'endroits а infester. Je suggиre pas d'y aller cela dit, sauf si tu veux soit y balancer ton йquipement ou effectivement essayer de rйcupйrer quelque chose parmi toutes les saloperies qui traоnent lа-bas. Stocker ton butin dans un sac а dos dans un endroit en surface difficile а atteindre serait une meilleure idйe de toute faзon.</text>
+	</string>
+	<string id="dm_information_41">
+	<text>La zone peut кtre fascinante parfois. Juste а regarder le monde d'en bas quand tu es assis au sommet d'une tour de guet ou d'une autre grande structure, voir toute la vie courir, les merveilleuses formations que les anomalies crйent, en йcoutant la musique apaisante qu'on entend au Bar tout en regardant la nuit prendre la place de la journйe... voilа ce que j'aime avec la Zone, elle est mortelle mais belle en mкme temps.</text>
+	</string>
+	<string id="dm_information_42">
+	<text>Si je vais encore devoir rester ici а rien faire d'autre que plomber le cul de mutants chйtifs avec mon arme, alors je vais reconsidйrer mon choix d'avoir rejoint le Devoir. Chaque jour, je suis ordonnй de faire ceci et cela, mais au final qu'est-ce que je reзois ? Presque rien. Je suis ici depuis assez longtemps pour кtre expйdiй vers des zones beaucoup plus dangereuses, mais on dirait qu'un tas d'autres gars sont tombйs dans le mкme trou que moi. C'est presque comme si les hauts gradйs ne veut pas se mettre vraiment aux choses sйrieuses et qu'ils veulent juste rester assis en toute sйcuritй dans leurs bases jusqu'а ce qu'une occasion se prйsente de tellement prиs que зa les fera tomber de leur chaise.</text>
+	</string>
+	<string id="dm_information_43">
+	<text>La Libertй peut avoir l'air d'кtre une bande de fous et de mecs assis paresseusement sur leurs culs mais ils peuvent кtre assez vicieux quand зa leur prend. Ils ont rйussi а rйpandre de fausses informations sur nous pour rйduire la foi des autres Stalkers dans le Devoir. En plus de зa, ils n'arrкtent pas de dire а quel point la protection de la Barriиre est leur boulot et combien зa les rend meilleurs que nous. Ne pense mкme pas а croire leurs conneries, ils n'ont pas assurй la protection de la barriиre aussi longtemps et ils n'ont jamais jouй un grand rфle lа-dedans, enfin pas jusqu'а ce qu'ils viennent se planquer en urgence aux Entrepфts. On les fera payer pour avoir essayer de s'approprier notre autoritй et nos efforts sur la dйfense de la Barriйre, un de ces jours.</text>
+	</string>
+	<string id="dm_information_44">
+	<text>J'ai vu beaucoup de choses dans la Zone depuis que je l'arpente, la plupart c'йtait quand je ne faisais pas partie du Devoir. Putain, les Stalkers militaires sont probablement les mecs les plus durs que tu rencontreras jamais, а part les fous qui n'arrкtent pas de dйferler du Nord. Contrairement aux forces militaires normales qui ne vont jamais en profondeur dans la Zone ou qui ne sont pas ici depuis assez longtemps, eux ils ont reзu un entraоnement spйcial ou ont accumulй assez d'expйrience eux-mкmes; ils ont un йquipement qui dйpasse facilement celle de la plupart des gens ici. C'est des ennemis farouches en combat. Mais si toi aussi t'es un champion, tu peux rйussir а te les faire tout seul. Seulement je te conseille pas d'essayer.</text>
+	</string>
+	<string id="dm_information_45">
+	<text>Je vais te dire, зa me rend malade la faзon dont tout le monde nous perзoit. Comme si on йtait juste un collectif de fumeurs de pйtards rassemblйs pour rien faire d'autre que s'extasier devant la Zone et ses crйations. On essaie vraiment de relayer les informations utiles que nous avons acquises а ceux qui en ont besoin, on ne fait d'actions hostiles quand c'est nйcessaire et quand il y a un vrai danger, contrairement au Devoir qui aime dire l'inverse а tout le monde alors qu'ils agissent comme une bande de gamins qui jouent les durs alors qu'ils ne font rien d'autre que s'attaquer а des bandits demeurйs et а tuer uniquement les mutants les plus faibles.</text>
+	</string>
+	<string id="dm_information_46">
+	<text>Un des personnages que nous considйrons comme assez importants est Le Forestier. Il a un oeil vif pour trouver diffйrents chemins а travers la forкt dense, mais, hйlas, sa vieillesse a pris le meilleur de lui et il ne peut pas sortir beaucoup hors de son refuge. Il a fourni une aide prйcieuse au Balafrй, qui, lui, a ainsi pu aider Lebedev. Le Forestier se trouve toujours dans la Forкt Rouge, je crois qu'il va y rester pour le reste de sa vie jusqu'а ce qu'il dйpйrisse et qu'il devienne juste un souvenir gravй dans nos esprits.</text>
+	</string>
+	<string id="dm_information_47">
+	<text>Il y a quelques annйes, on йtait dirigйs par Lebedev. C'йtait des annйes merdiques, jusqu'а ce qu'un mercenaire arrive et nous aide а prendre dйfinitivement pied dans les Marais. Mais c'est lа oщ alors tout ce truc avec Strelok est parti en vrille. La plupart des gars de Firmament ont suivi Lebedev et le mercenaire au Nord pour dйmкler tout зa. Ben, tu sais comment зa c'est terminй, hein. Quoi qu'il en soit, on continue а entendre parler des camions de la mort dans le Cordon, qui ramиnent de vieux amis. Dans de rares occasions il y a quelques signes de vie, mais souvent c'est comme si ils avaient ont eu un accident vasculaire cйrйbral massif ou quelque chose de ce genre.</text>
+	</string>
+	<string id="dm_information_48">
+	<text>T'es nouveau dans la Zone ? Йcoute-toi parler, t'as presque l'air d'un des ces salauds lа-bas. Des infos hein ? T'as jamais entendu parler du Major Kuznetsov ? C'йtait un vrai cas, aprиs avoir remplacй le major Khaletskiy pour les dйgвts qu'il avait causй, Kuznetsov a fait exactement la mкme chose ! c'est toujours les officiers de haut rang qui sont corrompus, ils attrapent peu а peu le goыt du pouvoir et du contrфle, et puis ils commencer а essayer de se faire de l'argent supplйmentaire а cфtй en traitant avec les criminels ici, dans la Zone ! On m'a dit qu'il a rencontrй un destin terrible quand il a croisй un gars qui... je me rappelle pas son nom, mais ils l'ont ramassй dans Pripyat d'aprйs ce que j'ai entendu parce qu'il avait des infos vraiment importantes.</text>
+	</string>
+	<string id="dm_information_49">
+	<text>On a eu plusieurs gars parachutйs ici plus tard dans le mois. Faut juste attendre que la Zone nous donne un peu de temps calme, pour que les pilotes puissent faire des allers-retour. La rumeur dit qu'il y a quelques agents Franзais, Finlandais et Britanniques qui arrivent cette fois-ci, зa devrait кtre intйressant.</text>
+	</string>
+	<string id="dm_information_50">
+	<text>Les choses peuvent кtre dures ici, mais зa ne veut pas dire que les recherches ont cessйs. On s'arrange avec du matos fait main, et de temps en temps on arrive а mettre la main sur de l'йquipement des йcologistes, grвce а un vieil ami. Tu serais surpris de ce qu'on sait sur l'anti-coagulation grвce aux Sangsues, et sur la rйparation des cornйes grвce aux yeux de Croque-Mort.</text>
+	</string>
+	<string id="dm_information_51">
+	<text>On est toujours en train de perdre des amis а cause du Lobotomisateur. On entend les rйcits de Stalkers vйtйrans qui ont pris des mйdicaments, ou qui se sont mis un seau en acier sur le crвne pour supporter les maux de tкte et les hallucinations, et qui parviennent а mettre la main sur quelques surprises et des artefacts et а revenir au camp en un morceau. Bien sыr, parfois, ils peuvent а peine parler, ou ils finissent par perdre une case. Mais les gens les voient fкter leur richesse ou prendre leur retraite anticipйe avec tout cet argent, et ils dйcident de faire la mкme chose.</text>
+	</string>
+	<string id="dm_information_52">
+	<text>On dit qu'il y a du travail а Yantar prиs du champ psi si tu es assez stupide, les scientifiques ont besoin de tester des mйdicaments et des combinaisons pour pouvoir avancer et faire une poussйe vers le Nord. Le problиme c'est qu'il n'y a aucune garantie que tu reviennes. Les gens disent que ta tкte se met а bouillir, et puis ton corps ne fonctionne plus correctement. Tu commences а halluciner ou perdre la parole. Ton meilleur ami devient soudain ton pire ennemi. C'est probablement le travail le plus dangereux lа-bas en ce moment.</text>
+	</string>
+	<string id="dm_information_53">
+	<text>Le Lobotomisateur, mec. C'est la grande course pour trouver un chemin а travers, que ce soit en utilisant une combinaison spйciale, ou en essayant de trouver une sorte de tunnel qui contournerait. Bien sыr, tout le monde, des scientifiques aux miliaires, veulent trouver un moyen de passer, et celui qui y arrivera le premier va se faire un trйsor d'artefacts, de butin et d'information.</text>
+	</string>
+	<string id="dm_information_54">
+	<text>Mec, зa me manque, la vieille base arriиre dans la Vallйe Obscure. La zone йtait vraiment effrayante parfois, mais on a eu un trиs bon camp а l'йpoque. Mais dиs que les bandits se sont mis а venir en masse de la Dйcharge, c'est devenu de plus en plus difficile de tenir le terrain. Le Devoir est venu pousser, les bandits mettaient la pression, et а la fin on perdait des gars et des avant-postes aussi vite que de l'eau а travers un tamis. Malgrй tout, au moins on s'est bien installйs ici. On peut se coucher la nuit et seulement devoir faire avec les rкves йtranges, et peut-кtre une gueule de bois le matin.</text>
+	</string>
+	<string id="dm_information_55">
+	<text>T'as essayй la bouffe locale locale ? Il y a une faune assez foirйe ici, mais tu peux faire un bon repas avec les Croque-Mort et les sangliers. J'ai mкme entendu dire que certains gars mangent des mains de Snork. Quand mкme, c'est pas du cannibalisme, зa ? Ensuite, il y a les tentacules de Sangsue ou les yeux de Croque-Mort. C'est comme si les Stalkers vйtйrans savaient pas que la nourriture en conserve existe.</text>
+	</string>
+	<string id="dm_information_56">
+	<text>Alors je suis allй faire un boulot avec un des gars plus вgйs, l'autre jour. Ils sont ici depuis des annйes, et зa se voit. Il me parlait de quand son escouade est restйe coincй dans une anomalie Spatiale. Ouais, c'йtait pas fatal comme le Hachoir ou les Brыleurs, mais зa les a piйgйs pendant des jours. Juste зa, bloquйs dans la mкme parcelle d'herbe avec aucun ravitaillement ni communications.</text>
+	</string>
+	<string id="dm_information_57">
+	<text>Il y a quelques patrouilles assez dures, et aussi y'en a de plus tranquilles. Si tu es aux Marais alors tu auras gйnйralement un soutien aйrien grвce а un hйlico, et les avant-postes que nous dйtenons ont tendance а кtre assez confortable pour une zone dйsolйe. Mais les Stalkers et des bandits qui vivent lа font parfois une poussйe pour essayer de gagner un peu de terrain. Tant que tu gardes la tкte baissйe, l'hйlicoptиre les disperse habituellement. Darkscape est la route en direction du Nord-Est а partir d'ici jusqu'а la Vallйe Obscure. c'est assez lugubre lа-bas, avec les bandits qui essaient constamment de tendre une embuscade а tous ceux qui passent par la route, et les mutants vraiment actifs la nuit. Ensuite, il y a l'Agroprom. L'Agroprom c'est un mйlange. Tu as notre йtablissement militaire pour te bunkeriser quand le soir arrive, mais si tu dois aller en patrouille alors tu vas batailler avec des Stalkers sur ta gauche et te faire attaquer par des mutants sur ta droite. Morale de l'histoire ? Reste au Cordon.</text>
+	</string>
+	<string id="dm_information_58">
+	<text>Donc, quand pour la premiйre fois la Zone a... euh... йclatй ? Bon quoi qu'il en soit, on devait constamment faire du baby-sitting pour les scientifiques qui йtaient dйposйs ici. Ils avaient leurs minuscules petits bunkers plein de matos scientifique, et puis ils trempaient un pied а l'extйrieur dans leurs stupides combinaisons de caoutchouc. En attendant, nous on йtait tous en treillis, а patauger dans la bouillasse avec nulle part oщ dormir, ni ou se rйfugier. Chaque nuit, le ciel йtait rouge vif, et toute patrouille qui se paumait dans la nature revenait zombifiйe. On se faisait choper par des Sangsues, et dйchiquetйs par des anomalies, et pendant tout ce temps les intellos йtaient plus prйoccupйs par leurs recherches et les artйfacts. En fin de compte, on s'est barrй. On a dйmйnagй а Agroprom et on leur envoyait un soutien minime de temps en temps. Lа, les йcologistes se sont rendus compte qu'ils ne pouvaient pas simplement compter sur les autres pour prendre des balles. Ils se sont armйs, et leurs combinaisons ont commencй а avoir des couches de Kevlar йpaisses. Et chaque nuit, j'ai une couchette et une bouteille de vodka qui m'attend. Ce n'est que justice.</text>
+	</string>
+	<string id="dm_information_59">
+	<text>Je suis nouveau ici, mais j'ai appris des trucs avec les autres gars. Toujours garder des boulons sur toi, de prйfйrence avec de la ficelle attachйe. On a appris зa grвce aux Stalkers, а l'origine. Tu jettes le boulon devant toi pour vйrifier si il y a une anomalie. Ce truc semble ridicule, mais dans la Zone, c'est une bouйe de sauvetage.</text>
+	</string>
+	<string id="dm_information_60">
+	<text>Rйcupиre toujours les fournitures mйdicales des Stalkers ou des bandits que tu combats. Ils peuvent ne pas кtre stйriles, ni l'idйal pour un traumatisme par rapport aux medikits militaires ou scientifiques, mais зa peut sauver ton pote quand il est abattu. Les amis que tu te fais dans la Zone sont les plus grands amis que tu auras jamais. Toujours avoir une trousse de secours en rab'.</text>
+	</string>
+
+	<string id="dm_job_general_1">
+	<text>Y'a quelqu'un qui file du boulot ici ?</text>
+	</string>
+	<string id="dm_job_general_2">
+	<text>Je cherche du boulot.</text>
+	</string>
+	<string id="dm_job_general_3">
+	<text>Tu saiS oщ je peux trouver du travail ?</text>
+	</string>
+	<string id="dm_job_0">
+	<text>Dйsolй je ne sais pas.</text>
+	</string>
+	<string id="dm_job_1">
+	<text>Spore est toujours а la recherche de quelqu'un pour faire des petits boulots de temps en temps. C'est un courtier en information. T'as un scoop sur un truc important dans la Zone ? Spore paye bien.</text>
+	</string>
+	<string id="dm_job_2">
+	<text>Je entendu que Le Bibliothйcaire cherche des chasseurs expйrimentйs pour dйgommer des mutants а diffйrents endroits а travers les marais. Il y a moins de volontaires pour aller chasser la nuit, donc t'as de meilleures chance de dйcrocher ce boulot.</text>
+	</string>
+	<string id="dm_job_3">
+	<text>Sidorovich a toujours quelque chose а faire faire. Il paie gйnйralement bien mais je conseille pas aux bleus d'essayer les boulots qu'il propose.</text>
+	</string>
+	<string id="dm_job_4">
+	<text>Le Loup cherche un coup de main. Il paie les Stalkers pour chasser les mutants dans la rйgion pour assurer la sйcuritй du village.</text>
+	</string>
+	<string id="dm_job_5">
+	<text>Le Hibou, qui traine au Skadovsk, est toujours а la recherche de trucs а acheter ou d'infos a vendre. J'irais lui demander, а ta place.</text>
+	</string>
+	<string id="dm_job_6">
+	<text>Sultan cherche des gars avec des couilles en acier pour des boulots de merde. Il traine dans la base, souvent aux chiottes... vа vйrifier la-bas...</text>
+	</string>
+	<string id="dm_job_7">
+	<text>Va au bunker des scientifiques. Je suis sыr qu'ils ont quelque chose. Ils sont toujours a la recherche de mercenaires ou de Stalkers pour les aider.</text>
+	</string>
+	<string id="dm_job_8">
+	<text>Olivius est le mec a voir si tu cherches а faire des petits boulots. C'est un marchand qui crиche au camp des Bandits a la Vallйe Obscure.</text>
+	</string>
+	<string id="dm_job_9">
+	<text>Ouais, j'ai un boulot pour toi. D'ici, tu pars vers l'Ouest. Pis tu continues toujours vers l'Ouest. Et quand t'as fait ca, tu reviens pas.</text>
+	</string>
+	<string id="dm_job_10">
+	<text>Dйsolй mec, j'ai rien pour toi. Reste avec nous et aide-nous а garder le peu qu'on a.</text>
+	</string>
+<!-- TIPS -->
+	<string id="dm_tips_general_1">
+	<text>Tu saurais quelque chose d'utile ?</text>
+	</string>
+	<string id="dm_tips_general_2">
+	<text>Comment t'as reussi a rester en vie ici ?</text>
+	</string>
+	<string id="dm_tips_general_3">
+	<text>Quels conseils tu pourrais donner au sujet de la Zone ?</text>
+	</string>
+	<string id="dm_tips_0">
+	<text>Je n'ai pas vraiment de conseil a te donner.</text>
+	</string>
+	<string id="dm_tips_1">
+	<text>Tire sur un mec au visage deux-trois fois et il est mort. Il peut porter n'importe quelle armure, ca changera rien, tant que c'est pas une exo.</text>
+	</string>
+	<string id="dm_tips_2">
+	<text>Utilise une grenade ou deux pour qu'un gars lиve son cul d'ou il est cachй. Il restera pas a couvert longtemps si il voit un ananas rouler par terre а cфtй de lui.</text>
+	</string>
+	<string id="dm_tips_3">
+	<text>Si t'as les doigts assez rapides, tu peux dйclencher les deux canons du fusil de chasse en mкme temps. Garde зa en tete si tu croises une Sangsue.</text>
+	</string>
+	<string id="dm_tips_4">
+	<text>Ne sous-estime pas les pistolets, Stalker. Ils sont assez pratiques si t'as plus beaucoup de munitions pour ton flingue principal et ils degomment tout ce qui n'a pas d'armure lйgиre.</text>
+	</string>
+	<string id="dm_tips_5">
+	<text>Si t'es payй pour buter un mec en particulier, tu peux le degommer sans кtre vu en utilisant un fusil de sniper; tu pourras le toucher de beaucoup plus loin qu'avec un autre flingue.</text>
+	</string>
+	<string id="dm_tips_6">
+	<text>Tu toucheras que dalle si tu tires en courant. Trouve-toi un truc solide pour te cacher derriиre et penche-toi pour tirer; tu seras beaucoup plus precis.</text>
+	</string>
+	<string id="dm_tips_7">
+	<text>Garde ton matos en bon йtat. Ton flingue s'enrayera tout le temps et ton armure sera pleine de trous si tu vois pas un mйcanicien assez souvent.</text>
+	</string>
+	<string id="dm_tips_8">
+	<text>La derniиre fois que je suis allй voir un mйcanicien, il pouvait pas ameliorer la moitiй de mes trucs, il m'a demandй de sortir et de chercher une boite a outils pour lui. C'est quoi ca, je suis son garcon de courses maintenant ?</text>
+	</string>
+	<string id="dm_tips_9">
+	<text>T'as jamais vu de mec rester dehors pendant une emission ? Ben bien sыr que non ! Cache ton cul chaque fois qu'il y en a une qui tombe, sauf si t'as envie d'avoir le cerveau bouilli.</text>
+	</string>
+	<string id="dm_tips_10">
+	<text>J'ai presque perdu mes jambes, l'autre jour. J'avais posй toute une grappe de mines papillons pour couvrir mon cul quand je fouillais un coin, et je les ais oubliйes en repassant sur ce chemin. Elles pиtent dйs que quelqu'un passe а cфtй, mкme celui qui les a posйes.</text>
+	</string>
+	<string id="dm_tips_11">
+	<text>C'est pas parce qu'un marchand n'a pas de boulot pour toi que personne d'autre n'en a а te proposer. Tu peux faire quelques courses contre de l'argent pour des Stalkers, et peut-кtre mкme trouver des bons trucs en mкme temps.</text>
+	</string>
+	<string id="dm_tips_12">
+	<text>Garde tous les mйdocs que tu peux trouver, tu sais jamais quand ils pourraient кtre utiles. Le Hercules c'est bien quand t'es surchargй, et les psi-bloquants зa aide contre un contrфleur.</text>
+	</string>
+	<string id="dm_tips_13">
+	<text>Prends toujours quelques munitions en rab' sur toi, meme si tu penses que tu en auras pas besoin. Rien de pire que d'avoir а combattre une horde de mutants avec juste ta lame.</text>
+	</string>
+	<string id="dm_tips_14">
+	<text>T'as essaye la chasse aux artйfacts ? Trouve-toi un dйtecteur et vas prйs de certaines zones anormales, si ca se met a faire bip, c'est que t'en a un pas loin. Mais t'auras besoin d'un modиle assez cher pour trouver des trucs valables.</text>
+	</string>
+	<string id="dm_tips_15">
+	<text>Vas pas courir la tкte la premiere droit dans une anomalie. Si tu penses qu'il y en a une pas loin, balances des boulons pour voir. Vaut mieux un boulon plutot que toi, non ?</text>
+	</string>
+	<string id="dm_tips_16">
+	<text>Si tu te sens pas trop bien, alors essaie de manger un peu. C'est pas le mкme effet qu'une trousse de secours, mais ca va te requinquer assez pour continuer.</text>
+	</string>
+	<string id="dm_tips_17">
+	<text>Ignores pas ton PDA. Ce truc garde une trace de tes boulots en cours et t'aide а trouver ton chemin dans la Zone si t'es perdu ou а planifier un itineraire quand tu veux aller quelque part.</text>
+	</string>
+	<string id="dm_tips_18">
+	<text>Range ton flingue si tu veux parler а quelqu'un. Personne n'aime avoir le bout d'un canon agitй devant son nez.</text>
+	</string>
+	<string id="dm_tips_19">
+	<text>Emporte toujours des boissons йnergisantes dans ton sac, ca te sera utile si tu fatigues en ramenant ton butin au campement.</text>
+	</string>
+	<string id="dm_tips_20">
+	<text>Si ton casque a un equipement pour la vision de nuit, mets-le а niveau. Tu pourras voir plus loin et plus clairement si tu laisses un mйcanicien bricoler dessus contre un peu d'argent.</text>
+	</string>
+	<string id="dm_tips_21">
+	<text>T'es pas obligй d'кtre sans dйfense quand tu fais la chasse aux artйfacts. Quand t'as un dйtecteur dans une main, tu peux toujours tenir un pistolet dans l'autre.</text>
+	</string>
+	<string id="dm_tips_22">
+	<text>Y'a beaucoup d'endroits oщ dormir si tu as besoin de passer le temps. Y'a toujours un lit dispo gratuitement dans la plupart des camps, mais tu peux aussi acheter un sac de couchage et dormir n'importe oщ.</text>
+	</string>
+	<string id="dm_tips_23">
+	<text>Trouver un artйfact c'est pas que des bonnes nouvelles, Ces trucs vont te tuer lentement avec leurs radiations а moins que tu sois protйgй. Rappelle-toi qu'il y en a qui peuvent absorber le rayonnement, aussi.</text>
+	</string>
+	<string id="dm_tips_24">
+	<text>Ton couteau c'est pas seulement une arme pour tuer furtif, tu peux forcer des boоtes, des coffres et des serrures avec aussi. Tu pourrais trouver un truc cool а l'interieur.</text>
+	</string>
+	<string id="dm_tips_25">
+	<text>Si t'arrкtes pas de te retrouver a bout de souffle, ben arrкte de porter autant de trucs sur toi. Tu peux les laisser quelque part dans un sac а dos bien planquй, ou les vendre а un marchand.</text>
+	</string>
+	<string id="dm_tips_26">
+	<text>Si tu veux des mйdicaments va voir un mйdecin, et si tu veux l'alcool va voir un barman; beaucoup de marchands ici se spйcialisent dans certains types de produits.</text>
+	</string>
+	<string id="dm_tips_27">
+	<text>Tu trouveras pas des artйfacts au mкme endroit tout le temps; ils changent tous de place apres une йmission. Rappeles-toi de зa la prochaine fois que tu seras prиs d'une anomalie.</text>
+	</string>
+	<string id="dm_tips_28">
+	<text>La Zone a une vie propre, Stalker. C'est pas parce qu'il y avait pas de monstres la derniиre fois que tu es allй dans un endroit que ca veut dire qu'il y en a pas qui s'y sont installйs depuis.</text>
+	</string>
+	<string id="dm_tips_29">
+	<text>Si tu as pas de quoi faire face а l'empoisonnement aux radiations, essayes de rester en vie jusqu'а ce que tu trouves un mйdecin. Mais alors lа tu te demanderas: pourquoi j'avais pas de vodka sur moi ?! </text>
+	</string>
+	<string id="dm_tips_30">
+	<text>Cours et sautes si quelque chose semble trop loin, avec l'йlan tu iras plus loin. Un moyen facile d'echapper a certains mutants, parce qu'ils penseront pas а sauter par-dessus des trucs pour t'atteindre.</text>
+	</string>
+	<string id="dm_tips_31">
+	<text>Vendre des artefacts c'est pas la seule faзon de te faire de l'argent: revendre des йquipements inutiles зa peut кtre rentable, aussi. Souviens-toi que les marchands sont gйnйralement pas intйressйs par des articles en mauvais йtat.</text>
+	</string>
+	<string id="dm_tips_32">
+	<text>Accroupis-toi et faufile-toi si tu veux pas кtre vu ou entendu. Toutes les batailles valent pas forcement la peine de risquer ta vie, ou tu peux juste aussi vouloir choper quelqu'un par surprise.</text>
+	</string>
+	<string id="dm_tips_33">
+	<text>Tu peux ajouter des lunettes de visйe et des lance-grenades sur ton flingue, t'sais ? Il y a des trucs qu'un mйcanicien ne peut tout simplement pas faire. Donc tu devras trouver ces piиces-lа toi-mкme...</text>
+	</string>
+	<string id="dm_tips_34">
+	<text>Y'a differentes facons de tuer les differents types de mutants, ils ont tous leurs propres points faibles. Tu peux te faire des tushkanos et des rats а coups de pied aussi, tu sais ?</text>
+	</string>
+	<string id="dm_tips_35">
+	<text>Va pas te cacher derriиre une porte si un mec te tire dessus. Les balles s'en foutent qu'il y ait un obstacle entre vous deux, elles passeront tout droit а travers tout ce qui est pas assez solide.</text>
+	</string>
+	<string id="dm_tips_36">
+	<text>Fais-toi un bandage si tu te prends une balle ou que tu te fais dйchirer par un mutant, le saignement va te couter plus cher en medkits que si tu utilises un bandage pour l'arrкter avant que ca ne devienne trop grave.</text>
+	</string>
+<!-- Wounded -->
+	<string id="dm_wounded_general">
+	<text>Aide-moi !</text>
+	</string>
+	<string id="dm_wounded_medkit">
+	<text>Prends un medikit.</text>
+	</string>
+	<string id="dm_wounded_sorry">
+	<text>Dйsolй, j'ai pas de medikits.</text>
+	</string>
+
+	<string id="dm_traveler_bye">
+	<text>D'accord.</text>
+	</string>
+	<string id="dm_traveler_what_are_you_doing">
+	<text>Que fais-tu maintenant?</text>
+	</string>
+	<string id="dm_traveler_can_i_go_with_you">
+	<text>Tu peux m'accompagner ?</text>
+	</string>
+	<string id="dm_traveler_stalker_actor_companion_yes">
+	<text>Bien sыr. C'est toujours plus marrant de voyager en groupe.</text>
+	</string>
+	<string id="dm_traveler_stalker_actor_companion_no">
+	<text>Non dйsolй. Je bosse mieux seul.</text>
+	</string>
+	<string id="dm_traveler_actor_go_with_squad">
+	<text>On y va.</text>
+	</string>
+	<string id="dm_traveler_take_me_to">
+	<text>Tu pourrais m'amener quelque part ? Je vais payer.</text>
+	</string>
+	<string id="dm_traveler_stalker_where_do_you_want">
+	<text>Pas de problиme. Oщ tu veux aller ? Choisis.</text>
+	</string>
+	<string id="dm_traveler_actor_agree">
+	<text>D'accord. On y va.</text>
+	</string>
+	<string id="dm_traveler_actor_refuse">
+	<text>J'ai changй d'avis.</text>
+	</string>
+	<string id="dm_traveler_stalker_i_cant_travel">
+	<text>Pas maintenant.</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_1">
+	<text>Non, rien.</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_2">
+	<text>Rien. On se dйtend, simplement.</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_3">
+	<text>A quoi est-ce que зa ressemble ? Je suis paresseux...</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_monster">
+	<text>Je chasse un mutant.</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_bandit">
+	<text>Je suis sur la piste de ces enfoirйs de bandit.</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_killer">
+	<text>Je traque des mercenaires... ces gars-lа sont des salauds.</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_monolith">
+	<text>Je suis sur la piste d'une escouade de fanatiques. Ils se font appeler 'Monolith'...</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_zombied">
+	<text>Nous poursuivons un zombie. Une coquille vides de ce qui a йtй une fois un grand Stalker, le pauvre...</text>
+	</string>
+	<string id="dm_traveler_travel_cost">
+	<text>Bien. Mais зa va te coыter</text>
+	</string>
+	<string id="dm_traveler_actor_dont_go_with_squad">
+	<text>J'ai changй d'avis.</text>
+	</string>
+	<string id="dm_traveler_actor_has_no_money">
+	<text>J'ai pas d'argent.</text>
+	</string>
+	<string id="dm_freedom_doing_nothing_1">
+	<text>Je ne fais rien.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_monster">
+	<text>Je suis sur la piste de mutants.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_bandit">
+	<text>Je prends part а la chasse au bandit local. C'est un beau sport.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_killer">
+	<text>Je suivais des mercenaires. Il faut qu'ils payent pour nous avoir attaquй.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_monolith">
+	<text>Nous sommes aprиs quelques cinglйs du 'Monolith'.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_duty">
+	<text>Le Devoir est quelque part par lа, ces bвtards ne peuvent pas кtre trйs loin.</text>
+	</string>
+	<string id="dm_duty_doing_nothing_1">
+	<text>Nous ne faisons rien.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_monster">
+	<text>Nous purgeons ce domaine des mutants.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_bandit">
+	<text>Je suis sur un boulot - la poursuite d'un dйtachement de bandit.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_killer">
+	<text>Nous avons йtй attaquйs par des mercenaires, je ne me reposerai pas avant qu'ils soient morts.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_monolith">
+	<text>Nous traquons une escouade de ces tarйs de 'Monolith'.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_freedom">
+	<text>Nous nettoyons ces ordures qui se disent кtre la 'Libertй'.</text>
+	</string>
+	<string id="dm_stalker_searching_artйfacts_1">
+	<text>Je recherche des artйfacts.</text>
+	</string>
+	<string id="dm_stalker_searching_artйfacts_2">
+	<text>On cueille des champignons... qu'est-ce que tu crois qu'on fait, idiot ? On est а la recherche d'artйfacts.</text>
+	</string>
+	<string id="dm_stalker_searching_artйfacts_3">
+	<text>Je chasse l'artйfact.</text>
+	</string>
+
+
+<!-------- Mechanic --->
+	<string id="st_mechanic_query_items">
+	<text>Est-ce que mon matos est prкt ?</text>
+	</string>
+	<string id="st_mechanic_repair_done">
+	<text>Oui, le voilа.</text>
+	</string>
+	<string id="st_mechanic_repair_not_done">
+	<text>Pas encore, reviens plus tard.</text>
+	</string>
+<!-------- Surrender --->
+	<string id="st_surrender_victim">
+	<text>... je me rends.</text>
+	</string>
+	<string id="st_surrender_query_victim_1">
+	<text>Donne-moi tes armes et des infos -l'emplacement d'une cachette, un йchange qui va avoir lieu, une embuscade de prйvue, quoi que ce soit, et je te laisse vivre.</text>
+	</string>
+	<string id="st_surrender_query_victim_2">
+	<text>Oщ est-ce que tu as mis tes affaires putain ?! Parle ! Et peut-кtre que je deciderais de sauver ton cul !</text>
+	</string>
+	<string id="st_surrender_query_victim_3">
+	<text>Voila un medikit, mais je prends tes armes.</text>
+	</string>
+	<string id="st_surrender_query_victim_4">
+	<text>Un dernier mot ? Je suis venu pour recupйrer la prime sur ta tкte.</text>
+	</string>
+
+	<string id="st_surrender_actor_1">
+	<text>Tu vivras.</text>
+	</string>
+	<string id="st_surrender_actor_2">
+	<text>Bonne chance...</text>
+	</string>
+	<string id="st_surrender_actor_3">
+	<text>Il est temps de te tuer.</text>
+	</string>
+	<string id="st_surrender_victim_answer_1">
+	<text>Ok, ok, mais me tue pas !</text>
+	</string>
+	<string id="st_surrender_victim_answer_2">
+	<text>Putain ! D'accord !</text>
+	</string>
+	<string id="st_surrender_victim_answer_3">
+	<text>S'il te plait, mec ! Je vais parler !</text>
+	</string>
+	<string id="st_surrender_victim_answer_4">
+	<text>S'il te plait me tue pas ! Prends mon PDA ! Y'a tout ce que tu veux savoir dessus !</text>
+	</string>
+	<string id="st_surrender_victim_answer_5">
+	<text>Va te faire foutre !</text>
+	</string>
+	<string id="st_surrender_victim_answer_6">
+	<text>Merci !</text>
+	</string>
+ 
+	<string id="st_surrender_victim_answer_default_bounty_1">
+	<text>Ok, ok, mais me tue pas !</text>
+	</string>
+	<string id="st_surrender_victim_answer_default_bounty_2">
+	<text>Merde ! OK !</text>
+	</string>
+	<string id="st_surrender_victim_answer_default_bounty_3">
+	<text>S'il te plait, mec ! Je vais parler !</text>
+	</string>
+	<string id="st_surrender_victim_answer_default_bounty_4">
+	<text>S'il te plait me tue pas ! Prends mon PDA ! Y'a tout ce que tu veux savoir dessus !</text>
+	</string>
+	<string id="st_surrender_victim_answer_default_bounty_5">
+	<text>Va te faire foutre !</text>
+	</string>
+ 
+	<string id="st_surrender_victim_answer_esc_m_trader_bounty_1">
+	<text>Ce salaud de Sidorovich t'as envoyй, n'est-ce pas ? Qu'est ce que tu veux !? Du cash ? Tiens, prends mon PDA et mon argent, et laisse-moi en vie !</text>
+	</string>
+	<string id="st_surrender_victim_answer_esc_m_trader_bounty_2">
+	<text>Est-ce que tu sais au moins pourquoi tu as йtй envoyй pour me tuer ? T'en as rien а foutre ? Sido' peut brыler en enfer.</text>
+	</string>
+	<string id="st_surrender_victim_answer_esc_m_trader_bounty_3">
+	<text>Vas te faire enculer !</text>
+	</string>
+	<string id="st_surrender_victim_answer_esc_m_trader_bounty_4">
+	<text>Ben allez, vas-y, tue-moi ! Allez !</text>
+	</string>
+	<string id="st_surrender_victim_answer_esc_m_trader_bounty_5">
+	<text>...</text>
+	</string>
+	<string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_1">
+	<text>C'est ce salaud de Sultan qui t'a envoyй, hein ? Qu'est ce que tu veux !? Du cash ? Tiens, prends mon PDA et mon argent, et laisse-moi en vie !</text>
+	</string>
+	<string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_2">
+	<text>Espйce d'enculй sans вme ! Est-ce que tu sais au moins pourquoi tu as йtй envoyй pour me tuer ? T'en as rien а foutre ? Sultan peut brыler en enfer.</text>
+	</string>
+	<string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_3">
+	<text>Vas te faire enculer !</text>
+	</string>
+	<string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_4">
+	<text>Ben allez, vas-y, tue-moi ! Allez !</text>
+	</string>
+	<string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_5">
+	<text>...</text>
+	</string>
+	
+	<string id="st_broker_query">
+	<text>J'ai quelque chose que tu veux.</text>
+	</string>
+	<string id="st_broker_query_more">
+	<text>J'ai autre chose que tu voudrais peut-кtre.</text>
+	</string>
+	<string id="st_broker_query_pda">
+	<text>J'ai trouvй un PDA, pourrait y avoir quelque chose d'utile dessus.</text>
+	</string>
+	<string id="st_broker_query_pdas">
+	<text>J'ai trouve %s PDA, certains pourraient avoir des infos utiles.</text>
+	</string>
+	<string id="st_broker_give_pda">
+	<text>Voilа.</text>
+	</string>
+	<string id="st_broker_npc_start_1">
+	<text>C'est moi qui en jugerais, qu'est-ce que tu as ?</text>
+	</string>
+	<string id="st_broker_npc_start_2">
+	<text>Ben espиre que oui, parce que tu me fais sacrement perdre mon temps.</text>
+	</string>
+	<string id="st_broker_npc_start_3">
+	<text>Ce truc a intйrкt a valoir le coup, qu'est-ce que tu as ?</text>
+	</string>
+	<string id="st_broker_npc_answer_pda_query">
+	<text>Bon, laisse-moi voir.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_1">
+	<text>Rien d'utile.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_2">
+	<text>deux-trois planques.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_3">
+	<text>Des contacts sur les trafiquants de drogue locaux.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_4">
+	<text>Un journal.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_5">
+	<text>Les coordonnees d'une planque.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_6">
+	<text>Juste encore plus de conneries.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_7">
+	<text>Rien d'utile sur celui-la.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_8">
+	<text>Certaines informations de contact utiles.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_9">
+	<text>Inutile, mais quelqu'un pourrait l'acheter.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_10">
+	<text>Principalement des conneries, je pourrais trouver un acheteur.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_11">
+	<text>Quelques informations utiles.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_12">
+	<text>Une liste de mots de passe.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_13">
+	<text>Il y a quelques infos bancaires.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_14">
+	<text>Pas grand-chose sur celui-ci.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_15">
+	<text>Celui-ci mentionne un йchange qui va avoir lieu.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_16">
+	<text>Des observations dйtaillйes concernant les mutations sur la flore locales.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_17">
+	<text>On dirait un jeu genial sur celui-la.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_18">
+	<text>Des observations dйtaillйes concernant les Croque-Morts.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_19">
+	<text>Des observations dйtaillйes concernant les sangliers.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_common_20">
+	<text>Des observations dйtaillйes sur les anomalies Hachoir.</text>
+	</string>
+
+	<string id="st_broker_npc_about_pda_uncommon_1">
+	<text>Je connais des gens qui voudront celui-ci.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_2">
+	<text>Photos d'un mec de la Liberte essayant de se taper le cadavre d'une Sangsue.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_3">
+	<text>Un contact sur un trafiquant de drogue.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_4">
+	<text>Crypte, pourrait etre precieux.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_5">
+	<text>Celui-ci mentionne l'emplacement d'une cache.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_6">
+	<text>Celui-la est crypte.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_7">
+	<text>Il y a un journal intime avec declarations de fou sur celui-la.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_8">
+	<text>Certaines informations de contact utiles.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_9">
+	<text>Des infos sur un itineraire de contrebandier.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_10">
+	<text>Je pourrais trouver un acheteur pour celui-la.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_11">
+	<text>Quelques informations utiles sur celui-ci.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_12">
+	<text>Des coordonnees bancaires.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_13">
+	<text>Celui-la mentionne une reunion entre le devoir et un gang local de voyous.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_14">
+	<text>Il y a les coordonnйes d'un endroit ou un deal va avoir lieu.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_15">
+	<text>Celui-ci mentionne une rencontre dans pas longtemps.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_16">
+	<text>Des informations detaillees sur les rats et les hamsters.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_17">
+	<text>Des infos sur un raccourci а travers la Foret Rouge.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_18">
+	<text>Du porno... celui-la est plein de porno.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_19">
+	<text>Des observations detaillees sur une variete d'anomalies.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_uncommon_20">
+	<text>Beaucoup de bavardage sur un tchat, pourraient etre utile.</text>
+	</string>
+ 
+	<string id="st_broker_npc_about_pda_rare_1">
+	<text>Fantastique, un peu de ragots sur Le Barbu.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_2">
+	<text>Mentionne une enorme cachette, je vais profiter de cette certitude.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_3">
+	<text>Genial ! Celui-la mentionne un trafiquant de droque qui fait des affaires avec les militaires.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_4">
+	<text>Crypte, pourrait etre utile; Je vais garder celui-ci.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_5">
+	<text>Celui-ci mentionne l'emplacement d'une cachette.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_6">
+	<text>Crypte. Si ca a quelque chose a cacher, c'est peut-etre quelque chose qui m'interesse.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_7">
+	<text>Celui-ci a des informations detaillees sur le Devoir... la Liberte pourrait etre interessee.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_8">
+	<text>Compte bancaire et des informations de carte de crйdit.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_9">
+	<text>Des allegations sur l'emplacement de l'Oasis.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_10">
+	<text>Je pourrais trouver un acheteur pour celui-la.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_11">
+	<text>Quelques informations utiles sur celui-la.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_12">
+	<text>Mots de passe non cryptes et infos sur un compte bancaire.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_13">
+	<text>Celui-la mentionne une rencontre entre des mercenaires et des voyous locaux.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_14">
+	<text>Il y a des coordonnees ici sur un echange qui va avoir lieu.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_15">
+	<text>Celui-la mentionne une rencontre d'ici quelques jours.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_16">
+	<text>Des cartes ! Un vrai travail de cartographe ! Celui-la est tres utile.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_17">
+	<text>Des infos sur un raccourci a travers un champ d'anomalies.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_18">
+	<text>Un echange de marchandises aura lieu ici bientot.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_19">
+	<text>Les scientifiques pourraient etre interesses par celui-la.</text>
+	</string>
+	<string id="st_broker_npc_about_pda_rare_20">
+	<text>C'est quoi ca ? Celui-la dit simplement 'Tuer Strelok'.</text>
+	</string>
+
+	<string id="st_broker_npc_about_pda_bonus_coords">
+	<text>En bonus, voici quelques coordonnйes de cachettes qui m'interessent pas vraiment:</text>
+	</string>
+<!-- TASK -->
+	<string id="st_ordered_task_query">
+	<text>Y a-t-il un travail que tu veux faire ?</text>
+	</string>
+	<string id="st_ordered_task_query_finished">
+	<text>Le travail est fait.</text>
+	</string>
+	<string id="st_ordered_task_not_given_task">
+	<text>Quoi ? Je penses pas que tu as fini ce que je t'ai demande.</text>
+	</string>
+	<string id="st_ordered_task_accept">
+	<text>Je le ferais.</text>
+	</string>
+	<string id="st_ordered_task_next">
+	<text>Avoir quelque chose d'autre?</text>
+	</string>
+	<string id="st_accepted_task_1">
+	<text>Bien ! Parlez-moi de nouveau quand il est fait.</text>
+	</string>
+	<string id="st_accepted_task_2">
+	<text>Aide-moi et je t'aiderais. Repasse me voir.</text>
+	</string>
+	<string id="st_accepted_task_3">
+	<text>Content que t'aies pu aider.</text>
+	</string>
+	<string id="st_default_task_finished_1">
+	<text>Merci, Stalker, voila ta recompense.</text>
+	</string>
+	<string id="st_default_task_finished_2">
+	<text>Je suis content que t'aies reussi. Voici ce que je t'ai promis:</text>
+	</string>
+	<string id="st_default_task_finished_3">
+	<text>Bon, maintenant ton paiement.</text>
+	</string>
+	<string id="st_no_available_task">
+	<text>Dйsolй, j'ai rien du tout en ce moment.</text>
+	</string>
+	<string id="st_about_fetch_task_default">
+	<text>Je ne me souviens plus ce que je voulais dire... bon occupe-toi de ca, tu sais ce que je veux !</text>
+	</string>
+	<string id="st_return_for_reward">
+	<text>Reviens pour ta rйcompense.</text>
+	</string>
+	<string id="st_nevermind">
+	<text>А la rйflexion, tant pis. Reviens plus tard.</text>
+	</string>
+</string_table>

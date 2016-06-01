@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- Mutant body parts -->
+	<string id="mutant_flesh_meat_description">
+	<text>Dure et amиre, la viande de Croque-mort est un repas souvent mangй dans la zone. Bien que la plupart des Stalkers prйfиrent les produits en conserve hors de prix, s'ils ont le choix.</text>
+</string>
+	<string id="mutant_flesh_meat">
+	<text>Viande de Croque-mort</text>
+</string>
+	<string id="mutant_boar_chop_description">
+	<text>La rйponse de la Zone а un manque apparent de cфtelettes de porc. Beaucoup plus difficile а mвcher que leurs homologues non-radioactifs en dehors de la Zone.</text>
+</string>
+	<string id="mutant_boar_chop">
+	<text>Sanglier</text>
+</string>
+	<string id="mutant_dog_meat_description">
+	<text>Communйment rйcoltйs et commercialisйs dans la Zone. Prйfйrй a la viande de Croque-mort а cause de son goыt moins amer qui lui vaut un prix d'achat plus йlevй.</text>
+</string>
+	<string id="mutant_dog_meat">
+	<text>Viande de chien aveugle</text>
+</string>
+	<string id="mutant_psevdodog_meat_description">
+	<text>Plus difficile а obtenir que la viande de chien aveugle, mais le goыt est presque exactement le mкme. C'est pourquoi la plupart des Stalkers ne paieront pas plus cher que pour de la viande de chien aveugle.</text>
+</string>
+	<string id="mutant_psevdodog_meat">
+	<text>Viande de Pseudo-chien</text>
+</string>
+	<string id="mutant_krovosos_meat_description">
+	<text>Un morceau filandreux de viande de Sangsue. Malgrй les risques encourus pour en tuer un, sa viande est souvent vendue peu cher en raison de son goыt putride.</text>
+</string>
+	<string id="mutant_krovosos_meat">
+	<text>Viande de Sangsue</text>
+</string>
+	<string id="mutant_snork_hand_description">
+	<text>La main coupйe d'un snork. Pas considйrablement diffйrente de celle d'une personne, mais entiиrement grise, et couverte de cloques et de plaies suintantes.</text>
+</string>
+	<string id="mutant_snork_hand">
+	<text>Main de Snork</text>
+</string>
+	<string id="mutant_fracture_hand_description">
+	<text>Une main qui appartenait autrefois а un Izlom. Mince et trиs osseuse, elle a aussi des doigts extraordinaires longs et pointus.</text>
+</string>
+	<string id="mutant_fracture_hand">
+	<text>Main d'Izlom</text>
+</string>
+	<string id="mutant_zombi_hand_description">
+	<text>Une main sale et dйgoыtante de zombie. Aprиs avoir perdu tout, sauf leurs instincts de base, les Stalkers zombifies ont recours а leurs mains comme armes.</text>
+</string>
+	<string id="mutant_zombi_hand">
+	<text>Main de Zombie</text>
+</string>
+	<string id="mutant_chimera_meat_description">
+	<text>Une lourde dalle de viande rйcoltйe а partir d'une chimиre. Peu ont la chance de se dйlecter d'une telle bкte terrifiante, et naturellement sa viande se retrouve vendue а des prix йlevйs.</text>
+</string>
+	<string id="mutant_chimera_meat">
+	<text>Viande de Chimиre</text>
+</string>
+	<string id="mutant_tushkano_meat_description">
+	<text>Bien que petite par rapport а la viande rйcoltйes а partir d'autres mutants, elle n'est pas chиre et commune en raison du nombre apparemment sans fin de rongeurs qui vivent dans la Zone.</text>
+</string>
+	<string id="mutant_tushkano_meat">
+	<text>Viande de rongeurs</text>
+</string>
+	<string id="mutant_flesh_eye_description">
+	<text>Complиtement diffйrent de ceux des porcs de ferme dont ils descendent, le globe oculaire d'une Croque-mort est lourd, grand et entiиrement de couleur brune.</text>
+</string>
+	<string id="mutant_flesh_eye">
+	<text>Oeil de Croque-mort</text>
+</string>
+	<string id="mutant_boar_leg_description">
+	<text>Les sabots de Sanglier sont souvent portйs autour du cou comme porte-bonheur par certains Stalkers. Tandis que d'autres croient qu'ils ont des vertus plus 'exotiques' une fois reduits en une poudre fine.</text>
+</string>
+	<string id="mutant_boar_leg">
+	<text>Sabots de Sanglier</text>
+</string>
+	<string id="mutant_dog_tail_description">
+	<text>Une longue queue glabre anciennement attachй а l'extrйmitй arriиre d'un chien aveugle. N'ayant aucune utilitй pratique rйelle, elles sont les moins chиres de toutes les morceaux de mutants trouvйs dans la zone.</text>
+</string>
+	<string id="mutant_dog_tail">
+	<text>Queue de chien aveugle</text>
+</string>
+	<string id="mutant_psevdodog_tail_description">
+	<text>La fourrure couvrant la queue d'un pseudodog est un excellent isolant йlectrique et est souvent cousue dans les vкtements et armures а l'approche des parties les plus froides de l'annйe.</text>
+</string>
+	<string id="mutant_psevdodog_tail">
+	<text>Queue de Pseudo-chien</text>
+</string>
+	<string id="mutant_krovosos_jaw_description">
+	<text>Les tentacules d'une Sangsue produisent un solvant qui peut dissoudre а travers mкme le mutant le plus dur tout en йvitant simultanйment la coagulation du sang. De nombreux chercheurs, y compris les йcologistes, croient qu'elles renferment de nombreux secrets pouvant mener а de formidables progrиs en mйdecine.</text>
+</string>
+	<string id="mutant_krovosos_jaw">
+	<text>Tentacules de Sangsue</text>
+</string>
+	<string id="mutant_snork_leg_description">
+	<text>Les tendons hautement йlastiques des pieds et des jambes de Snorks leur donnent la possibilitй de faire des sauts extraordinairement longs, et ainsi de sauter bien plus loin que les кtres humains ordinaires.</text>
+</string>
+	<string id="mutant_snork_leg">
+	<text>Pied de Snork</text>
+</string>
+	<string id="mutant_chimera_cogot_description">
+	<text>Une dent extraite de la bouche d'une Chimиre. Les Chimиres perdent et remplacent leurs dents tout au long de leur vie, ce qui signifie que les dents que l'on trouve sont habituellement cassйes ou endommagйes, et donc pas trиs prйcieuses.</text>
+</string>
+	<string id="mutant_chimera_cogot">
+	<text>Dent de Chimиre</text>
+</string>
+	<string id="mutant_chimera_claw_description">
+	<text>Bien que capable de dйchirer plusieurs feuilles de kevlar sans effort, les griffes de Chimйres sont souvent usйes par une utilisation aussi extrкme, et tout comme leurs dents, sont йliminйes et remplacйes frйquemment, ce qui rend ce produit peu coыteux.</text>
+</string>
+	<string id="mutant_chimera_claw">
+	<text>Griffes de Chimиre</text>
+</string>
+	<string id="mutant_tushkano_head_description">
+	<text>Les yeux, les oreilles, la bouche et le nez d'un tushkano rassemblйes en un petit boоtier minuscule. Pas trиs utile, ni trиs prйcieux.</text>
+</string>
+	<string id="mutant_tushkano_head">
+	<text>Tкte de Tushkano</text>
+</string>
+	<string id="mutant_controller_brain_description">
+	<text>Les cerveaux des Contrфleurs sont trиs dйveloppйs, en mesure de prendre l'ascendant sur l'esprit d'autres кtres. Pour cette raison, ils sont trиs recherchйs par les йcologistes et peuvent кtre vendus pour beaucoup plus que la plupart des autres morceaux de mutants.</text>
+</string>
+	<string id="mutant_controller_brain">
+	<text>Cerveau de Contrфleur</text>
+</string>
+	<string id="mutant_controller_hand_description">
+	<text>Les mains d'un Contrфleur sont soupзonnйes de complйter certaines de ses capacitйs mentales, comme lui donner le pouvoir de diriger ses rafales psychiques. C'est pourquoi elles sont elles aussi trиs prisйes par les йcologistes, pour qui leur valeur est tout aussi importante que celle du cerveau du Contrфleur.</text>
+</string>
+	<string id="mutant_controller_hand">
+	<text>Main de Contrфleur</text>
+</string>
+	<string id="mutant_cat_tail_description">
+	<text>Les Chats dans la Zone semblent avoir йvoluй а partir de la population locale de Lynx sauvages. Leur queues sont portйes par les Stalkers comme symbole de conscience de son environnement, leur donnant au moins une certaine valeur contrairement а celles de leurs homologues canins.</text>
+</string>
+	<string id="mutant_cat_tail">
+	<text>Queue de chat</text>
+</string>
+	<string id="mutant_pseudogigant_hand">
+	<text>Main de Pseudo-Gйant</text>
+</string>
+	<string id="mutant_pseudogigant_hand_description">
+	<text>Une grande main musclйe de Pseudogйant, qui sont ironiquement une des plus petites parties du corps de la crйature. Pas trиs utile, mais difficile а obtenir, c'est pourquoi on en obtient toujours un bon prix а la vente, quel que soit l'acheteur.</text>
+</string>
+	<string id="mutant_pseudogigant_eye">
+	<text>Oeil de Pseudo-Gйant</text>
+</string>
+	<string id="mutant_pseudogigant_eye_description">
+	<text>Un grand globe oculaire grotesque ayant autrefois appartenu а un Pseudogйant. Il est intйressant de noter que les globes oculaires d'un Pseudogйant sont gйnйralement de deux tailles diffйrentes. Bien que pas particuliиrement intйressants, ils peuvent gйnйralement se vendre pour un bon prix.</text>
+</string>
+	<string id="mutant_burer_hand_description">
+	<text>Les mains d'un Burer sont directement liйes а leurs capacitйs psychiques, et les rendent capables de dйplacer des objets, se protйger et provoquer des ondes de choc а distance. Naturellement, elles sont d'un intйrкt particulier pour les йcologistes, et sont trиs prйcieuses.</text>
+</string>
+	<string id="mutant_burer_hand">
+	<text>Main de Burer</text>
+</string>
+</string_table>

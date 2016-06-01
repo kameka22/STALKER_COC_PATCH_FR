@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_itm_backpack_name">
+	<text>Sac а dos</text>
+			</string>
+	<string id="st_itm_backpack_desc">
+	<text>Un sac а dos en matйriau durable capable de rйsister aux conditions climatiques les plus rudes.</text>
+			</string>
+	<string id="st_itm_sleepbag_name">
+	<text>Sac de couchage</text>
+			</string>
+	<string id="st_itm_sleepbag_desc">
+	<text>Un sac de couchage conзu pour garder l'utilisateur au chaud et cachй la nuit.</text>
+			</string>
+	<string id="st_sleep">
+	<text>Dormir</text>
+			</string>
+	<string id="st_itm_actor_backpack_name">
+	<text>Kit champ</text>
+			</string>
+	<string id="st_itm_actor_backpack_desc">
+	<text>Un sac а dos durable avec diverses poches et compartiments йquipйs de fermoirs а libйration rapide; donnant la possibilitй de le laisser tomber derriйre soi en un instant.</text>
+	</string>
+	<string id="st_itm_gunsmith_toolkit">
+	<text>Gunsmith boоte а outils</text>
+	</string>
+	<string id="st_itm_gunsmith_toolkit_descr">
+	<text>Une boоte а outils contenant des huiles et des outils utilisйs pour l'entretien de base des armes а feu. Trиs utile, mais aussi trиs lourde.</text>
+	</string>
+	<string id="st_itm_gunsmith_toolkit_tier_2">
+	<text>Boоte а outils complиte pour armes</text>
+	</string>
+	<string id="st_itm_gunsmith_toolkit_tier_2_descr">
+	<text>Une boоte а outils contenant des huiles et des outils utilisйs pour l'entretien des armes а feu. Trиs utile, mais aussi trиs lourde.</text>
+	</string>
+</string_table>

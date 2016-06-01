@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_af_baloon_descr">
+		<text>Conglomйrat de formations organiques poreuses, cet artйfact exsude une substance gazeuse qui neutralise les particules radioactives. Trиs efficace, il est trиs recherchй.</text>
+	</string>
+	<string id="st_af_baloon_name">
+		<text>Bulle</text>
+	</string>
+	<string id="st_af_blood_descr">
+		<text>Formation rougeвtre de dйbris polymйrisйs et fossilisйs de plantes, de terre et d'os. Neutralise les toxines chimiques, mais йmet des radiations.</text>
+	</string>
+	<string id="st_af_blood_name">
+		<text>Pierre sanguine</text>
+	</string>
+	<string id="st_af_cristall_descr">
+		<text>Cet artйfact se forme dans les zones anormales а l'activitй thermique intense. Il absorbe la chaleur ambiante et reste ainsi toujours froid au toucher. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_cristall_flower_descr">
+		<text>Cet artйfact est issu de la dйformation d'une pierre granitique par des forces gravitationnelles intenses, ce qui a crйй un corps cristallin dont les propriйtйs restent inexpliquйes а ce jour. Procure une protection modйrйe contre les йmissions psi, mais йmet des radiations.</text>
+	</string>
+	<string id="st_af_cristall_flower_name">
+		<text>Fleur protectrice</text>
+	</string>
+	<string id="st_af_cristall_name">
+		<text>Cristal</text>
+	</string>
+	<string id="st_af_dummy_battery_descr">
+		<text>L'origine des йlйments йlectrostatiques qui composent cet artйfact reste un mystиre pour les scientifiques. Trиs populaire dans la Zone pour ses propriйtйs йnergisantes et ce, en dйpit de l'usure physique provoquйe par un usage prolongй. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_dummy_battery_name">
+		<text>Batterie</text>
+	</string>
+	<string id="st_af_dummy_dummy_descr">
+		<text>Cet artйfact a longtemps йtй considйrй comme inutile, mais des scientifiques ont rйcemment dйcouvert que s'il йtait gardй en contact constant avec le corps, il avait un effet stimulant sur le systиme nerveux. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_dummy_dummy_name">
+		<text>Coquille</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_descr">
+		<text>Cet artйfact reste un mystиre pour les scientifiques qui l'ont examinй. Cependant, force est de constater que les pulsations produites par ses sections les plus йpaisses amйliorent la coagulation du sang dans les plaies, ce qui accйlиre nettement la vitesse de guйrison des blessures. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_name">
+		<text>Gouttes nourriciиres</text>
+	</string>
+	<string id="st_af_electra_flash_descr">
+		<text>Cet artйfact йlectrostatique peut absorber, puis dйcharger de grandes quantitйs d'йlectricitй. Il est capable de protйger son porteur contre des dйcharges pouvant atteindre 5 000 volts. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_electra_flash_name">
+		<text>Flash</text>
+	</string>
+	<string id="st_af_electra_moonlight_descr">
+		<text>Cet artйfact unique rйsonne sous l'influence des йmissions psi. Les stalkers ont appris а l'utiliser pour qu'il йmette des vibrations de nature contraire et neutralise les йmissions psi en partie ou en totalitй. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_electra_moonlight_name">
+		<text>Clair de Lune</text>
+	</string>
+	<string id="st_af_electra_sparkler_descr">
+		<text>Appartenant au groupe des artefacts йlectrostatiques, l'йtincelle peut rйduire les fluctuations des champs йlectriques. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_electra_sparkler_name">
+		<text>Йtincelle</text>
+	</string>
+	<string id="st_af_eye_descr">
+		<text>Cet artйfact ressemble йtrangement а un њil humain. Il accйlиre le mйtabolisme et la cicatrisation des plaies. Les vйtйrans disent qu'il porte chance. Йmet des radiations. </text>
+	</string>
+	<string id="st_af_eye_name">
+		<text>Њil</text>
+	</string>
+	<string id="st_af_fire_descr">
+		<text>Cet artйfact trиs rare se forme dans les zones а intense activitй thermique. Ses radiations infrarouges accйlиrent les processus mйtaboliques et donc la cicatrisation. De trиs grande valeur, il йmet des radiations.</text>
+	</string>
+	<string id="st_af_fire_name">
+		<text>Flammиche</text>
+	</string>
+	<string id="st_af_fireball_descr">
+		<text>Bien que cet artйfact йmette de la chaleur, l'utilisateur peut le manier sans peur de se brыler. Il maintient une tempйrature de 75 degrйs fahrenheit tout autour de lui, quelles que soient les conditions environnementales. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_fireball_name">
+		<text>Bolide</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_descr">
+		<text>artйfact relativement rare qui se forme dans les zones contaminйes par des produits chimiques, le Kolobok est trиs apprйciй pour ses vertus rйgйnйratrices. Pour des raisons encore inexpliquйes, les scientifiques prйtendent qu'il modifierait йgalement le code gйnйtique des stalkers qui s'en servent. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_name">
+		<text>Kolobok</text>
+	</string>
+	<string id="st_af_glass_name">
+		<text>Luciole</text>
+	</string>
+	<string id="st_af_glass_descr">
+		<text>La Luciole interagit avec des champs de type inconnu pour accйlйrer la rйgйnйration des tissus et des organes des кtres vivants, et stabiliser les processus mйtaboliques. Cet artйfact peut littйralement remettre un stalker agonisant sur pied en quelques secondes. Malheureusement, il est trиs rare. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_gold_fish_descr">
+		<text>Rйsultat de l'interaction d'un grand nombre de champs gravitationnels, le Cyprin produit son propre champ gravitationnel qui allиge les objets alentours. Trиs utile pour rйduire le poids de l'йquipement transportй, il est trиs demandй. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_gold_fish_name">
+		<text>Cyprin</text>
+	</string>
+	<string id="st_af_gravi_descr">
+		<text>Le Gravi se forme а partir de substances mйtalliques exposйes pendant de longues pйriodes а des forces gravitationnelles intenses. Il gйnиre un champ antigravitationnel et permet donc aux stalkers de transporter des charges plus importantes. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_gravi_name">
+		<text>Gravi</text>
+	</string>
+	<string id="st_af_ice_descr">
+		<text>А premiиre vue, cet artйfact ressemble а un Kolobok. Certains affirment qu'il s'agit d'ailleurs du mкme artйfact, avec des propriйtйs dйcuplйes suite а une exposition а un puissant champ йlectrique. Grвce а ses propriйtйs uniques, il amйliore nettement la capacitй musculaire de son porteur. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_ice_name">
+		<text>Flocon</text>
+	</string>
+	<string id="st_af_medusa_descr">
+		<text>Cet artйfact gravitationnel attire et absorbe les particules radioactives et rйduit donc leurs effets sur le corps humain. Trиs courant dans la Zone et mкme а l'extйrieur, mais de faзon officieuse, il est utilisй en cas d'irradiation.</text>
+	</string>
+	<string id="st_af_medusa_name">
+		<text>Mйduse</text>
+	</string>
+	<string id="st_af_mincer_meat_descr">
+		<text>Cet artйfact organique est constituй de tissus fossilisйs d'animaux mutants. Lorsqu'il est placй dans un milieu contaminй par des produits chimiques, il les convertit en un mucus fluide. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_mincer_meat_name">
+		<text>Morceau de viande</text>
+	</string>
+	<string id="st_af_night_star_descr">
+		<text>Cet artйfact luisant gйnиre un faible champ antigravitationnel. Les Stalkers l'utilisent en gйnйral pour renforcer les effets d'un gravi. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_night_star_name">
+		<text>Йtoile phosphorescente</text>
+	</string>
+	<string id="st_af_soul_descr">
+		<text>artйfact organique aux propriйtйs uniques. Amйliore nettement le mйtabolisme, modifiant ainsi la vitesse de cicatrisation, sans pour autant accйlйrer l'accumulation des toxines. Grвce а son prix raisonnable et а son apparence plaisante, cet artйfact est trиs prisй par les collectionneurs. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_soul_name">
+		<text>Cњur</text>
+	</string>
+	<string id="st_af_vyvert_descr">
+		<text>Cet artйfact de forme йtrange apparaоt dans les zones d'activitй gravitationnelle anormale. Il agit comme une йponge qui absorbe les particules radioactives et protиge ainsi le porteur contre les radiations. Il permet йgalement de neutraliser les particules dйjа absorbйes par le corps.</text>
+	</string>
+	<string id="st_af_vyvert_name">
+		<text>Tortillon</text>
+	</string>
+	<string id="st_compass">
+		<text>Boussole</text>
+	</string>
+	<string id="st_compass_descr">
+		<text>Cela fait plusieurs annйes que personne n'a trouvй un tel artйfact. Il permettrait de traverser les champs d'anomalies les plus complexes sans aucune difficultй, et en indiquerait les passages sыrs. Trиs peu de gens savent s'en servir correctement.</text>
+	</string>
+	<string id="st_oasis_heart">
+		<text>Cњur de l'Oasis</text>
+	</string>
+	<string id="st_oasis_heart_descr">
+		<text>Cet artйfact a йtй trouvй au cњur de la lйgendaire Oasis. Il ressemble а une plante cristallisйe qui aurait acquis les propriйtйs curatives des lieux. Cependant, contrairement а l'Oasis, cet artйfact est hautement radioactif.</text>
+	</string>
+	<string id="af_drops">
+	<text>Gouttelettes</text>
+</string>
+	<string id="st_af-drops_descr">
+	<text>Formй а l'anomalie Brыleur, а des tempйratures йlevйes. De l'extйrieur, il ressemble а un composй de l'ombre а la dйchirure comme avec une surface brillante, couvert de fissures.</text>
+</string>
+	<string id="af_ameba_slime">
+	<text>Slime</text>
+</string>
+	<string id="st_af_ameba_slime_descr">
+	<text>Il est certain que cet artйfact est crйй par l'anomalie appelйe 'champignon visqueux'. Lorsqu'il est portй а la ceinture, les plaies saignent moins, bien que le corps de son propriйtaire devient plus vulnйrable а diverses brыlures.</text>
+</string>
+	<string id="af_ameba_slug">
+	<text>Limace</text>
+</string>
+	<string id="st_af_ameba_slug_descr">
+	<text>Formй par l'anomalie 'champignon visqueux'. Les aspects nйgatifs de cet artйfact sont compensйs par le fait qu'il augmente la qualitй de la coagulation du sang. On a peu souvent la chance de le rencontrer, et les acheteurs en donnent un bon prix.</text>
+</string>
+	<string id="af_ameba_mica">
+	<text>Mica</text>
+</string>
+	<string id="st_af_ameba_mica_descr">
+	<text>l'anomalie 'champignon visqueux' n'est en mesure de crйer un tel artйfact que rarement, quand les plus extrкmes conditions physiques sont rйunies. Le rйsultat est un objet dur semi-transparent. Un artйfact rare et cher.</text>
+</string>
+	<string id="af_dummy_spring">
+	<text>Le printemps</text>
+</string>
+	<string id="st_af_dummy_spring_descr">
+	<text>Selon l'avis de certains chercheurs thйoriciens, cet artйfact est un hybride entre les Batteries et les Coquilles.</text>
+</string>
+	<string id="af_dummy_pellicle">
+	<text>Pellicule</text>
+</string>
+	<string id="st_af_dummy_pellicle_descr">
+	<text>Cet artйfact est si rare que de nombreux chercheurs peinent а imaginer qu'un tel йlйment puisse exister. Йmet des composants chimiques acides.</text>
+</string>
+	<string id="af_rusty_thorn">
+	<text>Йpine</text>
+</string>
+	<string id="st_af_rusty_thorn_descr">
+	<text>Le rйsultat de l'interaction entre l'anomalie Flore Ardente et le corps d'un Stalker nйgligent. L'artйfact Йpine pique le corps de son propriйtaire, peu importe de la maniиre dont on le tient. Mais il contribue йgalement а nettoyer le corps des radionuclйides. Assez rйpandu et peu cher.</text>
+</string>
+	<string id="af_rusty_kristall">
+	<text>Cristal Thorn</text>
+</string>
+	<string id="st_af_rusty_kristall_descr">
+	<text>Cristallisй dans l'anomalie Flore Ardente. Expulse naturellement les radiations hors de l'organisme. Plus prйcisйment, par les oreilles avec la perte d'une certaine quantitй de sang. L'йcoulement de sang est aussi possible par les plaies. Rйpandu et assez efficace, ce qui est la raison de son prix stable sur le marchй des artйfacts.</text>
+</string>
+	<string id="af_rusty_sea_urchin">
+	<text>Oursin</text>
+</string>
+	<string id="st_af_rusty_sea_urchin_descr">
+	<text>L'anomalie Flore Ardente donne trиs rarement naissance а cet artйfact. Йlиve la pression sanguine et, ainsi, le corps se dйbarrasse d'une grande quantitй de globules rouges. Mais avec eux les radiations emprisonnйes quittent elles aussi l'organisme. Dans son ouvrage fondamental intitulй 'ionisation et polarisation des composants des artйfacts rares', Sakharov a notй que le contenu de cette formation a une stabilitй critique, et qu'il n'est pas rйaliste d'espйrer crйer un tel artйfact en conditions de laboratoire dans les dix prochaines annйes.</text>
+	</string>
+</string_table>

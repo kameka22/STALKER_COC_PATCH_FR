@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- bar_visitors_stalker_mechanic -->
+	<string id="bar_visitors_stalker_mechanic_task_1_name">
+	<text>Trouvez %s</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_text">
+	<text>Vous avez йtй invitй а rйcupйrer un %s. Ramenez зa а Mangun si vous arrivez а mettre la main dessus.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_about">
+	<text>J'aurais vraiment besoin d'un bon jeu d'outils, Stalker... et peut-кtre un peu d'argent, aussi. Si зa t'intйresse de m'aider, je vais te dire ce que je cherche.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_about">
+	<text>Je besoin d'un %s. Cette boоte devrait contenir les outils qu'il me faut pour bosser sur les armes. Si tu peux m'en rapporter, j'te serais reconnaissant, je vais mкme te payer pour зa... peut-кtre.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_finish">
+	<text>Cool mon pote... euh, dйsolй, je peux pas te payer. Je vais te faire une bonne rйduc' quand mкme, mec !</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_name">
+	<text>Trouvez %s</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_text">
+	<text>Vous avez йtй invitй а rйcupйrer un %s. Il a besoin d'outils plus avancйs pour faire de meilleures mises а niveau. Ramenez зa а Mangun si vous arrivez а mettre la main dessus.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_about">
+	<text>Hй, mec, si t'arrives а m'trouver des outils plus avancйs, je te ferais un rabais. Tu cherches зa pour moi ?</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_about">
+	<text>J'ai besoin d'un %s. Cette boоte devrait contenir certains outils dont j'ai besoin pour amйliorer les armes. Je t'aimerais comme un cousin si tu peux faire зa pour moi, mec.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_finish">
+	<text>Bien bien ! Maintenant peut-кtre que je peux enfin gagner de l'argent. Je vais passer а la vitesse supйrieure, Stalker... enfin si je peux m'y tenir. J'ai pas beaucoup mieux а offrir qu'un rabais. Dйsolй.</text>
+	</string>
+	<!-- bar_dolg_general_petrenko_stalker -->
+	<string id="bar_dolg_general_petrenko_stalker_task_1_name">
+	<text>Conquйrir un territoire</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_text">
+	<text>Vous avez йtй chargй de conquйrir un territoire dans la Zone. Revenez faire un rapport au gйnйral Petrenko quand le travail sera fait.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_about">
+	<text>J'ai йtй informй qu'une menace pour l'un de nos camps est apparue. Nous devons rйagir avant que l'ennemi ne se dйplace. J'ai besoin de quelqu'un capable de mener cette tвche а bien.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_finish">
+	<text>La tвche est terminйe ? Bien.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_name">
+	<text>Dйfendre le territoire</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_text">
+	<text>Vous avez йtй chargй de dйfendre un territoire de faction. Revenez faire un rapport au gйnйral Petrenko quand le travail sera fait.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_about">
+	<text>J'ai une mission importante а donner. L'ennemi a repris l'un de nos camps et j'ai besoin d'une escouade de braves hommes pour le rйcupйrer.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_finish">
+	<text>Tвche terminйe ? Bon travail.</text>
+	</string>
+</string_table>

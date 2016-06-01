@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- esc_2_12_nimble -->
+	<string id="esc_2_12_nimble_items_get_order_name">
+	<text>Commande spйciale: rйcupйrer la marchandise.</text>
+	</string>
+	<string id="esc_2_12_nimble_items_get_order_text">
+	<text>La marchandise a йtй livrйe - allez la rйcupйrer auprиs de Nimble.</text>
+	</string>
+	<string id="esc_2_12_nimble_items_wait_order_name">
+	<text>Commande spйciale: attendre la livraison</text>
+	</string>
+	<string id="esc_2_12_nimble_items_wait_order_text">
+	<text>La commande a йtй passйe, attendez le retour de Nimble pour rйcupйrer la marchandise.</text>
+	</string>
+ 
+	<!-- Surge Hide -->
+	<string id="hide_from_surge_message">
+	<text>Attention! Emission imminente!</text>
+	</string>
+	<string id="hide_from_surge_descr_1_a">
+	<text>Emission imminente, abritez-vous immйdiatement!</text>
+	</string>
+	<string id="hide_from_surge_descr_2_a">
+	<text>Vous n'кtes pas autorisй а quitter votre refuge pendant une йmission.</text>
+	</string>
+	<string id="hide_from_surge_name_1">
+	<text>Emission: trouver un abri</text>
+	</string>
+	<string id="hide_from_surge_name_2">
+	<text>Emission: Rester а l'abri</text>
+	</string>
+ 
+	<!-- AtmosFear Fallout -->
+	<string id="hide_from_fallout_rad_message_caption">
+	<text>Attention!</text>
+	</string>
+	<string id="hide_from_fallout_rad_message">
+	<text>Les retombйes radioactives commencent.</text>
+	</string>
+	<string id="hide_from_fallout_rad_descr_1_a">
+	<text>Le niveau de rayonnement est dangereux. Vous devez vous abriter des retombйes radioactives.</text>
+	</string>
+	<string id="hide_from_fallout_rad_descr_2_a">
+	<text>Vous ne devriez pas quitter votre refuge pendant les retombйes radioactives.</text>
+	</string>
+	<string id="hide_from_fallout_rad_name_1">
+	<text>Les retombйes radioactives: trouver un abri</text>
+	</string>
+	<string id="hide_from_fallout_rad_name_2">
+	<text>Les retombйes radioactives: Rester а l'abri</text>
+	</string>
+	<string id="end_fallout_rad_message_caption">
+	<text>Attention!</text>
+	</string>
+	<string id="end_fallout_rad_message">
+	<text>Retombйes radioactives terminйes</text>
+	</string>
+ 
+	<string id="hide_from_fallout_acid_message_caption">
+	<text>Attention!</text>
+	</string>
+	<string id="hide_from_fallout_acid_message">
+	<text>Les retombйes chimiques commencent.</text>
+	</string>
+	<string id="hide_from_fallout_acid_descr_1_a">
+	<text>Le niveau de contamination est dangereux. Vous devez vous abriter des retombйes chimiques.</text>
+	</string>
+	<string id="hide_from_fallout_acid_descr_2_a">
+	<text>Vous ne devriez pas quitter votre refuge pendant la retombйes chimiques.</text>
+	</string>
+	<string id="hide_from_fallout_acid_name_1">
+	<text>Retombйes chimique: trouver un abri</text>
+	</string>
+	<string id="hide_from_fallout_acid_name_2">
+	<text>Retombйes chimique: Restez а l'abri</text>
+	</string>
+	<string id="end_fallout_acid_message_caption">
+	<text>Attention!</text>
+	</string>
+	<string id="end_fallout_acid_message">
+	<text>Retombйes chimiques terminйes</text>
+	</string>
+ 
+	<!-- AtmosFear Psi Storm -->
+	<string id="hide_from_psi_storm_message_caption">
+	<text>Attention!</text>
+	</string>
+	<string id="hide_from_psi_storm_message">
+	<text>Psi-tempкte commence.</text>
+	</string>
+	<string id="hide_from_psi_storm_descr_1_a">
+	<text>Vous devriez cacher de la psi-tempкte.</text>
+	</string>
+	<string id="hide_from_psi_storm_descr_2_a">
+	<text>Vous ne devriez pas quitter votre refuge pendant la tempкte psi.</text>
+	</string>
+	<string id="hide_from_psi_storm_name_1">
+	<text>Psi-tempкte: trouver un abri</text>
+	</string>
+	<string id="hide_from_psi_storm_name_2">
+	<text>Psi-tempкte: Rester а l'abri</text>
+	</string>
+	<string id="end_psi_storm_caption">
+	<text>Attention!</text>
+	</string>
+	<string id="end_psi_storm_message">
+	<text>Psi-tempкte terminйe</text>
+	</string>
+ 
+	<!-- Yantar Miracle Machine -->
+	<string id="tips_labx16switcher_press">
+	<text>Йteignez la machine ($$ACTION_USE$$)</text>
+	</string>
+ 
+	<!-- Simulation tasks -->
+	<string id="simulation_task_1_name">
+	<text>Procure %s</text>
+	</string>
+	<string id="simulation_task_1_text">
+	<text>Un pote Stalker m'a demandй de lui apporter %s.</text>
+	</string>
+	<string id="simulation_task_1_about">
+	<text>J'suis un peu juste niveau fournitures. Si t'en as а me filer ou que tu veux bien m'en rapporter, зa m'arrangerait vraiment.</text>
+	</string>
+	<string id="simulation_task_1_fetch_about">
+	<text>Je suis а court de %s. T'en as sur toi ? Viens me trouver si tu mets la main dessus.</text>
+	</string>
+	<string id="simulation_task_1_fetch_finish">
+	<text>Merci!</text>
+	</string>
+	<string id="simulation_task_2_name">
+	<text>Procure %s</text>
+	</string>
+	<string id="simulation_task_2_text">
+	<text>On m'a demandй de trouver %s, pour un pote Stalker.</text>
+	</string>
+	<string id="simulation_task_2_about">
+	<text>Merde, mec. Tu peux me rendre un gros service ? Je suis а court de fournitures. Tu peux m'aider ?</text>
+	</string>
+	<string id="simulation_task_2_fetch_about">
+	<text>Je suis а court de %s. T'en as sur toi ? Viens me trouver si tu mets la main dessus.</text>
+	</string>
+	<string id="simulation_task_2_fetch_finish">
+	<text>Merveilleux, mec. Merci !</text>
+	</string>
+	<string id="simulation_task_3_name">
+	<text>Chercher et sauver</text>
+	</string>
+	<string id="simulation_task_3_text">
+	<text>Le pote d'un Stalker a йtй kidnappй par un gang de bandits. Il m'a demandй d'essayer de le sauver.</text>
+	</string>
+	<string id="simulation_task_3_about">
+	<text>J'aurais vraiment besoin d'un coup de main, mec. Mon pote a йtй agressй et pris en otage par des bandits. Je sais vraiment pas ce que je dois faire. Tu crois que tu pourrais m'aider et sauver mon pote ?</text>
+	</string>
+	<string id="simulation_task_3_finish">
+	<text>Tu l'as fait! Merci, Stalker. C'est bon de revoir son pote vivant ! Tiens -pour ta peine:</text>
+	</string>
+	<string id="simulation_task_4_name">
+	<text>Chercher et sauver</text>
+	</string>
+	<string id="simulation_task_4_text">
+	<text>J'ai йtй chargй de sauver un membre du Devoir pris en otage.</text>
+	</string>
+	<string id="simulation_task_4_about">
+	<text>Stalker, notre camarade a йtй blessй et capturй ! Il nous faut absolument quelqu'un capable d'organiser une opйration de sauvetage de type raid-йclair sans appui aйrien rapprochй. Croyez-vous pouvoir nous aider, et sauver notre camarade ?</text>
+	</string>
+	<string id="simulation_task_4_finish">
+	<text>Merci, Stalker. C'est bon de voir que vous avez rйussi а sauver notre compagnon, camarade ! Tenez -pour vos efforts glorieux dans le soutien au Devoir:</text>
+	</string>
+	<string id="simulation_task_5_name">
+	<text>Chercher et sauver</text>
+	</string>
+	<string id="simulation_task_5_text">
+	<text>Je dois libйrer un membre de la Libertй. Ouais, c'est assez ironique.</text>
+	</string>
+	<string id="simulation_task_5_about">
+	<text>Stalker, not' poteau a йtй blessй, et il s'est fait choper ! Y nous faut absolument un bon gars qui saurait organiser une opйration de sauvetage а la Rambo. Tu crois qu'tu saurais aller sauver notre pote ?</text>
+	</string>
+	<string id="simulation_task_5_finish">
+	<text>Yeah mais tu l'as fait gars !!! Trop merci, Stalker. C'est bon de revoir son pote vivant ! Tiens -v'lа de quoi t'acheter de quoi planer bien haut ce soir:</text>
+	</string>
+	<string id="hostage_companion_task_1_start_dialog_1">
+	<text>Qui t'es toi ? T'es lа pour m'aider ?</text>
+	</string>
+	<string id="hostage_companion_task_1_actor_reply">
+	<text>Viens avec moi si tu veux vivre. Tain-dain Tain-dain-dain !</text>
+	</string>
+</string_table>

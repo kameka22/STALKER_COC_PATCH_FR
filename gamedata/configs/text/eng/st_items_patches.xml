@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="csky_patch">
+	<text>Ecusson ClearSky</text>
+	</string>
+	<string id="csky_patch_description">
+	<text>Un insigne arrachй d'un uniforme de la faction Firmament.</text>
+	</string>
+ 
+	<string id="freedom_patch">
+	<text>Ecusson Libertй</text>
+	</string>
+	<string id="freedom_patch_description">
+	<text>Un insigne arrachй d'un uniforme de la faction de la Libertй.</text>
+	</string>
+ 
+	<string id="stalker_patch">
+	<text>Ecusson Loner</text>
+	</string>
+	<string id="stalker_patch_description">
+	<text>Un insigne arrachй de l'uniforme d'un Stalker solitaire.</text>
+	</string>
+ 
+	<string id="ecolog_patch">
+	<text>Ecusson Scientifique</text>
+	</string>
+	<string id="ecolog_patch_description">
+	<text>Un insigne arrachй de l'uniforme d'un йcologiste.</text>
+	</string>
+ 
+	<string id="bandit_patch">
+	<text>Ecusson Bandit</text>
+	</string>
+	<string id="bandit_patch_description">
+	<text>Un insigne arrachй de l'uniforme d'un Bandit.</text>
+	</string>
+ 
+	<string id="duty_patch">
+	<text>Ecusson du Devoir</text>
+	</string>
+	<string id="duty_patch_description">
+	<text>Un insigne arrachй d'un uniforme de la faction du Devoir.</text>
+	</string>
+ 
+	<string id="monolith_patch">
+	<text>Ecusson Monolith</text>
+	</string>
+	<string id="monolith_patch_description">
+	<text>Un insigne arrachй d'un uniforme de la faction Monolithe.</text>
+	</string>
+ 
+	<string id="army_patch">
+	<text>Ecusson Militaire</text>
+	</string>
+	<string id="army_patch_description">
+	<text>Un insigne arrachй d'un uniforme de l'armйe ukrainienne.</text>
+	</string>
+ 
+	<string id="merc_patch">
+	<text>Ecusson Mercenaire</text>
+	</string>
+	<string id="merc_patch_description">
+	<text>Un insigne arrachй de l'uniforme d'un Mercenaire.</text>
+	</string>
+ 
+</string_table>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- yan_ecolog_semenov -->
+	<string id="yan_ecolog_semenov_task_1_name">
+	<text>Aider l'adjoint Semenov</text>
+</string>
+	<string id="yan_ecolog_semenov_task_1_text">
+	<text>L'adjoint de Sakharov, Semenov, vous a engagй pour l'escorter autour de la zone locale pour y tuer des mutants afin qu'il puisse rйcupйrer des йchantillons de tissus frais et analyser les cadavres avec son йquipement et son scanner.</text>
+</string>
+	<string id="yan_ecolog_semenov_task_1_about">
+	<text>Cela vous dйrangerait de m'aider а tuer des mutants afin que je puisse faire des mesures et prйlever des йchantillons de tissus ? Disons... environ cinq diffйrents mutants. Je vais mettre ma vie entre vos mains, vous devrez assurer ma sйcuritй. Je vous dйdommagerais pour vos efforts.</text>
+</string>
+	<string id="yan_ecolog_semenov_task_1_finish">
+	<text>Merci pour votre assistance, mon ami. J'ai tous les йchantillons de tissus que je voulait. Voici votre paiement... Revenez me voir dans un peu de temps.</text>
+</string>
+	<!-- yan_stalker_sakharov -->
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_name">
+	<text>Attendez Sakharov pour terminer les йtalonnages</text>
+</string>
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_text">
+	<text>Le Professeur Sakharov a acceptй de recalibrer le casque de protection-psy. Il vous a demandй de venir lui rendre visite dans quelques jours.</text>
+</string>
+	<string id="yan_stalker_sakharov_task_1_name">
+	<text>Trouvez %s</text>
+</string>
+	<string id="yan_stalker_sakharov_task_1_text">
+	<text>Sakharov a besoin d'un йchantillon de tissus d'un %s.</text>
+</string>
+	<string id="yan_stalker_sakharov_task_1_about">
+	<text>J'ai besoin d'un Stalker expйrimentй ou d'un chasseur de mutants. Est-ce que quelqu'un comme vous pourrait m'aider ?</text>
+</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_about">
+	<text>Je dois recueillir des йchantillons de tissus provenant d'un %s. Dйbrouillez-vous comme vous voulez pour l'obtenir, зa ne m'intйresse pas, je vous demande juste qu'il soit frais. Revenez ici le plus vite possible dиs que vous rйcupйrez cette partie du mutant.</text>
+</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_finish">
+	<text>Merci, monsieur. Je me mets au travail immediatement.</text>
+</string>
+	<string id="brain_machine_deactivate_name">
+	<text>Dйsactivez la 'Machine а Zombie'</text>
+</string>
+	<string id="brain_machine_deactivate_text">
+	<text>Sakharov vous a demandй de tester le casque-psy en dйsactivant l'йmetteur d'onde Psy connu sous le nom de 'Machine а Zombie'.</text>
+</string>
+</string_table>

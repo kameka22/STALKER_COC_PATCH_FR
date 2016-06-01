@@ -1,0 +1,2860 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<!-- UI STRINGS FOR CLOSED CAPTION MODS -->
+
+	<string id="ui_mm_cc_icc">
+	<text>Le sous-titrage</text>
+	</string>
+	<string id="ui_mm_cc_icc_chktext">
+	<text>Sur les effets sonores</text>
+	</string>
+	<string id="ui_mm_cc_captioning">
+	<text>Le sous-titrage dans le jeu</text>
+	</string>
+	<string id="ui_mm_cc_none">
+	<text>Aucun sous-titre</text>
+	</string>
+	<string id="ui_mm_cc_storyonly">
+	<text>Sous-titres uniquement importants</text>
+	</string>
+	<string id="ui_mm_cc_all">
+	<text>Tous les sous-titres</text>
+	</string>
+
+
+	<!-- STRING TABLE ADDITIONS FOR GAME -->
+
+	<string id="st_sending_msg">
+	<text>Envoi de message</text>
+	</string>
+	<string id="st_memo">
+	<text>Note</text>
+	</string>
+	<string id="st_msgfrom_err1">
+	<text>[expйditeur inconnu]</text>
+	</string>
+	<string id="st_msgfrom_err2">
+	<text>!DATA_ERROR!</text>
+	</string>
+	<string id="st_msgfrom_err3">
+	<text>Dйfaillance du rйseau =?</text>
+	</string>
+	<string id="st_joker_name">
+	<text>Joker</text>
+	</string>
+	<string id="st_soldier_name">
+	<text>Soldat</text>
+	</string>
+	<string id="st_hq_general_name">
+	<text>Gйnйral</text>
+	</string>
+	<string id="st_ssu_commander_name">
+	<text>Commande USS</text>
+	</string>
+
+
+	<!-- CLOSED CAPTIONS FOR GAME -->
+
+	<string id="cc_effect-ambient-blowout_begin">
+	<text>[йmission commence]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_bloodsucker_roar">
+	<text>[rugit sangsue]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_electro_box_door">
+	<text>[coffret йlectrique ouvre]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_electro_box_switch">
+	<text>[interrupteur clique]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_elevator_door">
+	<text>[porte de l'ascenseur ouvre]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_cop_elevator_landing">
+	<text>[Grouse tombe dans l'ascenseur]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_lock_sound">
+	<text>[porte se dйverrouille]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b57_bloodsucker_roar">
+	<text>[rugit sangsue]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b16_oasis_noise">
+	<text>[crйpitement bizarre de quelque part а proximitй]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b41_steam">
+	<text>[systиme de sas de dйcontamination actif]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b46_spatial_bubble_idle">
+	<text>[bulle spatiale gronde]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b46_spatial_bubble_rupture">
+	<text>[bulle spatiale йclate ouverte]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b219_generator_start">
+	<text>[gйnйrateur de puissance commence]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b219_underpass_opening">
+	<text>[porte souterrain ouvre]</text>
+	</string>
+	<string id="cc_effect-ambient-underpass-pas_b400_elevator_off">
+	<text>[ascenseur souterrain pouvoirs vers le bas]</text>
+	</string>
+	<string id="cc_effect-ambient-pripyat-pri_a25_blow_up_door_peep">
+	<text>[bombe rebours bip]</text>
+	</string>
+	<string id="cc_effect-ambient-pripyat-pri_a25_freezer_knock">
+	<text>[frapper sur le mйtal]</text>
+	</string>
+	<string id="cc_effect-device-door_start">
+	<text>[porte ouvre]</text>
+	</string>
+	<string id="cc_effect-device-door_closing">
+	<text>[porte se ferme]</text>
+	</string>
+	<string id="cc_effect-device-door_stop">
+	<text>[porte claque fermйes]</text>
+	</string>
+	<string id="cc_effect-device-metal_small_open">
+	<text>[porte mйtallique ouvre]</text>
+	</string>
+	<string id="cc_effect-device-power_switch">
+	<text>[passer clics]</text>
+	</string>
+	<string id="cc_effect-device-radio_call">
+	<text>[appel radio]</text>
+	</string>
+	<string id="cc_effect-device-wood_large_open">
+	<text>[porte en bois ouvre]</text>
+	</string>
+	<string id="cc_effect-device-wood_large_close_start">
+	<text>[porte en bois ferme]</text>
+	</string>
+
+	<string id="cc_effect-anomaly-steam_blowout">
+	<text>[sifflement de la vapeur]</text>
+	</string>
+	<string id="cc_effect-weapons-n_desert_eagle_shot">
+	<text>[coup de pistolet]</text>
+	</string>
+
+	<string id="cc_effect-music-guitar_">
+	<text>[musique de guitare]</text>
+	</string>
+	<string id="cc_effect-music-harmonica_">
+	<text>[harmonica musique]</text>
+	</string>
+	<string id="cc_effect-laughter_">
+	<text>[rires]</text>
+	</string>
+
+	<string id="cc_wounded-bandit-help">
+	<text>[bandit blessй demande de l'aide]</text>
+	</string>
+	<string id="cc_wounded-dolg-help">
+	<text>[blessйs Dutyer demande de l'aide]</text>
+	</string>
+	<string id="cc_wounded-freedom-help">
+	<text>[blessйs Freedomer demande de l'aide]</text>
+	</string>
+	<string id="cc_wounded-killer-help">
+	<text>[blessйs merc demande de l'aide]</text>
+	</string>
+	<string id="cc_wounded-military-help">
+	<text>[soldat blessй demande de l'aide]</text>
+	</string>
+	<string id="cc_wounded-monolith-help">
+	<text>[blessйs Monolithian demande de l'aide]</text>
+	</string>
+	<string id="cc_wounded-stalker-help">
+	<text>[Stalker blessй demande de l'aide]</text>
+	</string>
+
+	<string id="cc_fight-bandit-attack">
+	<text>[attaque de bandits]</text>
+	</string>
+	<string id="cc_fight-dolg-attack">
+	<text>[Attaque Duty]</text>
+	</string>
+	<string id="cc_fight-freedom-attack">
+	<text>[Attaque libertй]</text>
+	</string>
+	<string id="cc_fight-killer-attack">
+	<text>[attaque mercenaire]</text>
+	</string>
+	<string id="cc_fight-military-attack">
+	<text>[attaque de l'armйe]</text>
+	</string>
+	<string id="cc_fight-monolith-attack">
+	<text>[Attaque Monolith]</text>
+	</string>
+	<string id="cc_fight-stalker-attack">
+		<text>[stalker attaque]</text>
+	</string>
+
+
+	<!-- CLOSED CAPTIONS FOR 'CALL OF PRIPYAT' -->
+
+	<!-- Generic NPC responses -->
+
+	<string id="cc_generic-bandit-meet_hello_1">
+	<text>Commence а parler, mon pote.</text>
+	</string>
+	<string id="cc_generic-bandit-meet_hello_2">
+	<text>Je suis toute ouпe, mon pote.</text>
+	</string>
+	<string id="cc_generic-bandit-meet_hello_3">
+	<text>Eh ben, bonjour !</text>
+	</string>
+	<string id="cc_generic-bandit-meet_hide_weapon_1">
+	<text>Arrкte d'agiter ce machin !</text>
+	</string>
+	<string id="cc_generic-bandit-meet_hide_weapon_2">
+	<text>Arrкte d'agiter зa sous mon nez !</text>
+	</string>
+	<string id="cc_generic-bandit-meet_hide_weapon_3">
+	<text>Tu t'prends pour un dur ? Range ton flingue !</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_default_1">
+	<text>Allez, va faire chier quelqu'un d'autre, mon pote.</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_default_2">
+	<text>Je ne me sentais pas bavard est en ce moment.</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_default_3">
+	<text>Casse-toi !</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_fight_1">
+	<text>Qu'est-ce qui va pas chez toi ?</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_fight_2">
+	<text>Moins de blabla, plus d'action !</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_fight_3">
+	<text>t'as choisi un bon moment pour parler ...</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_talk_leader_1">
+	<text>Parle au boss.</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_talk_leader_2">
+	<text>Je ne suis pas payй pour йcouter tes conneries. Le patron si.</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_talk_leader_3">
+	<text>Si t'as besoin de quelque chose, le patron est lа-bas.</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_weapon_1">
+	<text>Je ne parle pas de vous quand t'as obtenu cette chose dans mon visage!</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_weapon_2">
+	<text>Mettez ce tireur de suite, puis nous allons parler.</text>
+	</string>
+	<string id="cc_generic-bandit-meet_use_no_weapon_3">
+	<text>Holster ce tireur ou se perdre!</text>
+	</string>
+	<string id="cc_generic-dolg-meet_hello_1">
+	<text>ce qui est nouveau?</text>
+	</string>
+	<string id="cc_generic-dolg-meet_hello_2">
+	<text>Salut et bien rencontrй!</text>
+	</string>
+	<string id="cc_generic-dolg-meet_hello_3">
+	<text>L'argent de temps. Obtenez parler!</text>
+	</string>
+	<string id="cc_generic-dolg-meet_hide_weapon_1">
+	<text>Holster cette arme, ami.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_hide_weapon_2">
+	<text>Holster votre arme.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_hide_weapon_3">
+	<text>Mettez cette arme loin, chef.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_default_1">
+	<text>Non, je ne me sens pas envie de parler.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_default_2">
+	<text>Dйsolй, mais je ne suis pas d'humeur а discuter.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_default_3">
+	<text>Je ne peux pas parler pour le moment.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_fight_1">
+	<text>nous allons parler une autre fois.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_fight_2">
+	<text>Plus tard. Nous parlerons plus tard.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_fight_3">
+	<text>Ceci est un mauvais moment pour japper.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_talk_leader_1">
+	<text>Parlez au commandant d'escouade si vous voulez quelque chose.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_talk_leader_2">
+	<text>Stalker, diriger vos questions au commandant.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_talk_leader_3">
+	<text>Allez voir le commandant.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_weapon_1">
+	<text>Nous pouvons chattons lorsque cette arme est pas dans mon visage.</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_weapon_2">
+	<text>Soit mettre ce tireur de suite, ou tout simplement disparaоtre!</text>
+	</string>
+	<string id="cc_generic-dolg-meet_use_no_weapon_3">
+	<text>nous allons parler lorsque vous Holster votre arme.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_hello_1">
+	<text>Eh bien, le renverser!</text>
+	</string>
+	<string id="cc_generic-freedom-meet_hello_2">
+	<text>Je suis а l'йcoute, l'homme.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_hello_3">
+	<text>ce qui est en place, bro?</text>
+	</string>
+	<string id="cc_generic-freedom-meet_hide_weapon_1">
+	<text>ne pas jouer le hйros. Gardez ce tireur holstered.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_hide_weapon_2">
+	<text>Holster votre tireur, bon sang!</text>
+	</string>
+	<string id="cc_generic-freedom-meet_hide_weapon_3">
+	<text>Peace out, l'homme! Йtui qui canon de la vфtre.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_default_1">
+	<text>Scram!</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_default_2">
+	<text>Cette conversation ne se produit pas, et qui est la fin de celui-ci!</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_default_3">
+	<text>Je ne peux pas кtre dйrangй discuter maintenant.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_fight_1">
+	<text>Mec, tu es fou!</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_fight_2">
+	<text>il est comme, le tir et d'autres choses, vous savez?</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_fight_3">
+	<text>il est а peine le temps de parler.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_talk_leader_1">
+	<text>Allez, parler au patron, l'homme!</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_talk_leader_2">
+	<text>Je doute que je peux vous dire quelque chose d'utile. Allez, voir le chef.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_talk_leader_3">
+	<text>Laissez-moi tranquille, l'homme. Parlez au patron, il est lа-bas.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_weapon_1">
+	<text>Envisagez-vous de tirer ou de parler? Holster cette arme!</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_weapon_2">
+	<text>Je ne suis pas dйsireux de parler а des gens qui sont pointant une arme sur moi.</text>
+	</string>
+	<string id="cc_generic-freedom-meet_use_no_weapon_3">
+	<text>nous allons parler une fois que le tireur est rangй dans son йtui.</text>
+	</string>
+	<string id="cc_generic-military-meet_hello_1">
+	<text>Salut?</text>
+	</string>
+	<string id="cc_generic-military-meet_hello_2">
+	<text>Qu'est ce que tu veux?</text>
+	</string>
+	<string id="cc_generic-military-meet_hello_3">
+	<text>Eh bien? J'йcoute...</text>
+	</string>
+	<string id="cc_generic-military-meet_hide_weapon_1">
+	<text>Baissez votre arme.</text>
+	</string>
+	<string id="cc_generic-military-meet_hide_weapon_2">
+	<text>Mettez votre arme de suite!</text>
+	</string>
+	<string id="cc_generic-military-meet_hide_weapon_3">
+	<text>Holster votre arme.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_default_1">
+	<text>J'ai pas le temps de parler.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_default_2">
+	<text>Je ne peux pas vous aider.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_default_3">
+	<text>Laissez-moi tranquille, Major.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_fight_1">
+	<text>Nous allons parler quand le combat est fini.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_fight_2">
+	<text>Quittez ce bavardage et de se concentrer!</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_fight_3">
+	<text>Pas un bon moment pour parler, l'homme.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_talk_leader_1">
+	<text>Allez, voir le commandant.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_talk_leader_2">
+	<text>Le Commandant peut rйpondre а vos questions.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_talk_leader_3">
+	<text>Je tire. Le commandant fait des sйances de parlottes.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_weapon_1">
+	<text>Si vous voulez parler, rengainer votre arme.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_weapon_2">
+	<text>Je ne parle pas avec vous montrant cette chose а moi.</text>
+	</string>
+	<string id="cc_generic-military-meet_use_no_weapon_3">
+	<text>Holster votre arme si vous voulez parler.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_hello_1">
+	<text>Hй ho ...зa va?</text>
+	</string>
+	<string id="cc_generic-stalker-meet_hello_2">
+	<text>Hй, bro!</text>
+	</string>
+	<string id="cc_generic-stalker-meet_hello_3">
+	<text>J'йcoute...</text>
+	</string>
+	<string id="cc_generic-stalker-meet_hide_weapon_1">
+	<text>Mettez votre arme de distance, l'homme.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_hide_weapon_2">
+	<text>Quittez vissage autour de vous! Holster votre arme!</text>
+	</string>
+	<string id="cc_generic-stalker-meet_hide_weapon_3">
+	<text>Allez, mec, mettre cette arme loin!</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_default_1">
+	<text>Je ne parle pas а vous.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_default_2">
+	<text>Je ne me sens pas comme bavarder avec vous.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_default_3">
+	<text>Je ne suis pas d'humeur а la gomme de battre.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_fight_1">
+	<text>Cela ne veut pas le temps de Yap, l'homme.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_fight_2">
+	<text>Кtes-vous fou? nous allons parler aprиs!</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_fight_3">
+	<text>Bien sыr, vous voulez bavarder avec toute cette merde qui se passe?</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_talk_leader_1">
+	<text>Parler au patron si vous besoin de quelque chose ...</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_talk_leader_2">
+	<text>Parlez-en а le patron.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_talk_leader_3">
+	<text>Le patron est lа-bas. Allez, lui parler.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_weapon_1">
+	<text>Mettez ce tireur de suite et puis nous allons parler.</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_weapon_2">
+	<text>Je ne suis pas vraiment bavard quand il ya un pistolet йtant brandi dans mon visage. Shocking, hein?</text>
+	</string>
+	<string id="cc_generic-stalker-meet_use_no_weapon_3">
+	<text>Je ne me sens pas envie de parler quand vous me avez dans vos sites.</text>
+	</string>
+
+
+	<!-- Zaton -->
+
+	<string id="zat_a2_base_alarm">
+	<text>Stalkers attention,le Skadovsk est attaquй! nous avons йtй obligйs de fermer les йcoutilles que les choses se calment.</text>
+	</string>
+	<string id="zat_a2_base_guard_1">
+	<text>Allez, mec, mettre ce tireur loin. Ceci est notre camp, vous ne devez pas ici.</text>
+	</string>
+	<string id="zat_a2_base_guard_2">
+	<text>Hй, mec, ce lieu est ici aussi paisible qu'il obtient. Donc йtui qui tireur de la vфtre et que cela continue.</text>
+	</string>
+	<string id="zat_a2_base_guard_3">
+	<text>Regardez ce, les armes sont pour tuer des mutants et vous ne trouverez pas ici. Donc, le ranger maintenant, diriez-vous?</text>
+	</string>
+	<string id="zat_a2_base_relax">
+	<text>Stalkers Attention, les portes de Skadovsk vous sont ouvertes une fois de plus.</text>
+	</string>
+	<string id="zat_a2_linker_b29_take_order">
+	<text>Gйnial! Voici l'argent.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_after_surge">
+	<text>Stalkers, l'йmission est enfin terminйe. Je l'espиre, vous кtes tous dans une seule piиce.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_farewell_1">
+	<text>Baisse si quelque chose d'intйressant se prйsente. Skadovsk ne sera pas va nulle part, qui est а coup sыr ...</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_farewell_2">
+	<text>Baisse si vous trouvez des objets, et nous verrons ce que nous pouvons faire.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_farewell_angry_1">
+	<text>Sommes-nous fait ici? ... Oui? Bon ... La sortie est lа-bas.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_farewell_angry_2">
+	<text>Ouais, ouais ... Vous allez maintenant. Traiter avec des sangsues est pas haut sur ma liste de Charonitйs.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_greeting_1">
+	<text>Bonjour! Ce que vous apporte а notre humble navire?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_greeting_2">
+	<text>Bienvenue а bord de notre brise-glace de marais!</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_greeting_angry_1">
+	<text>Le navire a йtй а terre un long moment, mais il est encore plein de rats. Pour quoi devons-nous ce plaisir douteux?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_greeting_angry_2">
+	<text>Qu'est ce que tu veux?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_surge_phase_1">
+	<text>Stalkers Attention! Une йmission se rapproche! Je le rйpиte, une йmission se rapproche! Consulter immйdiatement un couvercle.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_surge_phase_2">
+	<text>Stalkers Attention! Une йmission va commencer d'une minute а. Trouver couvercle si vous voulez vivre!</text>
+	</string>
+	<string id="zat_a23_about_x8">
+	<text>Les documents font rйfйrence а un laboratoire central, X8 dйsignй, qui yould contenir des informations sur des expйriences secrиtes menйes dans la Zone. Nos analystes se sont intйressйs а cette question depuis un certain temps.</text>
+	</string>
+	<string id="zat_b100_heli_2_maps">
+	<text>On dirait que l'йquipage est mort а la mi-air, et l'hйlicoptиre йcrasй tout simplement parce que il n'y avait personne pour le faire voler. L'ordinateur de bord йtait un peu plus de chance. Je me demande si il ya quelque chose d'utile ici ... Ah, il ya quelque chose ...! Une carte de la rйgion, avec certains endroits marquйs. Cela devrait venir dans maniable.</text>
+	</string>
+	<string id="zat_b101_both_heli_info">
+	<text>Les circuits йlectroniques sont les mкmes, mais le systиme de protection d'йmission est intact. Quel aurait pu causй cela?</text>
+	</string>
+	<string id="zat_b101_one_heli_info">
+	<text>Tous les appareils йlectroniques а l'intйrieur brыlйes. Mкme le sheathe du cвble d'alimentation est fondu.</text>
+	</string>
+	<string id="zat_b103_merc_come_here_now">
+	<text>Lа, cela vaut mieux! Maintenant, vous pouvez venir sur plus, et nous parler.</text>
+	</string>
+	<string id="zat_b103_merc_count_1">
+	<text>Un!</text>
+	</string>
+	<string id="zat_b103_merc_count_2">
+	<text>Deux!</text>
+	</string>
+	<string id="zat_b103_merc_count_3">
+	<text>Trois!</text>
+	</string>
+	<string id="zat_b103_merc_hide_weapon_1">
+	<text>Mettez votre tireur de suite!</text>
+	</string>
+	<string id="zat_b103_merc_hide_weapon_2">
+	<text>Je vous ai dit de mettre votre jeu de tir loin. Je vais compter jusqu'а trois, et si vous ne le faites pas, je vais souffler votre 'tкte hors foutu!</text>
+	</string>
+	<string id="zat_b103_merc_talk_to_commander_1">
+	<text>Je ne me sens pas comme battant gencives. Parlez au commandant!</text>
+	</string>
+	<string id="zat_b103_merc_talk_to_commander_2">
+	<text>Le commandant est le seul а parler si quelque chose arrive.</text>
+	</string>
+	<string id="zat_b103_merc_warning">
+	<text>Es-tu stupide? Get back, avant que je fais sauter la cervelle!</text>
+	</string>
+	<string id="zat_b106_dont_receipt_reward">
+	<text>Tous les bons, les gens, il est temps de rentrer. vous кtes inutile, donc ne vous attendez pas une rйcompense.</text>
+	</string>
+	<string id="zat_b106_garmata_refuse_talk">
+	<text>Parler au patron. Je suis plus dans la prise de vue que de battre les gencives.</text>
+	</string>
+	<string id="zat_b106_garmata_story_reply">
+	<text>J'ai demandй partout, mais il est inutile. Personne ne sait une chose. il est comme il est un poltergeist ou quelque chose.</text>
+	</string>
+	<string id="zat_b106_gonta_hunt_complete">
+	<text>c'est fini. Notre travail est fait, laissez-nous la tкte en arriиre. Rappelez-vous de la pop pour voir Trapper au Yanov, et lui dire la chimиre blessй est fait avec pour obtenir votre part.</text>
+	</string>
+	<string id="zat_b106_gonta_hunt_great">
+	<text>Bien fait! Vous devriez regarder dans la chasse chimиres comme une profession.</text>
+	</string>
+	<string id="zat_b106_gonta_hunt_kill">
+	<text>on est la. il est proche, je peux le sentir. Si vous le voyez, viser la tкte. ne vous approchez pas trop bien, chimиres peuvent vous sentir un mile au large, mкme quand ils dorment.</text>
+	</string>
+	<string id="zat_b106_gonta_hunt_plan">
+	<text>Йcouter maintenant! La chimиre chasse la nuit et retourne а son repaire dans la matinйe pour une certaine beautй reste. Nous pouvons l'attraper par surprise а l'aube, quand il est au repos. Tout ce que nous avons а faire est de se rapprocher de lui et le tuer alors qu'il est encore en train de dormir. Assez simple. nous aurons а se lever tфt si. Rendez-vous а la barre а ... 3 heures du matin.</text>
+	</string>
+	<string id="zat_b106_gonta_hunt_sneak">
+	<text>Attention! Nous sommes arrivйs а кtre rйelle calme, nous ne pouvons pas laisser cela nous entendre.</text>
+	</string>
+	<string id="zat_b106_gonta_see_chimera">
+	<text>Le bвtard dort ... Crabe dit bonjour. Feu!</text>
+	</string>
+	<string id="zat_b106_gonta_story_angry">
+	<text>Ce fils de pute va regretter fuir.</text>
+	</string>
+	<string id="zat_b106_gonta_story_ask">
+	<text>Alors, avez-vous quoi que ce soit а propos de Magpie?</text>
+	</string>
+	<string id="zat_b106_gonta_story_calm">
+	<text>Accrochez-vous, mon pote, le doc a dit que vous serez sur vos pieds dans une couple de jours. Vous pourriez aussi bien utiliser ce temps pour se reposer et se dйtendre.</text>
+	</string>
+	<string id="zat_b106_gonta_to_actor">
+	<text>Hey Stalker! Venez ici! Je suis une question pour vous.</text>
+	</string>
+	<string id="zat_b14_robbery_after_pay_snd_1">
+	<text>Bien! Maintenant, tournez autour, lentement, et emmerder retourner d'oщ vous venez!</text>
+	</string>
+	<string id="zat_b14_robbery_after_pay_snd_2">
+	<text>Кtes-vous stupide ou quelque chose? Sors de lа!</text>
+	</string>
+	<string id="zat_b14_robbery_after_pay_snd_3">
+	<text>Hey, douchebag! Quelqu'un est-il encore lа? Scram, ou je vous dйposera droit friggin maintenant!</text>
+	</string>
+	<string id="zat_b14_robbery_kill_actor_snd_1">
+	<text>Je vais vous saigner sec, connard!</text>
+	</string>
+	<string id="zat_b14_robbery_kill_actor_snd_2">
+	<text>vous allez vers le bas, enculй!</text>
+	</string>
+	<string id="zat_b14_robbery_kill_actor_snd_3">
+	<text>Donne-moi l'artefact, retarder!</text>
+	</string>
+	<string id="zat_b14_robbery_punch">
+	<text>Quel connard!</text>
+	</string>
+	<string id="zat_b14_robbery_stand_still_snd">
+	<text>Restez immobile et ne pensez mкme pas а se dйplacer, connard! Un faux mouvement et vous кtes grillй!</text>
+	</string>
+	<string id="zat_b14_robbery_stop_snd">
+	<text>Arrкte toi lа! Holster votre arme, et que vous ne vous dйplacez pas!</text>
+	</string>
+	<string id="zat_b14_scene_1_give_item">
+	<text>Hey, Barbe, consultez ce que je trouvais sur ce vieux rafiot! Sera-ce faire?</text>
+	</string>
+	<string id="zat_b14_scene_1_linker_reply">
+	<text>Wow, qui est quelque chose d'autre ...! Je ne l'ai jamais vu un de ces avant. Tenez, prenez зa.</text>
+	</string>
+	<string id="zat_b14_scene_1_stalker_bye">
+	<text>Merci. Si t'as plus de travail, vous savez oщ me trouver.</text>
+	</string>
+	<string id="zat_b14_scene_1_stalker_offended">
+	<text>Il suffit de ne continuer а marcher. vous vous souviendrez de ce moment, qui est а coup sыr.</text>
+	</string>
+	<string id="zat_b14_scene_1_stalker_teach_actor">
+	<text>Oh, il est vous ... Eh bien, je besoin d'argent autant que vous le faites.</text>
+	</string>
+	<string id="zat_b18_noah_breakdown">
+	<text>Aah ... Зa y est! C'est la fin! il est ici ... Mutants ... mutants partout!</text>
+	</string>
+	<string id="zat_b18_noah_gave_first_artefact">
+	<text>Cette merde ne vous sauvera pas quand les muties ramper hors de la boiserie. Tenez, prenez зa et de sortir de mon visage!</text>
+	</string>
+	<string id="zat_b18_noah_gave_second_artefact">
+	<text>Ha! Vous pensez que vous protйgera contre une йmission? Tenez, prenez зa et courir. Sauvez votre peau!</text>
+	</string>
+	<string id="zat_b18_noah_go_away">
+	<text>Puis le battre, bizarre!</text>
+	</string>
+	<string id="zat_b18_noah_greetings_1">
+	<text>Allez au diable, 'muties Freakin !!</text>
+	</string>
+	<string id="zat_b18_noah_greetings_2">
+	<text>Sortez d'ici salauds, ou je vais tout vous prendre!</text>
+	</string>
+	<string id="zat_b18_noah_greetings_3">
+	<text>Connards Mutant ... chier!</text>
+	</string>
+	<string id="zat_b18_noah_no_talk_1">
+	<text>Laisse-moi tranquille.</text>
+	</string>
+	<string id="zat_b18_noah_no_talk_2">
+	<text>Continuez а vous dйplacer.</text>
+	</string>
+	<string id="zat_b18_noah_no_talk_3">
+	<text>Effacer.</text>
+	</string>
+	<string id="zat_b20_noah_instructions">
+	<text>Regardez attentivement, et qu'il me suive.</text>
+	</string>
+	<string id="zat_b20_noah_jumped">
+	<text>Bon travail! Sentez-vous libre de laisser tomber par jour.</text>
+	</string>
+	<string id="zat_b20_noah_pda">
+	<text>Voilа oщ sont ces fichus mutants. Ils montиrent sur le plateau, en pensant que Noah ne sera pas arriver а eux. Je suppose qu'ils ne savent pas que je l'ai eu un cheminement personnel lа-haut par la ferme du nord. vous кtes dedans pour un tour d'amusement, connards!</text>
+	</string>
+	<string id="zat_b215_stalker_guide_farewell_1">
+	<text>Eh bien, bonne chance а vous!</text>
+	</string>
+	<string id="zat_b215_stalker_guide_farewell_2">
+	<text>Bonne chasse!</text>
+	</string>
+	<string id="zat_b215_stalker_guide_greeting_1">
+	<text>Bonjour.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_greeting_2">
+	<text>Hey, Stalker. Comment allez-vous?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_diary">
+	<text>12. enregistre Ma recherche sera bientфt terminй ... Les gens du camp commencent а douter de quelque chose. Grouse et Danila envisagent de chasser certains suceurs de sang ... Je me demande quand ils vont comprendre? Je dois trier les pots de sang pour savoir quels sont ceux qui ont йtй contaminйs ... Et cacher le reste ... Quelqu'un arrive .... Enregistrement 13. Peut-кtre mon dernier. Premiиre ce chasseur curieux, et maintenant Grouse. Je ne vais pas sortir avec cela. ils viendront pour moi. Je sais que зa .... n'a pas vraiment d'importance .... Cette dйpendance de l'hйmoglobine me tuera bientфt de toute faзon. Et je prйfиre mourir d'une balle que d'une maladie.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_farewell_1">
+	<text>Oui bien sыr. Au revoir.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_farewell_2">
+	<text>Au revoir.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_greeting_1">
+	<text>Quoi de neuf? Vous blessйs ou souffrant de la maladie de rayonnement?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_greeting_2">
+	<text>Non, pas maintenant ... Oui?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_hello">
+	<text>Je savais que je serais exposй finalement .... Je suis sыr que t'as beaucoup de questions.</text>
+	</string>
+	<string id="zat_b28_heli_3_evacuation_points">
+	<text>Information sur l'ordinateur de bord ... Bon, alors Stingray-3 panne de moteur dans les deux moteurs avait. Hmm ... Qu'y at-il? ... Une carte avec ce qui ressemble а des endroits d'йvacuation possibles. Positions B2, B28 et B205. Intйressant.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_1_order_ready">
+	<text>Le travail est fait. Voici l'artefact.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_2_order_ready">
+	<text>Job a fait. Ici, prendre l'artefact.</text>
+	</string>
+	<string id="zat_b3_tech_drink_no_more">
+	<text>Comment зa pendaison, Stalker?</text>
+	</string>
+	<string id="zat_b3_tech_drunk">
+	<text>Euh ... Que voulez-vous ...?</text>
+	</string>
+	<string id="zat_b3_tech_drunk_discount">
+	<text>Uhm ... Avez-vous oubliй quelque chose?</text>
+	</string>
+	<string id="zat_b3_tech_no_sleep_1">
+	<text>Mm? Quoi...? Laissez-moi dormir...</text>
+	</string>
+	<string id="zat_b3_tech_no_sleep_2">
+	<text>Allez, laissez-moi tranquille ...!</text>
+	</string>
+	<string id="zat_b3_tech_no_sleep_3">
+	<text>il est lа-bas ... Aidez-vous d'un verre!</text>
+	</string>
+	<string id="zat_b3_tech_realy_drunk">
+	<text>Quoi ... Que puis-je faire pour vous? ...</text>
+	</string>
+	<string id="zat_b3_tech_realy_drunk_discount">
+	<text>Aah ... Eh, il est vous ... Entrez!</text>
+	</string>
+	<string id="zat_b3_tech_see_produce_62">
+	<text>Quoi? Six ... Soixante-deux ...? C'est impossible.</text>
+	</string>
+	<string id="zat_b3_tech_sleep_1">
+	<text>[s'endormir]</text>
+	</string>
+	<string id="zat_b3_tech_sleep_2">
+	<text>... Je vous le dis, il n'y a pas assez de jus ...</text>
+	</string>
+	<string id="zat_b3_tech_sleep_3">
+	<text>[s'endormir]</text>
+	</string>
+	<string id="zat_b3_tech_sleep_4">
+	<text>Hй, les gars, oщ allez-vous ...? Nan, je vais ... je vais rester ici ...</text>
+	</string>
+	<string id="zat_b3_tech_sober">
+	<text>Salut...</text>
+	</string>
+	<string id="zat_b3_tech_take_first_dose">
+	<text>Voici une main ferme!</text>
+	</string>
+	<string id="zat_b3_tech_take_second_dose">
+	<text>Voici pour le travail d'une bonne journйe!</text>
+	</string>
+	<string id="zat_b3_tech_take_third_dose">
+	<text>Voici а notre objectif commun!</text>
+	</string>
+	<string id="zat_b30_owl_about_trouble">
+	<text>Ceci est Owl. Viens me voir! Nous devons parler de notre entreprise.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_farewell_1">
+	<text>qui est droit, obtenir sur le camp d'ici!</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_farewell_2">
+	<text>ne laissez pas la porte vous frapper ...</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_greeting_1">
+	<text>Donc, t'as quelque chose de nouveau?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_greeting_2">
+	<text>Que faites-vous, une statue? Si t'as quelque chose, vendre la mиche. Sinon, prendre une randonnйe!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_greeting_gun">
+	<text>Wouah, c'est un beau flingue ! Laisse-moi voir.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_about_lair_bloodsucker">
+	<text>Je vis un suceur de sang entrer dans le bвtiment. Je devine qui est leur repaire ... Mais laissons cette thйorie а l'йpreuve.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_another_one">
+	<text>Chercher! il en est une autre!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_appear">
+	<text>Avez-vous entendu cela? ... Pas grave, je dois кtre entendre des choses.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_bloodsuckers_no_sleep">
+	<text>ils se rйveillent! Cours !</text>
+	</string>
+	<string id="zat_b38_stalker_cop_bloodsuckers_sleep">
+	<text>Chut! il est plein de sangsues de couchage. Essayons d'obtenir par eux sans faire de bruit.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_come_here_1">
+	<text>Venez, regardez зa! ... Il est probablement le seul moyen d'entrer dans le sous-sol.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_come_here_2">
+	<text>S'il vous plaоt, tenez vos applaudissements! Maintenant, laissez-nous jeter un oeil а l'intйrieur.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_down_floor">
+	<text>Vos footsies encore intacte? Laissez-nous vйrifier ce sous-sol alors.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_fear_end">
+	<text>Ouf ... nous l'avons fait. Et n'a mкme pas troubler leur heure de la sieste.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_find_lair_pda">
+	<text>Je pense avoir trouvй le repaire. Obtenez ici, dиs que possible!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_hit_1">
+	<text>Regardez oщ vous photographiez!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_hit_2">
+	<text>Qu'est-ce que tu fais? Vous me fusiller!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_jump_down_1">
+	<text>Eh bien, sautant est le seul moyen ... Suivez-moi!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_jump_down_2">
+	<text>Cela ressemble а une sortie! Saut!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_kill_1">
+	<text>Un vers le bas! Mais il y avait deux d'entre eux, alors attention!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_kill_2">
+		<text>Cela devrait suffire. C'йtait le dernier.</text>
+		</string>
+	<string id="zat_b38_stalker_cop_not_a_hunter">	<!-- not used - sound exists only in Russian -->
+		<text>Aucun chasseur ici ... Jйsus! Check it out, il est marques griffes. Les gars, nous avons trouvй avant ne sont pas rйcupйrйes. Bizarre...</text>
+		</string>
+	<string id="zat_b38_stalker_cop_not_a_hunter_1">
+	<text>Regardez les marques de griffes! Etrange ...</text>
+	</string>
+	<string id="zat_b38_stalker_cop_not_a_hunter_2">
+	<text>Les corps que nous avons trouvйs avant ne sont pas ceux-lа.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_not_a_hunter_3">
+	<text>Le chasseur est pas ici, allons!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_notice">
+	<text>Regardez les ombres! Ils peuvent apparaоtre de nulle part.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_see_bloodsucker">
+	<text>il ya quelque chose lа-bas. Couvre moi!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_sit">
+	<text>Descendez!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_tell_about_quest">
+	<text>Nous ne sommes pas trouver le chasseur, mais je avoir une idйe d'oщ il pourrait кtre. Permettez-moi de vйrifier, alors je vais vous contacter. Alors que je fais зa, laisser les Stalkers savent sur ces connards suceurs de sang. Quelque chose doit кtre fait а leur sujet.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_tell_stalker_about_lair">
+	<text>Nous devons dire а Barbe а ce sujet. nous espйrons qu'il wil savoir comment faire face а ces salauds</text>
+	</string>
+	<string id="zat_b38_stalker_cop_try">
+	<text>C'est ce que je fais. Je suis crocheter les serrures toute ma vie.</text>
+	</string>
+	<string id="zat_b39_joker_pda_record">
+	<text>Je suis positif l'artefact est sur l'arbre lui-mкme. il est clair а partir d'ici que je peux monter sur l'arbre de la colline. Je espиre juste que les collines sont libres de mutants. il est dommage que je devais venir ici sur mon propre aprиs cet argument avec cardan et Barge. Mais quand je ramиnerai les artefact, ils verront que je avais raison tout le long.</text>
+	</string>
+	<string id="zat_b40_merc_combat">
+	<text>Okay, laisser tomber ce retard!</text>
+	</string>
+	<string id="zat_b40_merc_go_away_1">
+	<text>Tourner le dos, Stalker! Cet endroit est pas pour vous!</text>
+	</string>
+	<string id="zat_b40_merc_go_away_2">
+	<text>Stalker! Off avec vous, alors que t'as encore des jambes!</text>
+	</string>
+	<string id="zat_b42_controller_warning_1">
+	<text>Laissez ici l'homme.</text>
+	</string>
+	<string id="zat_b42_controller_warning_2">
+	<text>Allez, sortir d'ici tant que vous pouvez!</text>
+	</string>
+	<string id="zat_b44_stalker_barge_pda">
+	<text>Cardan, ce vieil ivrogne! Non seulement il est un bвtard paresseux une fois qu'il est pris un verre, 'il est mieux ici. Nous devons prendre, il est facile ...' Mais alors, il va, et prend une diatribe а moi et Joker, disons que nous sommes jeunes et ain ' t la moindre idйe! Haha ...! Eh, Joker est un travail trop. Obtient pissed up, attrape son sac et disparaоt. Alors que je tentais de calmer Cardan vers le bas, il est parti et l'enfer si je sais oщ il est allй. Et que dois-je faire? Boire avec ce crйtin sйnile? Non, merci, sa vodka est de la merde! Eww. Et de penser comment les choses йtaient prometteuses au dйbut ...</text>
+	</string>
+	<string id="zat_b5_bandit_dealer_speak_1">
+	<text>Regardez, nous avons obtenu ces objets ici, et nous pouvons obtenir plus d'eux. En йchange, nous sommes а la recherche d'armes, et certains un bon йquipement.</text>
+	</string>
+	<string id="zat_b5_bandits_see_actor">
+	<text>Hey! Qui va lа?</text>
+	</string>
+	<string id="zat_b5_dealer_angry">
+	<text>Vous, imbйcile, apportй cette queue avec vous!</text>
+	</string>
+	<string id="zat_b5_dealer_bandit_speak_1">
+	<text>Qu'avez-vous, montrez-moi!</text>
+	</string>
+	<string id="zat_b5_dealer_bandit_speak_2">
+	<text>Vous savez que je l'ai obtenu quelque Duty monde a, de sorte armes et de matйriel ne sont pas un problиme. Toutes mes affaires est de qualitй supйrieure, aucun doute а ce sujet.</text>
+	</string>
+	<string id="zat_b5_dealer_kill_bandits">
+	<text>Les exйcuter. Je ne veux pas tйmoins.</text>
+	</string>
+	<string id="zat_b5_dealer_see_clients">
+	<text>Les voilа.</text>
+	</string>
+	<string id="zat_b5_dealer_to_actor_fire">
+	<text>Prenez-les!</text>
+	</string>
+	<string id="zat_b5_dealer_wait_clients">
+	<text>nous allons attendre ici. Les clients devraient apparaоtre bientфt.</text>
+	</string>
+	<string id="zat_b5_dealer_want_speak_with_actor">
+	<text>Pourquoi avons-nous pas une petite conversation, vous et moi?</text>
+	</string>
+	<string id="zat_b5_dealer_who_there">
+	<text>que se passe-t-il?</text>
+	</string>
+	<string id="zat_b5_stalkers_all_clear_go">
+	<text>Eh bien, ce efface les choses. Prenez-les!</text>
+	</string>
+	<string id="zat_b5_stalkers_refuse_talk">
+	<text>Demandez le patron.</text>
+	</string>
+	<string id="zat_b5_stalkers_watch_out_sentry">
+	<text>ne laissez pas la sentinelle vous voir.</text>
+	</string>
+	<string id="zat_b5_sultan_angry">
+	<text>Stalkers? Qu'est ce que ...?!</text>
+	</string>
+	<string id="zat_b5_sultan_kill_stalkers">
+	<text>Prenez-les vers le bas, les garзons!</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_1">
+	<text>Bonjour, Stalker. Vous songez а passer une commande?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_2">
+	<text>Quoi de neuf? Dйcidй de commander quelque chose?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_3">
+	<text>Hey! Tu as besoin de quelque chose?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_order_not_ready_1">
+	<text>ne vous inquiйtez pas, vous obtiendrez les produits un peu plus tard.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_order_not_ready_2">
+	<text>Revenez plus tard, je ne connais pas encore les produits.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_order_not_ready_3">
+	<text>Passez plus tard. Je vais avoir votre commande d'ici lа.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_order_ready_1">
+	<text>qui est votre commande complиte. Rassemblez vos produits.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_order_ready_2">
+	<text>Je dois les marchandises. Prends les!</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_greeting_order_ready_3">
+	<text>Prenez votre marchandises, Stalker! Comme vous pouvez le voir, je garde ma parole.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_order">
+	<text>Le travail est fait. Vous pouvez collecter les marchandises.</text>
+	</string>
+	<string id="zat_b52_port_bandits_after_pay_snd_1">
+	<text>Bien. Maintenant foutre le camp d'ici, avant que je change mon esprit!</text>
+	</string>
+	<string id="zat_b52_port_bandits_after_pay_snd_2">
+	<text>tu es toujours lа? Je ne suis pas un homme patient vous savez ...</text>
+	</string>
+	<string id="zat_b52_port_bandits_after_pay_snd_3">
+	<text>D'accord, ce qu'il est! vous allez vers le bas!</text>
+	</string>
+	<string id="zat_b52_port_bandits_kill_actor_snd_1">
+	<text>Dйcoupez-le, merde!</text>
+	</string>
+	<string id="zat_b52_port_bandits_kill_actor_snd_2">
+	<text>Bros, il ne veut pas coopйrer. Dйposez-le!</text>
+	</string>
+	<string id="zat_b52_port_bandits_kill_actor_snd_3">
+	<text>Bros, ce connard ne veut pas partager!</text>
+	</string>
+	<string id="zat_b52_port_bandits_see_actor">
+	<text>qui est ce mec avec le beau jeu de tir! Hй, attendez-vous!</text>
+	</string>
+	<string id="zat_b52_port_bandits_stand_still_snd">
+	<text>Attends ici! Je descends!</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_come_on">
+	<text>Dйtendez-vous et continuer а avancer.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_come_on_continue">
+	<text>Voir, votre costume peut le manipuler. Continue!</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_help">
+	<text>Aide-moi, Stalker!</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_farewell_1">
+	<text>Rendez-vous ... Si vous parvenez а rester dans une seule piиce, ce qui est.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_farewell_2">
+	<text>Passez un peu de temps. nous allons passer un bon moment!</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_greeting_1">
+	<text>L'homme lui-mкme!</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_greeting_2">
+	<text>Donc, t'as rйussi а faire glisser le cul par ici? Bravo!</text>
+	</string>
+	<string id="zat_b7_raider_after_bad">
+	<text>Eh bien, ce qui est .... Qu'est-ce que vous faisiez? Admirant le paysage?</text>
+	</string>
+	<string id="zat_b7_raider_after_ok">
+	<text>Eh bien, ce qui est! Il йtait doux regarder vous travaillez.</text>
+	</string>
+	<string id="zat_b7_raider_sneak_comments_1">
+	<text>nous allons donner а 'em bon!</text>
+	</string>
+	<string id="zat_b7_raider_sneak_comments_2">
+	<text>Hey, ce qui se passe?</text>
+	</string>
+	<string id="zat_b7_raider_sneak_comments_3">
+	<text>Prendre une pilule de refroidissement, l'homme! nous allons les prendre facile.</text>
+	</string>
+	<string id="zat_b7_raiders_attack">
+	<text>faisons-le!</text>
+	</string>
+	<string id="zat_b7_raiders_ready_to_go">
+	<text>Ainsi...! nous attendons pour vous depuis longtemps maintenant.</text>
+	</string>
+	<string id="zat_b7_raiders_sneak_confuse">
+	<text>Qu'est ce que ...?! Ont-ils se cachent, ou quelque chose?</text>
+	</string>
+	<string id="zat_b7_raiders_to_boss">
+	<text>Listen up! Sultan veut vous voir.</text>
+	</string>
+	<string id="zat_b7_stalker_after_bad">
+	<text>Nous avons eu les salauds. vous n'кtes pas prкts а vous impliquer dans un vrai combat, кtes-vous?</text>
+	</string>
+	<string id="zat_b7_stalker_after_ok">
+	<text>Nous avons eu les salauds. Merci pour votre aide!</text>
+	</string>
+	<string id="zat_b7_stalkers_attack">
+	<text>Tuez-les tous!</text>
+		</string>
+
+
+	<!-- Jupiter -->
+
+	<string id="jup_a10_bandit_leader_hello">
+	<text>Souhaitez-vous regarder зa! L'homme lui-mкme!</text>
+	</string>
+	<string id="jup_a10_bandits_warn">
+	<text>Йtui qui tireur, Stalker, ou je vous mets droit dans le sol!</text>
+	</string>
+	<string id="jup_a10_vano_need_help">
+	<text>Que fais-je? Si je pars, je vais perdre de l'argent. Si je ne pars pas, je vais finir mort.</text>
+	</string>
+	<string id="jup_a12_bandit_say_jump">
+	<text>Pourquoi ... est que le changement Je entends encore chingiling dans vos poches? ... Eh bien, est-il?</text>
+	</string>
+	<string id="jup_a12_bandit_threat_to_prisoner">
+	<text>Un pas de plus, et il est mort!</text>
+	</string>
+	<string id="jup_a12_bandits_bodyguard_warning_actor">
+	<text>Mettez ce jeu de tir de distance, sharpish!</text>
+	</string>
+	<string id="jup_a12_bandits_warning_actor">
+	<text>Hey! Qu'est ce que tu fais lа? Retournez d'oщ vous venez pendant que t'as encore des jambes.</text>
+	</string>
+	<string id="jup_a12_merc_attack_started">
+	<text>nous roulons!</text>
+	</string>
+	<string id="jup_a12_merc_cover_us">
+	<text>Je vais vous couvrir.</text>
+	</string>
+	<string id="jup_a12_merc_lets_go">
+	<text>Dйmйnager.</text>
+	</string>
+	<string id="jup_a12_merc_ready">
+	<text>Je suis en position.</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_1_argue">
+	<text>Je pense toujours que nous devrions vendre l'artefact et utiliser l'argent pour recruter des gens. De cette faзon, nous pouvons attaquer les bandits ensemble.</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_2_argue">
+	<text>Vous ne pensez pas qu'ils vont l'abattre dиs qu'ils ont l'artefact?</text>
+	</string>
+	<string id="jup_a12_stalker_assaulter_3_argue">
+	<text>Nous ne pouvons pas cйder а eux. Peu importe ce que vous leur donnez, ils en veulent toujours plus.</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_1_argue">
+	<text>En aucune faзon! nous sommes beaucoup mieux en leur donnant l'artefact comme ranзon.</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_2_argue">
+	<text>ils vont certainement lui tirer dessus si nous sortons de dynamitage.</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_3_argue">
+	<text>nous ne donnons pas de ...! Se conformer а leurs conditions est la seule option que nous avons.</text>
+	</string>
+	<string id="jup_a12_stalker_diplomat_no_talk">
+	<text>Je ne te crois pas.</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_says_we_can_run_from_here">
+	<text>Courir! Nous pouvons encore le faire!</text>
+	</string>
+	<string id="jup_a12_stalker_prisoner_thanks_actor">
+	<text>Merci de me sauver.</text>
+	</string>
+	<string id="jup_a12_stalkers_to_actor_came_back">
+	<text>Hey, oщ allez-vous? Attendez! Reviens ici!</text>
+	</string>
+	<string id="jup_a12_stalkers_to_actor_meet_on_base">
+	<text>Je vais vous rйpondre par l'ancienne gare.</text>
+	</string>
+	<string id="jup_a6_base_alarm">
+	<text>Attention а tous les Stalkers et toute autre personne qui se soucie, la station Yanov a йtй attaquй! nous avons bloquй toutes les entrйes pour le moment.</text>
+	</string>
+	<string id="jup_a6_base_guard_1">
+	<text>Mettez cette arme. Ceci est une zone neutre.</text>
+	</string>
+	<string id="jup_a6_base_guard_2">
+	<text>nous sommes dans la ligne de tir comme il est, Stalker. Si vous ne mettez pas cette arme loin, vous attirer des ennuis.</text>
+	</string>
+	<string id="jup_a6_base_guard_3">
+	<text>Tant qu'il y est une arme dans votre main, vous est pas gettin '. t'as ce ?!</text>
+	</string>
+	<string id="jup_a6_base_megaphone_1">
+	<text>Ralentissez, chef. Mettez ce jeu de tir premiиre distance.</text>
+	</string>
+	<string id="jup_a6_base_megaphone_2">
+	<text>Nous ne permettons pas d'armes а l'intйrieur.</text>
+	</string>
+	<string id="jup_a6_base_megaphone_3">
+	<text>Stalker, si vous voulez entrer, rengainer votre arme.</text>
+	</string>
+	<string id="jup_a6_base_relax">
+	<text>Attention а tous les Stalkers et toute autre personne qui se soucie, Yanov est а nouveau sйcurisй. vous кtes invitйs а visiter а tout moment.</text>
+	</string>
+	<string id="jup_a6_duty_leader_farewell_1">
+	<text>Vous voir а nouveau un certain temps, Stalker!</text>
+	</string>
+	<string id="jup_a6_duty_leader_farewell_2">
+	<text>Ok, qui est nous. Avoir un bon!</text>
+	</string>
+	<string id="jup_a6_duty_leader_greeting_1">
+	<text>Bonjour, Stalker.</text>
+	</string>
+	<string id="jup_a6_duty_leader_greeting_2">
+	<text>quel est votre entreprise ici?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_farewell_1">
+	<text>Bon chance!</text>
+	</string>
+	<string id="jup_a6_freedom_leader_farewell_2">
+	<text>Prendre soin!</text>
+	</string>
+	<string id="jup_a6_freedom_leader_greeting_1">
+	<text>Hй, mec! Quoi de neuf?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_greeting_2">
+	<text>Entrez, l'homme, se dйtendre. Prenez votre charge hors.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_farewell_1">
+	<text>Pop dans quelque temps. Il peut кtre amusant ici.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_farewell_2">
+	<text>A bientфt!</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_greeting_1">
+	<text>Come on over, bro! J'ai eu toute la merde que vous кtes va jamais besoin.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_greeting_2">
+	<text>Aloha!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_after_surge">
+	<text>L'йmission est terminйe. Je l'espиre tout le monde est d'accord. Si vous кtes blessй, venez Yanov et nous vous rafistoler.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_farewell_1">
+	<text>Suivant! ... Euh ... je veux dire ... prendre soin et de rester en bonne santй!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_farewell_2">
+	<text>Rester hors des ennuis!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_greeting_1">
+	<text>vous кtes un contact pвle, mon pote. Que diriez-vous un peu d'injection ou deux?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_greeting_2">
+	<text>Blessй а nouveau? Vous ne perdez pas de temps, avez-vous.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_phase_1">
+	<text>Attention, attention! Une йmission se rapproche. Trouver couvercle immйdiatement!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_phase_2">
+	<text>Attention, attention! Une йmission est sur le point de frapper! Trouver couvercle immйdiatement!</text>
+	</string>
+	<string id="jup_a9_actor_conservation_info">
+	<text>Alors ... Le passage souterrain a йtй rempli de gaz aprиs qu'il a йtй scellй.</text>
+	</string>
+	<string id="jup_a9_actor_power_info">
+	<text>L'entrйe du passage souterrain est ici. Si nous activons le gйnйrateur, nous serons en mesure d'ouvrir le verrou de transport.</text>
+	</string>
+	<string id="jup_a9_actor_way_info">
+	<text>Schйmas pour la 'Pripyat-1' passage souterrain. Ceci est la preuve qu'il existe une voie souterraine pour se rendre а Pripyat.</text>
+	</string>
+	<string id="jup_b1_actor_dont_come">
+	<text>Hй, mec! Le temps, c'est de l'argent. Nous avons terminй attendons pour vous, l'йquipe va en arriиre maintenant.</text>
+	</string>
+	<string id="jup_b1_stalker_warning">
+	<text>Wat ... regarder ... attention, contro ... contrфle ... contrфleur!</text>
+	</string>
+	<string id="jup_b1_stalkers_aftershock_1">
+	<text>Uhm ... sainte ... ce ... ce qui est ...? Quoi encore...</text>
+	</string>
+	<string id="jup_b1_stalkers_aftershock_2">
+	<text>Ooh ... impulsion ...... bleh ... horrible ...! Man, ma tкte me tue!</text>
+	</string>
+	<string id="jup_b1_stalkers_first_stay">
+	<text>nous allons attendre pour vous ici. Si quelque chose arrive, nous avons obtenu votre dos.</text>
+	</string>
+	<string id="jup_b1_stalkers_get_out">
+	<text>Oh, merde! nous avons mieux sortir d'ici, pronto!</text>
+	</string>
+	<string id="jup_b1_stalkers_greeting">
+	<text>Donc, vous кtes l'expert de trou, hein? Il-il-il ... ne vous inquiйtez pas, vous pouvez compter sur les garзons de prendre les muties sur, agrйable et rapide.</text>
+	</string>
+	<string id="jup_b1_stalkers_lair_check">
+	<text>Hmm ... il semble calme. Nous pouvons avancer.</text>
+	</string>
+	<string id="jup_b1_stalkers_monsters_beat_off">
+	<text>il est tout bon. Il y avait quelques hamsters dans lа, mais nous avons eu affaire avec eux.</text>
+	</string>
+	<string id="jup_b1_stalkers_monsters_out">
+	<text>Regardez comme зa a йtй le dernier d'entre eux.</text>
+	</string>
+	<string id="jup_b1_stalkers_psy_wound_1">
+	<text>Aargh ... il est en moi! Nooon ...</text>
+	</string>
+	<string id="jup_b1_stalkers_second_stay">
+	<text>Allez! nous allons couvrir l'entrйe.</text>
+	</string>
+	<string id="jup_b1_stalkers_see_zombied">
+	<text>il est un zombie!</text>
+	</string>
+	<string id="jup_b10_stalker_drunk_no_meet_1">
+	<text>Eh bien ...... euh ... y-vous que ...</text>
+	</string>
+	<string id="jup_b10_stalker_drunk_no_meet_2">
+	<text>Hein? Cette?</text>
+	</string>
+	<string id="jup_b10_stalker_drunk_no_meet_3">
+	<text>Euh ... et bien ...</text>
+	</string>
+	<string id="jup_b10_ufo_memory_repaired_nitro">
+	<text>Hiya, il est Nitro. Balanзoire pour que par module de mйmoire. il est prкt pour vous.</text>
+	</string>
+	<string id="jup_b15_zulus_greeting">
+	<text>Quoi de neuf?</text>
+	</string>
+	<string id="jup_b15_zulus_ready">
+	<text>Ok, il est un accord: nous irons ensemble. Quoi que vous voyez combattants, leur envoyer mon chemin et je vais faire une йquipe hors d'eux. Une fois que tout est prкt, donnez-moi un cri. nous allons ramasser Nitro et la tкte pour Jupiter.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_about_zombie_1">
+	<text>On dirait un village calme ... а moins que nous dйrangeons les rйsidents locaux.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_about_zombie_2">
+	<text>Si paisible, il est comme une station.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_about_zombie_3">
+	<text>nous sommes presque lа.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_come_here_1">
+	<text>Obtenez ici, les choses sont sur le coup d'envoi!</text>
+	</string>
+	<string id="jup_b19_freedom_yar_come_here_2">
+	<text>Allez, qu'est-ce que vous attendez? vous allez manquer la meilleure partie.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_come_here_3">
+	<text>Que faites-vous? Dйpкchez-vous, le fun stuff est sur le point de commencer.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_explanations">
+	<text>Donc, ce qui est. Je vois que vous regorgent de questions, et je peux le comprendre. laissez-nous avoir une petite conversation, allons-nous?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_guessed_long">
+	<text>On dirait que je suis aprиs tout. Maintenant, les zombies sont va couvrir nous tirer vers le bas ces salauds!</text>
+	</string>
+	<string id="jup_b19_freedom_yar_guessed_short">
+	<text>On dirait que je suis aprиs tout. Tirez sur ces salauds bas!</text>
+	</string>
+	<string id="jup_b19_freedom_yar_suspense">
+	<text>Voyons si je avais raison.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_zombie_hit">
+	<text>Qu'avez-vous fait зa? Il ne vous touche, fait-il. Damn!</text>
+	</string>
+	<string id="jup_b202_bandit_pda">
+	<text>Sultan, je l'ai traitй ce perdant bien rйel. Зa lui apprendra а ne pas salir avec nous.</text>
+	</string>
+	<string id="jup_b202_bandit_to_snag">
+	<text>Sultan envoie ses salutations. Ouvrez grand, punk!</text>
+	</string>
+	<string id="jup_b202_snag_pda">
+	<text>Je suis arrivй а sortir de ces trous du cul, le plus tфt sera le mieux. Le butin, je l'ai planquй derriиre le poste devrait me durer un certain temps. il est temps de passer а autre chose. Je suis sыr qu'ils sont dйjа а la recherche pour moi. il est tout Tho droite. nous allons voir qui obtient qui а la fin.</text>
+	</string>
+	<string id="jup_b207_duty_guards_warning_actor">
+	<text>Hey! Sors d'ici! Les membres en service seulement.</text>
+	</string>
+	<string id="jup_b207_duty_leader_about_depot">
+	<text>Gavrilenko! Je l'ai appris l'entrepфt. il est la libertй, et il devrait y avoir beaucoup d'entre eux. Emmenez toute votre йquipe et nous allons traiter ces punks trиs vite.</text>
+	</string>
+	<string id="jup_b207_duty_leader_about_depot_after">
+	<text>Si ce contrфle, vous aurez accиs а l'entrepфt.</text>
+	</string>
+	<string id="jup_b207_duty_security_squad_to_freedom_leave">
+	<text>Attention, la libertй! Ce territoire est Duty. Obtenez l'enfer loin de l'entrepфt!</text>
+	</string>
+	<string id="jup_b207_duty_security_squad_to_freedom_start_attack">
+	<text>Bвtards ...! Eh bien, ils ont demandй pour cela. Hommes, commencent par l'opйration!</text>
+	</string>
+	<string id="jup_b207_freedom_guards_warning_actor">
+	<text>Cela ne veut pas pas partie publique, garзon. vous feriez mieux d'кtre sur votre chemin.</text>
+	</string>
+	<string id="jup_b207_freedom_leader_about_depot">
+	<text>Kremen! Prenez vos hommes et rejoindre Haiduk а l'entrepфt. Ces salauds de droits doivent venir pour leurs trucs d'un instant.</text>
+	</string>
+	<string id="jup_b207_freedom_leader_about_depot_after">
+	<text>Gйnial! Maintenant, les garзons seront en mesure de les combattre. Je ne oublie faveurs, vous pouvez donc utiliser le coffre quand vous le voulez. Je vais laisser tout le monde sait.</text>
+	</string>
+	<string id="jup_b207_freedom_recon_squad_refuse">
+	<text>Une chose est sыre! Il suffit de nous donner une minute de faire provision de quelques munitions.</text>
+	</string>
+	<string id="jup_b212_trapper_found_chimera">
+	<text>Hey, il est trappeur. Je viens d'avoir un chasseur qui a vu ici une chimиre la nuit derniиre. A en juger par la description, il est le mкme que celui que nous sommes aprиs. Venez, voyez-moi si vous le pouvez. C'est important.</text>
+	</string>
+	<string id="jup_b217_stalker_guide_welcome">
+	<text>Nous sommes ici. La station Yanov est un havre de relative sйcuritй dans la zone autour de Jupiter. Ceci est oщ nous allons sur nos chemins sйparйs. Mais si t'as besoin de moi, pour me chercher par la barre.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_farewell_1">
+	<text>Plus tard!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_farewell_2">
+	<text>А un de ces quatre!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_greeting_1">
+	<text>Hйy!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_greeting_2">
+	<text>'Sup!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_welcome">
+	<text>Premiиre fois ici? Je suis relativement nouveau moi-mкme ici. Nitro du nom. Je travaille avec l'йquipement. Je peux rйparer tout ce dont t'as besoin. Mais ... obtenir quelques bons outils est un problиme ici. Si vous voyez quelque chose, le mettre directement а moi. Et si t'as besoin d'aide technique, venir me voir, et je serai heureux de faire ce que je peux pour vous.</text>
+	</string>
+	<string id="jup_b219_actor_go">
+	<text>c'est bon. Aller.</text>
+	</string>
+	<string id="jup_b219_actor_ready">
+	<text>Tout le monde est prкt, l'ouvrir.</text>
+	</string>
+	<string id="jup_b219_duty_ready">
+	<text>Prкt! Squad?</text>
+	</string>
+	<string id="jup_b219_duty_to_tech">
+	<text>Effacer!</text>
+	</string>
+	<string id="jup_b219_monolith_ready">
+	<text>Aussi, prкt.</text>
+	</string>
+	<string id="jup_b219_soldier_ready">
+	<text>J'ai un mauvais sentiment а ce sujet.</text>
+	</string>
+	<string id="jup_b219_stalker_ready">
+	<text>Je suis toujours prкt!</text>
+	</string>
+	<string id="jup_b219_tech_damn">
+	<text>Gah ...! Allons!</text>
+	</string>
+	<string id="jup_b219_tech_opening">
+	<text>Roger. nous rock!</text>
+	</string>
+	<string id="jup_b219_tech_ready">
+	<text>Parй?</text>
+	</string>
+	<string id="jup_b219_tech_success">
+	<text>Il nous allons! c'est mieux.</text>
+	</string>
+	<string id="jup_b219_tech_to_duty">
+	<text>Bons garзons de chance!</text>
+	</string>
+	<string id="jup_b220_trapper_farewell_1">
+	<text>Avoir un bon!</text>
+	</string>
+	<string id="jup_b220_trapper_farewell_2">
+	<text>Bonne chasse!</text>
+	</string>
+	<string id="jup_b220_trapper_greeting_1">
+	<text>Salut!</text>
+	</string>
+	<string id="jup_b220_trapper_greeting_2">
+	<text>Comment va la chasse?</text>
+	</string>
+	<string id="jup_b221_duty_main_1">
+	<text>Eh bien, je propose un toast а une йquipe courageuse of Duty hommes, envoyй au front pour certains ass йcume verte sйrieux coups de pied.</text>
+	</string>
+	<string id="jup_b221_duty_main_2">
+	<text>Je vous ai racontй l'histoire de Fire Chimera? D'abord, il a mis en place chasseurs stalker pour se attaquй par une chimиre, puis il a quittй son partenaire pour mourir dans une anomalie, puis il a rejoint la Libertй. Je dirais que est une conclusion assez logique lа. Donc, je dirais que nous buvons а l'espoir que tous les membres de la libertй de suivre son exemple et nous allons prendre soin de celui qui est а gauche.</text>
+	</string>
+	<string id="jup_b221_duty_main_3">
+	<text>buvons au fait que, mкme dans le centre de la zone il ya des gens qui sont prкts а servir Duty. Pour notre nouvelle йquipe!</text>
+	</string>
+	<string id="jup_b221_duty_main_4">
+	<text>Je lиve mon verre au fait que ce complexe de recherche est maintenant entiиrement protйgйe par le devoir de mutants, anarchistes et autres йcume.</text>
+	</string>
+	<string id="jup_b221_duty_main_5">
+	<text>Camarades! Buvons а honorer nos braves volontaires pour prendre des lectures dans certaines des zones les plus dangereuses de la zone pour le bien de notre progrиs scientifique.</text>
+	</string>
+	<string id="jup_b221_duty_main_6">
+	<text>Je propose un toast aux combattants qui ont courageusement combattu Duty hors d'un lвche attentat faite par les punks sale.</text>
+	</string>
+	<string id="jup_b221_duty_reaction_1">
+	<text>Carrйment raison!</text>
+	</string>
+	<string id="jup_b221_duty_reaction_2">
+	<text>Totalement!</text>
+	</string>
+	<string id="jup_b221_duty_reaction_3">
+	<text>Bien dit!</text>
+	</string>
+	<string id="jup_b221_duty_reaction_4">
+	<text>je ne pourrais pas кtre plus d'accord.</text>
+	</string>
+	<string id="jup_b221_duty_reply_1">
+	<text>il est dйjа mort. Et si cela ne tenait qu'а moi, je vous ai tous emboоter le pas. Enseignez-vous de quitter l'exportation des produits de la zone extйrieure entraоnйe par cette mкme aviditй.</text>
+	</string>
+	<string id="jup_b221_duty_reply_2">
+	<text>Personne ne sait ce qui est arrivй. il est pas comme si vous йtiez lа pour le voir.</text>
+	</string>
+	<string id="jup_b221_duty_reply_3">
+	<text>Est-ce une йquipe composйe de personnes Monolith? Eh bien, je l'espиre, vous vous retrouverez une escouade de suceur de sang trop, parce que une fois que vous le faites, le lieutenant-colonel va certainement vous ajouter а la liste de dangereux mutants.</text>
+	</string>
+	<string id="jup_b221_duty_reply_4">
+	<text>Ha! Certains gardent vous кtes. Rien que l'an dernier, les mercenaires aviez-vous courir autour de la vallйe foncй avec votre queue entre les jambes. Ou avez-vous oubliй?</text>
+	</string>
+	<string id="jup_b221_duty_reply_5">
+	<text>Oui, je peux imaginer les lectures les scientifiques obtiennent. Des йchantillons d'air: 100 %la fumйe, des йchantillons d'eau: 100 %de la vodka, et le rire idiot sur toutes les frйquences sonores.</text>
+	</string>
+	<string id="jup_b221_duty_reply_6">
+	<text>c'est bon. nous obtiendrons nos armes dos. Les gars, t'as dйveloppй une habitude astucieux de l'abandon des armes et des objets а chaque fois que vous exйcutez dans nos combattants. Je ne vous blвme pas non plus. peut ne pas кtre facile а tenir, ce que, avec votre pantalon Shat et tout?</text>
+	</string>
+	<string id="jup_b221_freedom_main_1">
+	<text>Boys! Avez-vous entendu comment Duty est collй а ses traditions? Prenez adjudant Morgan, а la suite de la stricte nйcessitй de maintenir la rйputation de sa faction, il pensait qu'il йtait de son 'devoir' de vendre la moitiй de son entrepфt sur la vue.</text>
+	</string>
+	<string id="jup_b221_freedom_main_2">
+	<text>Tombez! Rappelez-vous? Traditions vaillants Duty ont йtй fixйes par le gйnйral Tkachenko lui-mкme. Il a menti а ses camarades, a trompй le QG et courageusement mort dans une bulle de l'espace. Voici а tous les membres de droit suivants son avance.</text>
+	</string>
+	<string id="jup_b221_freedom_main_3">
+	<text>Vous savez, la premiиre fois que je voyais notre nouvelle йquipe je leur ai demandй, 'Fellows, prйfйreriez-vous pour rejoindre la place Duty? vous кtes libre de faire ce que vous voulez, aprиs tout. ' Vous savez, ils me disaient: 'Non, merci. Avec eux, il est tout au sujet des commandes. Pour donner, principalement. Pas йtonnant que leurs yeux sont vides. nous avons eu assez de zombies '.</text>
+	</string>
+	<string id="jup_b221_freedom_main_4">
+	<text>Un membre du Devoir est venu а l'un de nos gens, a obtenu dans le bunker et lui a demandй, 'Professeur, pourriez-vous me dire quel artefact est le mieux pour les verrats de combat? Arrachйs а vous protйger contre les radiations ou des yeux pour vous aider avec les blessures '. Savez-vous quelle йtait la rйponse? Shell est ce qu'il vous faut, fils. Si vous voyez un sanglier, courir vers votre base aussi vite que vous le pouvez. Haha!</text>
+	</string>
+	<string id="jup_b221_freedom_main_5">
+	<text>Les gens, vous savez comment les scientifiques sont venus а choisir nos garзons de prendre des mesures d'anomalies? Ils ont fait de voir Shulga premier et lui dit, 'il ya un travail qui doit кtre fait pour le bйnйfice de la science.' Et il a dit, 'Pas de problиme. Qui dois-je exйcuter?</text>
+	</string>
+	<string id="jup_b221_freedom_main_6">
+	<text>Avec chaque jour qui passe par la nйcessitй de devoir devient plus clair pour moi. Je veux dire, qui d'autre pourrait mettre sur pied tout un entrepфt d'armes et de munitions, et ensuite en faire don а la libertй? Il йtait vraiment gentil de leur part, ne vous dites?</text>
+	</string>
+	<string id="jup_b221_freedom_reaction_1">
+	<text>[rires]</text>
+	</string>
+	<string id="jup_b221_freedom_reaction_2">
+	<text>[rires]</text>
+	</string>
+	<string id="jup_b221_freedom_reaction_3">
+	<text>[rires]</text>
+	</string>
+	<string id="jup_b221_freedom_reaction_4">
+	<text>[rires]</text>
+	</string>
+	<string id="jup_b221_freedom_reply_1">
+	<text>Ouais? Eh bien, je crois me souvenir comment votre courageuse йquipe йtait sur leurs genoux rampants pour l'accиs а Yanov avant une йmission.</text>
+	</string>
+	<string id="jup_b221_freedom_reply_2">
+	<text>Tout le monde a un de ceux. Duty est un vйritable paradis pour les hypocrites. 'Nous allons protйger le monde de la Zone ', juste aprиs que nous recueillons quelques artefacts.</text>
+	</string>
+	<string id="jup_b221_freedom_reply_3">
+	<text>Bonne affaire. Fanatic devrait coller avec fanatiques. Vous devriez porter des uniformes Monolith trop. De peur que les Stalkers pourrait effectivement vous confondre pour les humains.</text>
+	</string>
+	<string id="jup_b221_freedom_reply_4">
+	<text>De mutants? Vous кtes sыr que vous aurez assez d'espace dans ce bunker lorsque les mutants viennent en force? il est pas comme il est la barre 100 rads. Vous ne pouvez pas trou juste lа-bas et attendre que зa passe.</text>
+	</string>
+	<string id="jup_b221_freedom_reply_5">
+	<text>Si vos bйnйvoles boire autant que vous le faites, je peux seulement imaginer les lectures scientifiques obtiennent.</text>
+	</string>
+	<string id="jup_b221_freedom_reply_6">
+	<text>Ouais, qui est а droite. Apportez autant de gardes que vous le pouvez. Maintenant, la moitiй de la zone connaоt votre entrepфt de matйriel, alors attendez visiteurs.</text>
+	</string>
+	<string id="jup_b25_revage_senya">
+	<text>Attendez...! Le trouver! Pire est encore ... argh ...</text>
+	</string>
+	<string id="jup_b25_story_artefact">
+	<text>Vous auriez dы voir me faire celui-artefact, l'autre jour. Ce fut quelque chose. Vous savez quelque chose sur la carriиre? Eh bien. Quelle que soit la merde dйcent Il йtait une fois est rйvolue depuis longtemps. il est inutile de chercher des anomalies Fire Chimera a regardй. Tout le monde le sait.</text>
+	</string>
+	<string id="jup_b25_story_bloodsucker">
+	<text>Je vais vous dire tout ce qu'il ya а dire sur des sangsues. Quand je йtais а Zaton, ces connards fait la vraie vie difficile pour tout le monde. Stalkers maintenue а 'jour et nuit em, mais il n'a pas aidй un peu. Pauvres bougres. Un jour, je dйcidai de les aider. Donc, je pris mon fusil et je suis allй tout droit dans l'antre de sangsue. Trois jours, je faisait la fкte avec ces fils de putes, parfois prenant sur deux ou mкme trois ensemble. Aprиs un certain temps de qualitй avec votre serviteur le problиme de sangsue а Zaton est tout sauf terminйe. Les salauds gardent leurs tentacules rentrй а la fois.</text>
+	</string>
+	<string id="jup_b25_story_controller">
+	<text>Ok, je vais vous dire comment tuer contrфleurs. L'autre jour, je suis tombй sur un buttload d'artefacts et dйcidй de les ranger tout encore en route parce que mon dos ne pouvait plus le pirater. Sur le chemin du retour je suis arrivй а ma cachette et il йtait lа, un contrфleur, la rйfrigйration juste au-dessus de celui-ci. Maintenant, je me suis dit, 'contrфleur ou pas de contrфleur, je suis arrivй а obtenir ma merde de retour. ' Puis je me rendis compte que si je me protйger avec quelque chose de sa connerie de manipulation ne fonctionne pas sur moi. Donc, je ramassй une grille mйtallique que je trouvais traоner et a commencй а se faufiler sur la bкte. Au moment oщ il se rйveilla а ce qui se passait, je pompй un clip dans la tкte de l'enculй. Tout comme il a commencй а essayer de me contrфler, je lui ai donnй un coup final avec ma crosse de fusil et qui йtait qui.</text>
+	</string>
+	<string id="jup_b25_story_first_reac_1">
+	<text>Ah! Maintenant, qui est une histoire, Fire Chimera.</text>
+	</string>
+	<string id="jup_b25_story_first_reac_2">
+	<text>Fire Chimera est un vrai homme, qui est а coup sыr.</text>
+	</string>
+	<string id="jup_b25_story_first_reac_3">
+	<text>Oui pas mal.</text>
+	</string>
+	<string id="jup_b25_story_guide">
+	<text>Eh bien, je suis sыr que vous savez sur le chemin de Zaton ... Non? Eh bien, le guide permet de prendre un dйtour massif. Ce que je faisais йtait de crйer un raccourci en coupant а travers une ligne droite, une idйe nouvelle. J'ai essayй quelques endroits et a travaillй sur le chemin а travers les anomalies assez rapide. Donc je l'ai vendu cette info pour le guide et maintenant il prend tout le monde de cette faзon.</text>
+	</string>
+	<string id="jup_b25_story_oasis">
+	<text>t'as entendu parler de l'Oasis? Bien sыr, t'as entendu parler de lui. I, d'autre part, ont йtй effectivement lа. Je fus la premiиre personne а travailler sur la faзon d'y arriver, un pionnier, si vous voulez. Il n'y a pas pas de mutants ou 'anomalies friggin lа. il est calme comme un cimetiиre et plein d'artefacts. J'y йtais il ya quelques jours seulement. Dimanche, savez-vous que ... vous y conduire? Ha! Dйsolй, mais je ne veux pas qu'il se bondй. Rien de personnel.</text>
+	</string>
+	<string id="jup_b25_story_scientist">
+	<text>Eh bien, je l'ai eu beaucoup d'histoires а raconter. Ai-je vous parler de mon temps de travail pour les scientifiques? Alors, un jour je vais et pop dans leur bunker, vйritable curieux de voir ce qu'ils sont jusqu'а lа. Au dйbut, ils sont tous en йtat de choc. Mais ensuite, ils vont, vous кtes exactement ce que nous avons besoin maintenant. ' Il se trouve qu'ils ont voulu mettre en place leurs dispositifs sous anomalies. Йvidemment, les intellos ne se sentent pas comme le faire eux-mкmes, ils ont promis de me liquiditйs et autres goodies. Donc je me suis dit, 'Eh bien, qui est trиs bien, mais mieux les goodies en vaut la peine! Je devais ramper autour de cette zone а la recherche d'anomalies, mais ce ne fut pas la moitiй aussi dur que d'obtenir ces nerds а dйbourser leur argent rйcompense.</text>
+	</string>
+	<string id="jup_b25_story_second_reac_1">
+	<text>Histoire cool!</text>
+	</string>
+	<string id="jup_b25_story_second_reac_2">
+	<text>Ouais!</text>
+	</string>
+	<string id="jup_b25_story_second_reac_3">
+	<text>Hou la la!</text>
+	</string>
+	<string id="jup_b25_story_zaton">
+	<text>Il ya peut-кtre quelques-uns des gens qui pensent que Fire Chimera est rйvйlateur des mensonges. Eh bien, ils peuvent demander а quelqu'un а la base а propos de moi. Mкme l'йquipe de pro chasseurs, quand ils me repйrй l'autre jour, ils йtaient tous comme, 'Nous avons besoin de vous, Fire Chimera. Nous ne pouvons pas le faire sans vous '. Ils chassaient une chimиre, donc je devais montrer а ces 'pros' comment il est fait. Mon munitions est rйel friggine simple. Je me dirige tout droit dans l'antre. Ils ont quittй l'une recrue а l'entrйe de garder un њil sur la planche. Bien sыr, venir le matin, dиs que le novice a vu la bкte, il chiй son pantalon et il jambes, donc je devais faire face а moi-mкme. Avec succиs, comme vous pouvez le voir, il-il-il ...</text>
+	</string>
+	<string id="jup_b4_duty_squad_leader_align">
+	<text>Tombez!</text>
+	</string>
+	<string id="jup_b4_duty_squad_leader_align_line">
+	<text>Un rang, maintenant!</text>
+	</string>
+	<string id="jup_b4_duty_squad_leader_final">
+	<text>Fйlicitations pour rejoindre devoir! Suis moi! Gauche, droite, gauche, droite ...</text>
+	</string>
+	<string id="jup_b4_duty_squad_leader_praise">
+	<text>Voir? Vous pouvez le faire quand vous voulez. Le temps de prendre le serment.</text>
+	</string>
+	<string id="jup_b4_duty_squad_leader_speech">
+	<text>Jurez-vous de servir Duty avec courage et intйgritй, pour protйger l'humanitй de l'agression de la zone, et suivez toujours le code?</text>
+	</string>
+	<string id="jup_b4_freedom_squad_leader_any_questions">
+	<text>Ainsi, des questions?</text>
+	</string>
+	<string id="jup_b4_freedom_squad_leader_lets_talk">
+	<text>Pourquoi pensez-vous debout autour de? Avoir un siиge et parlons!</text>
+	</string>
+	<string id="jup_b4_freedom_squad_leader_reply">
+	<text>Nous ne disposons pas d'une hiйrarchie stricte. Gagnez notre respect, et vous obtiendrez beaucoup d'adeptes. Toutefois, lorsque sur une mission que nous obйissons aux ordres du commandant, sans question.</text>
+	</string>
+	<string id="jup_b4_freedom_squad_leader_speech">
+	<text>Nous respectons la libertй de nos membres et d'autres Stalkers, et nous croyons que la zone est ouverte а tous. Йtant la plus grande humanitй cadeau ait jamais reзu, il est l'occasion de faire un bond prodigieux dans notre dйveloppement, et tout le monde doit comprendre que.</text>
+	</string>
+	<string id="jup_b4_freedom_squad_leader_welcome_to_freedom">
+	<text>Alors, bienvenue а la libertй!</text>
+	</string>
+	<string id="jup_b4_monolith_1_ask_to_freedom">
+	<text>Qui va nous commander?</text>
+	</string>
+	<string id="jup_b4_monolith_squad_leader_meet">
+	<text>Stalker! Pourriez-vous venir ici?</text>
+	</string>
+	<string id="jup_b4_monolith_talk_to_commander_1">
+	<text>vous aviez кtre mieux parler а Strider.</text>
+	</string>
+	<string id="jup_b4_monolith_talk_to_commander_2">
+	<text>Strider est celui que vous devriez parler.</text>
+	</string>
+	<string id="jup_b4_monolith_talking_1_1">
+	<text>Nous pouvons nous asseoir ici toute la journйe, mais cela ne nous mиnera nulle part.</text>
+	</string>
+	<string id="jup_b4_monolith_talking_1_2">
+	<text>il n'y a rien, mais mutants ici.</text>
+	</string>
+	<string id="jup_b4_monolith_talking_1_3">
+	<text>Et oщ allons-nous?</text>
+	</string>
+	<string id="jup_b4_monolith_talking_5_1">
+	<text>La premiиre chose que nous devons faire est de dйterminer oщ l'enfer nous sommes.</text>
+	</string>
+	<string id="jup_b4_monolith_talking_5_2">
+	<text>Nous avons besoin de trouver des gens.</text>
+	</string>
+	<string id="jup_b4_monolith_talking_5_3">
+	<text>nous sommes foutus, quoi que nous fassions.</text>
+	</string>
+	<string id="jup_b4_recruit_1_cool_freedom">
+	<text>Frais!</text>
+	</string>
+	<string id="jup_b4_recruit_1_serve_duty">
+	<text>Nous le jurons!</text>
+	</string>
+	<string id="jup_b4_recruit_2_cool_freedom">
+	<text>Gйnial! qui est juste, nous devons.</text>
+	</string>
+	<string id="jup_b4_recruit_2_serve_duty">
+	<text>Nous le jurons!</text>
+	</string>
+	<string id="jup_b41_base_alarm">
+	<text>Attention, attention! Ceci est Hermann. Le laboratoire de sciences est sous attaque. Nous ne serons pas en permettons Stalkers pendant un certain temps.</text>
+	</string>
+	<string id="jup_b41_base_relax">
+	<text>Attention, attention! Ceci est Hermann. Notre laboratoire mobile est ouvert aux Stalkers une fois de plus.</text>
+	</string>
+	<string id="jup_b41_bunker_megaphone_1">
+	<text>Stalker! Je dois vous avertir que l'entrйe dans le bunker avec une arme est strictement interdite.</text>
+	</string>
+	<string id="jup_b41_bunker_megaphone_2">
+	<text>Stalker! Vous devez rengainer votre arme а l'entrйe de l'installation de recherche.</text>
+	</string>
+	<string id="jup_b41_bunker_megaphone_3">
+	<text>Tu m'entends? Holster votre arme!</text>
+	</string>
+	<string id="jup_b46_duty_founder_pda_diary">
+	<text>... de quelque maniиre nous allons, nous finissons toujours au mкme endroit exact. Je ne peux toujours pas habituй а ce brouillard. il est bizarre que Chepurnoy disparu sans laisser de trace. Peut-кtre qu'il a trouvй un moyen de sortir .... Six Jours. nous avons couru hors de l'eau. Le colonel a renversй son couvercle et abattu deux personnes а bout portant, puis lui-mкme. Maintenant, je suis sur mon propre dans cette fichue anomalie. Si je ne l'avais pas fixe pour nos communications avec le Siиge de descendre, ils pourraient nous ont secourus. Et Duty aurait pas existй. Je me demande comment les choses allaient ont tournй .... Ah, visser! Que le capitaine Tkachenko morts il ya longtemps. Et ce Tkachenko gйnйral of Duty sera le suivre. qui est ... la Justice, je suppose.</text>
+	</string>
+	<string id="jup_b46_spatial_bubble_sos_1">
+	<text>... trouver un moyen de sortir. Aidez-moi! nous sommes а court de ...</text>
+	</string>
+	<string id="jup_b46_spatial_bubble_sos_2">
+	<text>...beaucoup plus longtemps. nous avons йtй sans eau pendant deux jours. Demande d'une mission de sauvetage! Hel ...</text>
+	</string>
+	<string id="jup_b46_spatial_bubble_sos_3">
+	<text>... besoin d'une assistance immйdiate! Nous ne tiendrons pas pour plus de trois ...</text>
+	</string>
+	<string id="jup_b47_merc_leader_regret">
+	<text>Vous ne devriez pas venus ici, Stalker! Maintenant, vous serez Wormfood.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_farewell_1">
+	<text>А la prochaine!</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_farewell_2">
+	<text>Ne sois pas un йtranger!</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_greeting_1">
+	<text>Bonjour! il est toujours agrйable de voir un nouveau visage dans notre bunker.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_greeting_2">
+	<text>Oh, bonjour!</text>
+	</string>
+	<string id="jup_b6_scientist_medic_farewell_1">
+	<text>Bon chance!</text>
+	</string>
+	<string id="jup_b6_scientist_medic_farewell_2">
+	<text>Au revoir!</text>
+	</string>
+	<string id="jup_b6_scientist_medic_greeting_1">
+	<text>Bonjour!</text>
+	</string>
+	<string id="jup_b6_scientist_medic_greeting_2">
+	<text>Hey!</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_farewell_1">
+	<text>Merci pour votre temps.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_farewell_2">
+	<text>C'est tout? Alors au revoir.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_greeting_1">
+	<text>Ehh ... trиs bien, allez sur. Que puis-je faire pour vous?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_greeting_2">
+	<text>Oui, t'as toute mon attention.</text>
+	</string>
+	<string id="jup_b6_stalker_1_first_measurement_begin">
+	<text>Ok, faisons ce jeыne. Le plus vite nous terminons le plus de chance que nous avons de rester en vie.</text>
+	</string>
+	<string id="jup_b6_stalker_1_first_measurement_done">
+	<text>Alpha, bкta et gamma lectures prises.</text>
+	</string>
+	<string id="jup_b6_stalker_1_first_measurement_in_progress">
+	<text>Prenant lectures!</text>
+	</string>
+	<string id="jup_b6_stalker_1_fourth_measurement_done">
+	<text>Champ de torsion balayage complet.</text>
+	</string>
+	<string id="jup_b6_stalker_1_fourth_measurement_in_progress">
+	<text>nous y arrivons. L'analyse de champ de torsion est presque terminй.</text>
+	</string>
+	<string id="jup_b6_stalker_1_measurements_done">
+	<text>nous avons fini ici, Stalker. Maintenant, laissez-nous foutre le camp d'ici!</text>
+	</string>
+	<string id="jup_b6_stalker_1_monsters_coming_1">
+	<text>Hey! Кtes-vous en nous, ou ce couvrez?</text>
+	</string>
+	<string id="jup_b6_stalker_1_monsters_coming_2">
+	<text>Regardez vivant, Stalker! Couvrez-nous!</text>
+	</string>
+	<string id="jup_b6_stalker_1_monsters_coming_3">
+	<text>Hey! Que faites-vous?!</text>
+	</string>
+	<string id="jup_b6_stalker_1_monsters_coming_4">
+	<text>Stalker! ils sont ici! Aidez nous!</text>
+	</string>
+	<string id="jup_b6_stalker_1_monsters_coming_5">
+	<text>Stalker! Qu'est-ce que tu fais ?!</text>
+	</string>
+	<string id="jup_b6_stalker_1_monsters_coming_6">
+	<text>ils nous attaquent! Stalker, ce que le ...</text>
+	</string>
+	<string id="jup_b6_stalker_1_second_measurement_done">
+	<text>Champ йlectromagnйtique balayage complet.</text>
+	</string>
+	<string id="jup_b6_stalker_1_second_measurement_in_progress">
+	<text>Champ йlectromagnйtique numйrisation en cours.</text>
+	</string>
+	<string id="jup_b6_stalker_1_third_measurement_done">
+	<text>Les donnйes acoustiques acquises pour toutes les gammes.</text>
+	</string>
+	<string id="jup_b6_stalker_1_third_measurement_in_progress">
+	<text>Les donnйes acoustiques recueillies pour deux gammes jusqu'а prйsent.</text>
+	</string>
+	<string id="jup_b9_blackbox_records">
+	<text>Stingray-4, entrez! Venez, bon sang! Stingray-4, ne lisez-vous? ... Attention, groupe Stingray! Ceci est Stingray-1. La position d'йvacuation d'urgence est B-Two-Eight. Je le rйpиte, B-Two-huit!</text>
+	</string>
+	<string id="jup_b9_heli_1_blackbox">
+	<text>Deux corps ... On dirait qu'ils sont morts dans le crash .... Tout de valeur a йtй pillй et l'ordinateur de bord a йtй nettoyйe. Mais la boоte noire est toujours intacte .... Intйressant .... je pense un technicien dйcent sera en mesure d'extraire les informations sur elle et puis le dйcoder.</text>
+		</string>
+
+
+	<!-- Underpass -->
+
+	<string id="pas_b400_sokolov_about_control_gates_1">
+	<text>il est bloquй, et il n'y a pas de bouton. Je reзois l'impression que quelqu'un va devoir faire pour la salle de contrфle pour rйsoudre celui-ci.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_cover_1">
+	<text>Je vais attendre ici et couvrir ses arriиres, d'accord?</text>
+	</string>
+	<string id="pas_b400_sokolov_about_dome_1">
+	<text>Merde, je savais que nous ne devrions pas venus ici.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_door_1">
+	<text>Aucun point debout autour d'ici, qui est а coup sыr.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_elevator_1">
+	<text>Gйnial! Tout simplement gйnial!</text>
+	</string>
+	<string id="pas_b400_sokolov_about_exit_1">
+	<text>Mon sentiment profond est que nous avons fait.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_gates">
+	<text>Alors ... Que diriez-vous appuyant sur le bouton?</text>
+	</string>
+	<string id="pas_b400_sokolov_about_railway_1">
+	<text>Gйnial! La porte n'a pas de pouvoir.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_sniper_first_1">
+	<text>Attention! Quelque chose cloche ici.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_snorks_1">
+	<text>Uh-oh!</text>
+	</string>
+	<string id="pas_b400_sokolov_about_snorks_2">
+	<text>Merde!</text>
+	</string>
+	<string id="pas_b400_sokolov_about_snorks_3">
+	<text>Man, ils ne laissent pas, ils le font.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_train_1">
+	<text>Mmmh ... quelque chose ne se sent pas bien.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_train_gates_1">
+	<text>Mmmh ... quelque chose se sent mal ici aussi.</text>
+	</string>
+	<string id="pas_b400_sokolov_about_transformer_1">
+	<text>Hй, vous allez кtre prudent avec cette chose, d'accord?</text>
+	</string>
+	<string id="pas_b400_sokolov_about_tushkano_1">
+	<text>Je reзois un sentiment йtrange, et pas le bon type.</text>
+	</string>
+	<string id="pas_b400_sokolov_come_back_1">
+	<text>Hey! Alors, allons-nous ou quoi?</text>
+	</string>
+	<string id="pas_b400_sokolov_idle_1">
+	<text>Pourquoi suis-je encore dans tout cela?</text>
+	</string>
+	<string id="pas_b400_sokolov_idle_2">
+	<text>L'enfer avec cet endroit! Je ne peux pas attendre jusqu'а ce que je suis outta here.</text>
+	</string>
+	<string id="pas_b400_sokolov_idle_3">
+	<text>Je ne peux pas croire cette merde qu'on m'a dit, 'ne vous inquiйtez pas, le pilotage est simple comme bonjour. ' Mon cul!</text>
+	</string>
+	<string id="pas_b400_sokolov_no_meet_1">
+	<text>Silencieux! Keep it agrйable et calme!</text>
+	</string>
+	<string id="pas_b400_sokolov_no_meet_2">
+	<text>nous allons parler une fois que nous sortons d'ici.</text>
+	</string>
+	<string id="pas_b400_sokolov_no_meet_3">
+	<text>Ceci est а peine le temps de parler.</text>
+	</string>
+	<string id="pas_b400_sokolov_on_actor_assault_1">
+	<text>Кtes-vous fou?!</text>
+	</string>
+	<string id="pas_b400_sokolov_on_actor_hit_1">
+	<text>Ooh ... regarder, connard!</text>
+	</string>
+	<string id="pas_b400_sokolov_on_actor_hit_2">
+	<text>Ooh ... l'arrкter! tu me fais mal!</text>
+	</string>
+	<string id="pas_b400_sokolov_on_actor_hit_3">
+	<text>Ugh ... putain psycho!</text>
+	</string>
+	<string id="pas_b400_sokolov_on_death_1">
+	<text>[Sokolov meurt]</text>
+	</string>
+	<string id="pas_b400_sokolov_on_enemy_assault_vano_1">
+	<text>Vano est mort.</text>
+	</string>
+	<string id="pas_b400_sokolov_on_enemy_assault_wanderer_1">
+	<text>Strider a йtй tuй.</text>
+	</string>
+	<string id="pas_b400_sokolov_on_enemy_assault_zulus_1">
+	<text>Zulu est en baisse.</text>
+	</string>
+	<string id="pas_b400_sokolov_on_enemy_hit_1">
+	<text>[Sokolov se blesse]</text>
+	</string>
+	<string id="pas_b400_sokolov_on_enemy_hit_2">
+	<text>[Sokolov se blesse]</text>
+	</string>
+	<string id="pas_b400_sokolov_on_enemy_hit_3">
+	<text>[Sokolov se blesse]</text>
+	</string>
+	<string id="pas_b400_sokolov_wait_for_me_1">
+	<text>Hey, reviens! c'est dangereux.</text>
+	</string>
+	<string id="pas_b400_vano_about_anomaly_first_1">
+	<text>Oh, il ya une anomalie ici.</text>
+	</string>
+	<string id="pas_b400_vano_about_anomaly_first_2">
+	<text>voyons si il ya un moyen d'obtenir par ce biais.</text>
+	</string>
+	<string id="pas_b400_vano_about_anomaly_first_3">
+	<text>Venez! Je l'ai trouvй un chemin а travers.</text>
+	</string>
+	<string id="pas_b400_vano_about_anomaly_second_1">
+	<text>Une autre anomalie. Voyons.</text>
+	</string>
+	<string id="pas_b400_vano_about_anomaly_second_2">
+	<text>Hm ... aller de cette faзon une fois, il peut кtre votre dernier.</text>
+	</string>
+	<string id="pas_b400_vano_about_anomaly_second_3">
+	<text>D'accord, il ya un chemin а travers ici. espйrons qu'il mиne quelque part un peu moins mortel.</text>
+	</string>
+	<string id="pas_b400_vano_about_anomaly_third_1">
+	<text>Bon, passons.</text>
+	</string>
+	<string id="pas_b400_vano_about_control_gates_1">
+	<text>Alors ... la porte est bloquйe, hein? Hmm ... Je ne sais pas ... Peut-кtre il peut кtre ouvert а partir de la salle de contrфle?</text>
+	</string>
+	<string id="pas_b400_vano_about_cover_1">
+	<text>Continuez а vous dйplacer, mon pote! Je l'ai obtenu votre arriиre couvert. ne t'inquiиtes pas.</text>
+	</string>
+	<string id="pas_b400_vano_about_dome_1">
+	<text>Eh bien, je serai ... ce qui est beau!</text>
+	</string>
+	<string id="pas_b400_vano_about_door_1">
+	<text>L'ouverture de la porte, lа-bas. Irons-nous de cette faзon?</text>
+	</string>
+	<string id="pas_b400_vano_about_gates">
+	<text>Regarde! Appuyez sur le bouton ou quelque chose, ouais?</text>
+	</string>
+	<string id="pas_b400_vano_about_railway_1">
+	<text>il est eu une coupure de courant, hein-hein ...</text>
+	</string>
+	<string id="pas_b400_vano_about_room_closed">
+	<text>Hey! n'y allez pas! il est fermй.</text>
+	</string>
+	<string id="pas_b400_vano_about_room_open">
+	<text>Regardez! il est maintenant ouverte!</text>
+	</string>
+	<string id="pas_b400_vano_about_sniper_first_1">
+	<text>Flash museau sur la droite ... euh ... je veux dire, laissй.</text>
+	</string>
+	<string id="pas_b400_vano_about_snorks_1">
+	<text>Nice, ils sont tous morts.</text>
+	</string>
+	<string id="pas_b400_vano_about_transformer_1">
+	<text>Ecoutez, il devrait y avoir des leviers sur cette chose que vous pouvez tourner des trucs avec.</text>
+	</string>
+	<string id="pas_b400_vano_about_underpass">
+	<text>Alors ... laissez-nous aller?</text>
+	</string>
+	<string id="pas_b400_vano_come_back_1">
+	<text>Hй, mec! Quitter perdre du temps. Faites-le assez longtemps et nous allons nous-mкmes perdu.</text>
+	</string>
+	<string id="pas_b400_vano_idle_1">
+	<text>Vous savez, il est pas si mal ici ... Je pense.</text>
+	</string>
+	<string id="pas_b400_vano_idle_2">
+	<text>Avec des amis fidиles de votre cфtй, mкme cette merde est pas si mal.</text>
+	</string>
+	<string id="pas_b400_vano_idle_3">
+	<text>il est une bonne chose que je dйcidй de vous suivre. Comment pourrais-je l'ai vu un endroit pareil?</text>
+	</string>
+	<string id="pas_b400_vano_no_meet_1">
+	<text>Parlons ensuite, mon pote.</text>
+	</string>
+	<string id="pas_b400_vano_no_meet_2">
+	<text>Ecoutez, ce ne sont pas le meilleur moment pour discuter.</text>
+	</string>
+	<string id="pas_b400_vano_no_meet_3">
+	<text>Je vais кtre honnкte avec vous. Ceci est ni le moment ni l'endroit pour parler.</text>
+	</string>
+	<string id="pas_b400_vano_on_actor_assault_1">
+	<text>Qu'est-ce que le ... salaud!</text>
+	</string>
+	<string id="pas_b400_vano_on_actor_hit_1">
+	<text>Pourquoi, mec? Pourquoi?...</text>
+	</string>
+	<string id="pas_b400_vano_on_actor_hit_2">
+	<text>Je ne suis pas l'ennemi, l'homme!</text>
+	</string>
+	<string id="pas_b400_vano_on_actor_hit_3">
+	<text>Je vais putain vous finir!</text>
+	</string>
+	<string id="pas_b400_vano_on_death_1">
+	<text>[Vano meurt]</text>
+	</string>
+	<string id="pas_b400_vano_on_enemy_assault_sokolov_1">
+	<text>Notre ami de l'armйe est mort.</text>
+	</string>
+	<string id="pas_b400_vano_on_enemy_assault_wanderer_1">
+	<text>Notre Monolith camarade a йtй tuй.</text>
+	</string>
+	<string id="pas_b400_vano_on_enemy_assault_zulus_1">
+	<text>il est Zulu! il est mort.</text>
+	</string>
+	<string id="pas_b400_vano_on_enemy_hit_1">
+	<text>[Vano se blesse]</text>
+	</string>
+	<string id="pas_b400_vano_on_enemy_hit_2">
+	<text>[Vano se blesse]</text>
+	</string>
+	<string id="pas_b400_vano_on_enemy_hit_3">
+	<text>[Vano se blesse]</text>
+	</string>
+	<string id="pas_b400_vano_wait_for_me_1">
+	<text>Hй, mec! Ou vas-tu? laissez-nous travailler ensemble sur celui-ci!</text>
+	</string>
+	<string id="pas_b400_wanderer_about_control_gates_1">
+	<text>La porte est bloquйe. Si je vous, je voudrais jeter un oeil autour de la salle de contrфle.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_cover_1">
+	<text>Je vais rester ici et de couvrir les approches.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_door_1">
+	<text>La porte est ouverte. Irions-nous?</text>
+	</string>
+	<string id="pas_b400_wanderer_about_gates">
+	<text>Tu dois appuyez sur le bouton.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_monolith_1">
+	<text>nous sommes dehors dans l'ouvert ici. Passons!</text>
+	</string>
+	<string id="pas_b400_wanderer_about_railway_1">
+	<text>On dirait qu'il n'y a pas de puissance йtant fournie а la porte.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_sniper_first_1">
+	<text>Ce sont les miens.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_sniper_first_2">
+	<text>ils sont toast.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_snorks_1">
+	<text>Je vais traiter de ces salauds.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_transformer_1">
+	<text>Un transformateur. Je me souviens de ces de mon enfance.</text>
+	</string>
+	<string id="pas_b400_wanderer_about_underpass">
+	<text>Passons!</text>
+	</string>
+	<string id="pas_b400_wanderer_come_back_1">
+	<text>Ce ne sont pas le meilleur endroit pour tourner les pouces, allons!</text>
+	</string>
+	<string id="pas_b400_wanderer_idle_1">
+	<text>c'est calme. Trop calme.</text>
+	</string>
+	<string id="pas_b400_wanderer_idle_2">
+	<text>Je pense que je peux avoir йtй ici а un certain point. Je ne suis pas sыr.</text>
+	</string>
+	<string id="pas_b400_wanderer_idle_3">
+	<text>Etrange ... Tout dans cet endroit est йtrange.</text>
+	</string>
+	<string id="pas_b400_wanderer_no_meet_1">
+	<text>Zip It, sera ya ?!</text>
+	</string>
+	<string id="pas_b400_wanderer_no_meet_2">
+	<text>Calmer, l'homme.</text>
+	</string>
+	<string id="pas_b400_wanderer_no_meet_3">
+	<text>Je ... Je ne me sens pas envie de parler.</text>
+	</string>
+	<string id="pas_b400_wanderer_on_actor_assault_1">
+	<text>Traоtre!</text>
+	</string>
+	<string id="pas_b400_wanderer_on_actor_hit_1">
+	<text>Uhm, qui est ... inutile.</text>
+	</string>
+	<string id="pas_b400_wanderer_on_actor_hit_2">
+	<text>Je vous suggиre de cesser ce droit maintenant!</text>
+	</string>
+	<string id="pas_b400_wanderer_on_actor_hit_3">
+	<text>Uhm ... Je vous avais prйvenu!</text>
+	</string>
+	<string id="pas_b400_wanderer_on_death_1">
+	<text>[Strider meurt]</text>
+	</string>
+	<string id="pas_b400_wanderer_on_enemy_assault_sokolov_1">
+	<text>Sokolov est mort.</text>
+	</string>
+	<string id="pas_b400_wanderer_on_enemy_assault_vano_1">
+	<text>Vano est parti.</text>
+	</string>
+	<string id="pas_b400_wanderer_on_enemy_assault_zulus_1">
+	<text>Zulu a йtй tuй.</text>
+	</string>
+	<string id="pas_b400_wanderer_on_enemy_hit_1">
+	<text>[Strider se blesse]</text>
+	</string>
+	<string id="pas_b400_wanderer_on_enemy_hit_2">
+	<text>[Strider se blesse]</text>
+	</string>
+	<string id="pas_b400_wanderer_on_enemy_hit_3">
+	<text>[Strider se blesse]</text>
+	</string>
+	<string id="pas_b400_wanderer_wait_for_me_1">
+	<text>ne vous prйcipitez pas а l'avance! il est prйfйrable de rester ensemble ici.</text>
+	</string>
+	<string id="pas_b400_zulus_about_control_gates_1">
+	<text>La porte est bloquйe, et il n'y a aucun bouton ici. Toute personne envie d'aller а la salle de contrфle et de voir si il ya quelque chose lа pour nous aider?</text>
+	</string>
+	<string id="pas_b400_zulus_about_cover_1">
+	<text>Continuez а vous dйplacer, bro! Je l'ai obtenu votre dos.</text>
+	</string>
+	<string id="pas_b400_zulus_about_door_1">
+	<text>Eh bien, la voie est libre. laisse nous partir!</text>
+	</string>
+	<string id="pas_b400_zulus_about_exit_1">
+	<text>On dirait que nous sommes en dessous de Pripyat.</text>
+	</string>
+	<string id="pas_b400_zulus_about_gates">
+	<text>Appuyez sur le bouton, bro!</text>
+	</string>
+	<string id="pas_b400_zulus_about_monolith_1">
+	<text>Dos а dos, vite!</text>
+	</string>
+	<string id="pas_b400_zulus_about_monolith_2">
+	<text>Damn!</text>
+	</string>
+	<string id="pas_b400_zulus_about_obstacle_1">
+	<text>Hm ... ressemble а la route directe est pas une option.</text>
+	</string>
+	<string id="pas_b400_zulus_about_obstacle_2">
+	<text>Pas de soucis. Les vrais hommes prennent souvent la porte dйrobйe.</text>
+	</string>
+	<string id="pas_b400_zulus_about_outfits_1">
+	<text>Eh bien, au moins les combinaisons de protection auront une certaine utilitй.</text>
+	</string>
+	<string id="pas_b400_zulus_about_railway_1">
+	<text>Hm ... le pouvoir de la porte a йtй coupй.</text>
+	</string>
+	<string id="pas_b400_zulus_about_sniper_first_1">
+	<text>Les tireurs d'йlite!</text>
+	</string>
+	<string id="pas_b400_zulus_about_snorks_1">
+	<text>Reste calme. Tirer!</text>
+	</string>
+	<string id="pas_b400_zulus_about_train_gates_1">
+	<text>Eh bien, bro ... laissez-nous le rock and roll!</text>
+	</string>
+	<string id="pas_b400_zulus_about_train_gates_2">
+	<text>Mess avec les meilleurs, mourir comme le reste.</text>
+	</string>
+	<string id="pas_b400_zulus_about_transformer_1">
+	<text>Cela ressemble а un transformateur. Je me demande si toutes les lignes ont йtй activйes.</text>
+	</string>
+	<string id="pas_b400_zulus_about_underpass">
+	<text>Passons!</text>
+	</string>
+	<string id="pas_b400_zulus_come_back_1">
+	<text>Continuez, bro! Nous devons continuer а avancer.</text>
+	</string>
+	<string id="pas_b400_zulus_idle_1">
+	<text>Quel endroit, l'homme.</text>
+	</string>
+	<string id="pas_b400_zulus_idle_2">
+	<text>Quel bordel! vous aviez obtenir une asskicking pour ce genre de chose а notre base.</text>
+	</string>
+	<string id="pas_b400_zulus_idle_3">
+	<text>Cet endroit a pas de plage de sable, qui est а coup sыr.</text>
+	</string>
+	<string id="pas_b400_zulus_no_meet_1">
+	<text>Pas le temps de plaisanteries, mon frиre.</text>
+	</string>
+	<string id="pas_b400_zulus_no_meet_2">
+	<text>Parlons fois ce sera fini.</text>
+	</string>
+	<string id="pas_b400_zulus_no_meet_3">
+	<text>Quittez ce bavardage et de se concentrer!</text>
+	</string>
+	<string id="pas_b400_zulus_on_actor_assault_1">
+	<text>Hey! Il йtait mon ami!</text>
+	</string>
+	<string id="pas_b400_zulus_on_actor_hit_1">
+	<text>Ugh! Qu'est-ce que tu fais ?!</text>
+	</string>
+	<string id="pas_b400_zulus_on_actor_hit_2">
+	<text>Argh! Hй, l'arrкter!</text>
+	</string>
+	<string id="pas_b400_zulus_on_actor_hit_3">
+	<text>Urgh! Hй, je ne suis pas ce genre de merde!</text>
+	</string>
+	<string id="pas_b400_zulus_on_death_1">
+	<text>[Zulu meurt]</text>
+	</string>
+	<string id="pas_b400_zulus_on_enemy_assault_sokolov_1">
+	<text>Sokolov est en panne!</text>
+	</string>
+	<string id="pas_b400_zulus_on_enemy_assault_vano_1">
+	<text>Vano est en panne!</text>
+	</string>
+	<string id="pas_b400_zulus_on_enemy_assault_wanderer_1">
+	<text>Strider est en panne!</text>
+	</string>
+	<string id="pas_b400_zulus_on_enemy_hit_1">
+	<text>[Zulu se blesse]</text>
+	</string>
+	<string id="pas_b400_zulus_on_enemy_hit_2">
+	<text>[Zulu se blesse]</text>
+	</string>
+	<string id="pas_b400_zulus_on_enemy_hit_3">
+	<text>[Zulu se blesse]</text>
+	</string>
+	<string id="pas_b400_zulus_wait_for_me_1">
+	<text>Reviens, bro! Nous ne devons pas un йclaireur sur cette mission.</text>
+		</string>
+
+
+	<!-- Pripyat -->
+
+	<string id="pri_a15_actor_introduce">
+	<text>Je suis Major Degtyarev, USS. Je suis ici pour enquкter sur l'йchec de l'opйration 'Fairway'.</text>
+	</string>
+	<string id="pri_a15_actor_introduce_squad">
+	<text>Stalkers m'a aidй а arriver а Pripyat.</text>
+	</string>
+	<string id="pri_a15_actor_leave_him">
+	<text>Laissez-le aller, capitaine.</text>
+	</string>
+	<string id="pri_a15_actor_need_talk_with_commander">
+	<text>Je dois information pour Kovalsky. Emmenez-moi а lui.</text>
+	</string>
+	<string id="pri_a15_army_go">
+	<text>Suis moi!</text>
+	</string>
+	<string id="pri_a15_army_go_with_me">
+	<text>Bien. Suis moi.</text>
+	</string>
+	<string id="pri_a15_army_hide_weapon">
+	<text>Mettez vos armes sur le terrain, maintenant!</text>
+	</string>
+	<string id="pri_a15_army_joke">
+	<text>vous кtes un joyeux gangs, est-ce pas?</text>
+	</string>
+	<string id="pri_a15_army_leave">
+	<text>Beaux, lui visser!</text>
+	</string>
+	<string id="pri_a15_army_stop">
+	<text>Tenez-le!</text>
+	</string>
+	<string id="pri_a15_army_who_a_you">
+	<text>Qui es-tu? Quelle est votre activitй avec le commandant?</text>
+	</string>
+	<string id="pri_a15_sokolov_conjecture">
+	<text>Je le savais!</text>
+	</string>
+	<string id="pri_a15_sokolov_introduce">
+	<text>ne tirez pas! Je suis lieutenant Sokolov, co-pilote de Stingray-4. Je suis sur mon chemin vers la position d'urgence B28.</text>
+	</string>
+	<string id="pri_a15_sokolov_wonder">
+	<text>Vous savez Kovalsky?</text>
+	</string>
+	<string id="pri_a15_vano_speech_one">
+	<text>Que pensez-vous que nous sommes ici, le plaisir? Pourquoi tant de la gвchette? tu ne vois pas que nous sommes tous amis ici? Moi et agent D-De ... ont vйcu beaucoup de choses. Croyez-moi sur ce point.</text>
+	</string>
+	<string id="prI_a15_wanderer_about_actor">
+	<text>Et je ne donne pas le cul d'un rat qui travaille pour qui.</text>
+	</string>
+	<string id="pri_a15_zulus_go">
+	<text>... ou l'USS.</text>
+	</string>
+	<string id="pri_a15_zulus_no_business_with_army">
+	<text>Je ne affaires avec l'armйe ...</text>
+	</string>
+	<string id="pri_a15_zulus_not_me">
+	<text>Je n'y vais pas.</text>
+	</string>
+	<string id="pri_a15_zulus_wonder">
+	<text>USS? ... Qu'est ce que ...?</text>
+	</string>
+	<string id="pri_a16_army_1_talk_to_commander_1">
+	<text>Major, parler au colonel si vous besoin de quelque chose.</text>
+	</string>
+	<string id="pri_a16_army_1_talk_to_commander_2">
+	<text>Vous devez кtre а la recherche pour le colonel, major.</text>
+	</string>
+	<string id="pri_a16_army_2_talk_to_commander_1">
+	<text>Colonel Kovalsky est la personne а qui parler, monsieur.</text>
+	</string>
+	<string id="pri_a16_army_2_talk_to_commander_2">
+	<text>Parlez-en а Kovalsky, Major.</text>
+	</string>
+	<string id="pri_a16_army_3_talk_to_commander_1">
+	<text>Kovalsky est l'homme а qui parler, monsieur.</text>
+	</string>
+	<string id="pri_a16_army_3_talk_to_commander_2">
+	<text>Monsieur, vous devriez voir Kovalsky si vous besoin de quelque chose.</text>
+	</string>
+	<string id="pri_a16_base_alarm">
+	<text>Attention, toutes les unitйs! Ceci est le colonel Kovalsky. La base est sous attaque. L'entrйe a йtй bloquй jusqu'а ce que la menace est йliminйe.</text>
+	</string>
+	<string id="pri_a16_base_megaphone_1">
+	<text>Major, si vous ne vous dйrange pas, pourriez-vous rengainer cette arme?</text>
+	</string>
+	<string id="pri_a16_base_megaphone_2">
+	<text>Йcouter, Major, rengainer votre arme, vous? Nous ne serons pas tirer sur vous, t'as ma parole.</text>
+	</string>
+	<string id="pri_a16_base_megaphone_3">
+	<text>Allez, Major. Mettez votre flingue pour l'amour de Dieu. Tout le monde est nerveux assez comme зa.</text>
+	</string>
+	<string id="pri_a16_base_relax">
+	<text>Attention, toutes les unitйs! Ceci est le colonel Kovalsky. La menace a йtй йliminйe.</text>
+	</string>
+	<string id="pri_a17_kovalsky_after_surge">
+	<text>Attention, toutes les unitйs! Ceci est le colonel Kovalsky. L'йmission est terminйe.</text>
+	</string>
+	<string id="pri_a17_kovalsky_surge_phase_1">
+	<text>Attention, toutes les unitйs! Ceci est le colonel Kovalsky. Selon nos lectures une йmission approche. Prenez couvercle immйdiatement!</text>
+	</string>
+	<string id="pri_a17_kovalsky_surge_phase_2">
+	<text>Attention, toutes les unitйs! Ceci est le colonel Kovalsky. Une йmission commence, je le rйpиte, une йmission commence. Prenez couvercle immйdiatement!</text>
+	</string>
+	<string id="pri_a17_monolith_preacher">
+	<text>Nous vous remercions, Monolith, pour rйvйler les plans de vos ennemis rusйs pour nous. Que votre lumiиre brille vers le bas sur les вmes des braves soldats qui ont donnй leur vie au service de votre volontй. Onward, guerriers de la Monolith! Vengez vos frиres tombйs, bйni car ils sont dans leur union йternelle avec le monolithe. Apportez la mort а ceux qui mйprise le pouvoir sacrй de la Monolith!</text>
+	</string>
+	<string id="pri_a17_recon_squad_actor_dont_hide">
+	<text>ils vous repйrer comme зa, Major.</text>
+	</string>
+	<string id="pri_a17_recon_squad_after_monolith_clear">
+	<text>c'est clair! Passons!</text>
+	</string>
+	<string id="pri_a17_recon_squad_attack_now_1">
+	<text>laissez-nous attendre jusqu'а ce qu'ils obtiennent au centre de la cour.</text>
+	</string>
+	<string id="pri_a17_recon_squad_attack_now_2">
+	<text>La cible est en position.</text>
+	</string>
+	<string id="pri_a17_recon_squad_attack_now_3">
+	<text>ils partent!</text>
+	</string>
+	<string id="pri_a17_recon_squad_attack_now_4">
+	<text>Nous devons agir avant que nous soyons repйrй. Tirer!</text>
+	</string>
+	<string id="pri_a17_recon_squad_commander_order_hide1">
+	<text>Ice, se rendre а la toiture. Le reste d'entre vous, suivez-moi.</text>
+	</string>
+	<string id="pri_a17_recon_squad_commander_order_hide2">
+	<text>Se mettre en position.</text>
+	</string>
+	<string id="pri_a17_recon_squad_commander_ready_to_fire">
+	<text>Prкt а attaquer sur votre commande.</text>
+	</string>
+	<string id="pri_a17_recon_squad_commander_to_prapor">
+	<text>Йtrange. Est quelqu'un fuit nos plans а eux? Nous devrions prendre cela а Kovalsky.</text>
+	</string>
+	<string id="pri_a17_recon_squad_monolith_ambush">
+	<text>il est d'une embuscade! Prenez couverture!</text>
+	</string>
+	<string id="pri_a17_recon_squad_nice_shoot">
+	<text>Great shot, Major.</text>
+	</string>
+	<string id="pri_a17_recon_squad_order_to_check">
+	<text>laissez-nous vйrifier. Ice, nous couvre!</text>
+	</string>
+	<string id="pri_a17_recon_squad_prapor_to_commander">
+	<text>Ces fanatiques savaient а propos de nous!</text>
+	</string>
+	<string id="pri_a17_recon_squad_sniper_out">
+	<text>Ice, rйveille l'enfer!</text>
+	</string>
+	<string id="pri_a17_recon_squad_talk_with_commander">
+	<text>vous feriez mieux de demander au capitaine.</text>
+	</string>
+	<string id="pri_a18_actor_report">
+	<text>Kovalsky, quelque chose d'йtrange se passe ici. Il y avait des charges de combattants Monolith l'intйrieur du bвtiment. Ils йtaient tous en transe, et de parler а ... Un tas d'ordures. Je examinй cette pile, et si vous coupez а travers la merde, elle ressemble а une antenne primitive. Il semble que quelqu'un leur parle а travers cette antenne ... et ils croient que ce soit une intervention divine.</text>
+	</string>
+	<string id="pri_a18_kovalskiy_guard">
+	<text>Tout cela est trиs йtrange. Quelqu'un a le contrфle de ces fanatiques ... Hmm. nous allons revenir а cela plus tard.</text>
+	</string>
+	<string id="pri_a18_kovalskiy_squad">
+	<text>Tout cela est trиs йtrange. Quelqu'un a le contrфle de ces fanatiques ... Hmm. nous allons revenir а cela plus tard. La sentinelle n'a pas encore montrй, donc laissez-moi savoir si vous le trouvez. Over and Out.</text>
+	</string>
+	<string id="pri_a18_monolith_pray_1">
+	<text>Monolith, nous ne vous entends pas.</text>
+	</string>
+	<string id="pri_a18_monolith_pray_2">
+	<text>Pourquoi nous avez-vous quittй, Monolith?</text>
+	</string>
+	<string id="pri_a18_monolith_pray_3">
+	<text>Nous attendons vos commandes, Monolith.</text>
+	</string>
+	<string id="pri_a18_shelly_hello">
+	<text>Skelya lieutenant, а votre disposition.</text>
+	</string>
+	<string id="pri_a18_sokolov_fight">
+	<text>Putain de merde, cet endroit est grouillant avec eux!</text>
+	</string>
+	<string id="pri_a18_sokolov_hello">
+	<text>Vous savez, je pensais que je serais plus en sйcuritй avec vous.</text>
+	</string>
+	<string id="pri_a18_sokolov_on_place">
+	<text>Nous sommes ici.</text>
+	</string>
+	<string id="pri_a18_vano_fight">
+	<text>Sortez-les avant qu'ils ne cassent hors de lui!</text>
+	</string>
+	<string id="pri_a18_vano_hello">
+	<text>Je me suis inscrit dиs que je dйcouvert que t'as besoin d'aide. Je vais vous suivre jusqu'au bout, l'homme.</text>
+	</string>
+	<string id="pri_a20_actor_about_next_task">
+	<text>L'unitй de reconnaissance avait des informations sur l'emplacement des forces Monolith. Les notes indiquent la librairie.</text>
+	</string>
+	<string id="pri_a20_actor_no_data">
+	<text>L'unitй de reconnaissance seulement repйrй patrouilles Monolith. Ils ne voient pas de grandes йquipes ou d'unitйs.</text>
+	</string>
+	<string id="pri_a20_actor_report_about_squad">
+	<text>Je trouve l'unitй. ils sont tous morts. On dirait qu'ils ont йtй abattus, mais il n'y a aucune trace de l'ennemi.</text>
+	</string>
+	<string id="pri_a20_colonel_about_sentry">
+	<text>Je ne comprends pas comment ils auraient pu attaquй si soudainement, sans laisser la moindre preuve. Vraiment йtrange .... Major, nous avons juste ramassй le signal de la sentinelle! Les coordonnйes le placent quelque part prиs de l'йpicerie. Check it out si vous le pouvez. Je compte sur vous, Major. Over and Out.</text>
+	</string>
+	<string id="pri_a20_colonel_ask_check_recon_squad">
+	<text>Nous devons trouver l'unitй de reconnaissance. Major, savoir ce qui est arrivй! Qu'est-ce que l'enfer ... Hmm. Vous кtre prudent lа-bas, d'accord? Et, Major ... Tenez moi au courant!</text>
+	</string>
+	<string id="pri_a20_colonel_give_next_task_1">
+	<text>ce sont ces fanatiques damnйs. Nous devons traiter avec eux.</text>
+	</string>
+	<string id="pri_a20_colonel_give_next_task_1_a21_sentry_task">
+	<text>ce sont ces fanatiques damnйs, ils ne laissent pas place. nous manque йgalement une sentinelle; il ne rйpond pas, et il n'y a pas une trace de lui non plus. nous avons appris а prendre soin de ces salauds, une fois pour toutes.</text>
+	</string>
+	<string id="pri_a20_colonel_send_reinforcement">
+	<text>Trиs bien, je vous enverrai deux garзons votre chemin. ils vous rencontrer prиs de la cible. Over and Out.</text>
+	</string>
+	<string id="pri_a20_colonel_send_reinforcement_a21_about_sentry">
+	<text>Trиs bien, je vous enverrai deux garзons votre chemin. ils vous rencontrer prиs de la cible. Et une autre chose ... nous avons juste pris le signal de la sentinelle. Les coordonnйes le placent quelque part prиs de l'йpicerie. Check it out si vous le pouvez. Je compte sur vous, Major. Over and Out.</text>
+	</string>
+	<string id="pri_a20_colonel_talk_in_radio">
+	<text>Unitй de Recon, entrez! Qu'est-ce qui se passe lа-bas?</text>
+	</string>
+	<string id="pri_a20_colonel_task_done">
+	<text>Je ne comprends pas comment ils auraient pu attaquй si soudainement. Sans laisser de preuves. Vraiment йtrange. Je dois rйflйchir. nous en reparlerons bientфt.</text>
+	</string>
+	<string id="pri_a20_communication_with_recon_squad">
+	<text>Je l'ai reзu un message de l'unitй de reconnaissance.</text>
+	</string>
+	<string id="pri_a20_recon_squad_attacked">
+	<text>Non! ... Qu'est-ce que l'enfer est-ce? ... Attends! ... Nous sommes tous morts ... Argh ... Help! Quelqu'un aidez-moi! Obtenez cette chose loin de moi! Nooon ...</text>
+	</string>
+	<string id="pri_a20_sokolov_with_garick_new_way_to_pripyat_1">
+	<text>Wow, je ne peux pas croire que nous avons fait а Pripyat indemne. Comment avez-vous mкme rйussi а trouver cette voie?</text>
+	</string>
+	<string id="pri_a20_sokolov_with_garick_new_way_to_pripyat_2">
+	<text>il est pas si difficile. Tout ce que t'as besoin est habiletй et un peu de chance, et nous avons obtenu les deux. Ou peut-кtre il est de la zone, nous rйcompenser pour notre patience. Dieu sait que je payй ma cotisation avec les scientifiques.</text>
+	</string>
+	<string id="pri_a20_sokolov_with_garick_new_way_to_pripyat_3">
+	<text>Ouais. Je l'ai eu assez de Hermann moi-mкme.</text>
+	</string>
+	<string id="pri_a21_actor_to_base_find_and_terminate_controller">
+	<text>Base, la sentinelle est mort. Il agissait йtrange et m'a attaquй. Je йgalement identifiйe et йliminйe un contrфleur dans ce domaine.</text>
+	</string>
+	<string id="pri_a21_actor_to_base_find_controller">
+	<text>Base, la sentinelle est mort. Il agissait йtrange et m'a attaquй. Je йgalement trouvй un contrфleur dans ce domaine, donc je devais reculer.</text>
+	</string>
+	<string id="pri_a21_actor_to_base_terminate_controller">
+	<text>Base, le contrфleur a йtй elminated.</text>
+	</string>
+	<string id="pri_a21_base_to_actor_find_and_terminate_controller">
+	<text>Copiez ce, Major. Le contrфleur doit avoir repris la sentinelle. Eh. Il йtait un bon gars .... Hm. Cela a dы кtre ce qui est arrivй а l'unitй de reconnaissance. Le contrфleur les a obligйs а attaquer l'autre. Quoi qu'il en soit, over and out.</text>
+	</string>
+	<string id="pri_a21_base_to_actor_terminate_controller">
+	<text>Copiez ce, Major. Le contrфleur doit avoir repris la sentinelle. Vous devez tuer ce connard, dиs maintenant! nous sommes en grand danger tant qu'il est encore vivant.</text>
+	</string>
+	<string id="pri_a21_colonel_base_about_sentry">
+	<text>Major, Kovalsky ici. nous avons obtenu une autre urgence sur nos mains. Venir ici et je vais vous donner des dйtails sur les dйtails.</text>
+	</string>
+	<string id="pri_a21_colonel_give_sentry_task">
+	<text>Major, je possиde une faveur а vous demander. Notre sentinelle ne rйpond pas. Vous savez oщ l'йpicerie habitude d'кtre? qui est oщ son signal est en venir. Enquкter si vous le pouvez. Une autre chose. Faites attention. Over and Out.</text>
+	</string>
+	<string id="pri_a21_colonel_lets_talk">
+	<text>Ah, le major. Entrez.</text>
+	</string>
+	<string id="pri_a21_sentr_crazy_1">
+	<text>Laissez-moi tranquille, allez-vous!</text>
+	</string>
+	<string id="pri_a21_sentr_crazy_2">
+	<text>Non! Non non!</text>
+	</string>
+	<string id="pri_a22_actor_to_base_find_squad_member">
+	<text>Base, je l'ai trouvй un de vos hommes. On dirait qu'il se fait exploser avec une grenade. Il n'y a aucun signe d'un йchange de tirs ou toute autre preuve de lui кtre attaquйs.</text>
+	</string>
+	<string id="pri_a22_base_to_actor_has_rfi_coordinates">
+	<text>Kovalsky ici .... Roger qui, Major. Hey, je suis de bonnes nouvelles. Nous avons finalement acquis les coordonnйes exactes de la source d'interfйrence. Le signal vient de la construction de l'йcole maternelle.</text>
+	</string>
+	<string id="pri_a22_colonel_about_rfi_and_lost_suad">
+	<text>Notre expert en communication estime que le signal est bloquй quelque part prиs de nous. il travaille sur l'obtention des coordonnйes que nous parlons. Je envoyй certains de mes hommes pour vйrifier une possible source d'interfйrence, mais ils ont disparu, et leurs signaux personnelles ne sont pas inscris.</text>
+	</string>
+	<string id="pri_a22_colonel_about_situation">
+	<text>Major, nous avons eu un problиme grave. Cette opйration a йtй faire plus ridicule chaque minute depuis les hйlicoptиres se sont йcrasйs. Les hommes tombent comme des mouches, nous avons obtenu aucun comms avec l'AC, et la situation ne cesse de se dйtйriorer. Les hйlicoptиres d'йvacuation ne se prйsentent pas, encore une fois. Et а ce rythme, il ne sera pas long avant que nous perdons le contrфle de la situation complиtement. Nous avons besoin d'йtablir des communications avec le siиge, а l'heure actuelle.</text>
+	</string>
+	<string id="pri_a22_colonel_give_task">
+	<text>Major, un de vos objectifs est d'йtablir des communications avec le QG. Compte tenu de la situation que nous nous trouvons, ce qui devrait кtre votre Charonitй а partir de maintenant. En outre, comme une faveur personnelle pour moi, s'il vous plaоt, trouver mes garзons.</text>
+	</string>
+	<string id="pri_a22_colonel_to_actor_need_talk">
+	<text>Major, je dois vous parler. Sociйtй.</text>
+	</string>
+	<string id="pri_a25_actor_all_doors_locked">
+	<text>Je suis par le bвtiment, mais toutes les entrйes sont bloquйes.</text>
+	</string>
+	<string id="pri_a25_kovalski_take_explosive">
+	<text>L'йquipe envoyйe а chercher la source de l'interfйrence a explosifs. Utilisez-les pour dйgager l'entrйe.</text>
+	</string>
+	<string id="pri_a28_actor_scene_end">
+	<text>Le Stalker et l'йquipe Stingray sont morts. Prйparer pour le dйcollage.</text>
+	</string>
+	<string id="pri_a28_actor_scene_end_when_strelok_dead">
+	<text>qui est tout le monde, sauf pour le Stalker. il est mort. Prйparer pour le dйcollage.</text>
+	</string>
+	<string id="pri_a28_actor_to_ssu_1">
+	<text>Major Degtyarev ici. Je vous ai lu.</text>
+	</string>
+	<string id="pri_a28_actor_to_ssu_2">
+	<text>[Major Degtyarev] Je ont rйussi а obtenir des documents sur les expйriences menйes dans la Zone. En outre, nous avons йtй contactйs par un Stalker qui est fait dans le CNPP. Son nom est Strelok, et il nous est offerte de sa coopйration.</text>
+	</string>
+	<string id="pri_a28_actor_to_ssu_with_heli_info">
+	<text>[Major Degtyarev] Oui, je dispose des donnйes. Et l'information de Strelok confirme. Les hйlicoptиres ont йtй touchйs par des anomalies aprиs leurs emplacements ont changй au cours des йmissions. Les cartes d'anomalies йmis а leurs pilotes se sont avйrйes inutiles.</text>
+	</string>
+	<string id="pri_a28_actor_to_ssu_without_heli_info">
+	<text>[Major Degtyarev] Strelok estime que les hйlicoptиres sont entrйs dans les anomalies. L'emplacement des anomalies change aprиs chaque йmission; un fait qui a йtй manquйe lors de la carte pour l'opйration Fairway.</text>
+	</string>
+	<string id="pri_a28_actor_to_strelok">
+	<text>Obtenez dans l'hйlico! Je l'espиre зa valait le coup ...</text>
+	</string>
+	<string id="pri_a28_army_about_evacuation_1">
+	<text>mettons-nous а l'hйlico, et nous allons parler dans l'air, d'accord?</text>
+	</string>
+	<string id="pri_a28_army_about_evacuation_2">
+	<text>nous aurons beaucoup de temps pour parler plus tard. Nous devons nous assurer que nous avons assez de munitions.</text>
+	</string>
+	<string id="pri_a28_army_about_evacuation_3">
+	<text>Eh bien, ce fut une base dйcent. La jeune fille nous a gardйs en vie; ne peut pas demander plus que cela. Mais maintenant, nous sommes arrivйs а obtenir les oiseaux et rentrer а la maison.</text>
+	</string>
+	<string id="pri_a28_army_about_surge_1">
+	<text>Parlons aprиs. Mes mвchoires confiture pendant les йmissions.</text>
+	</string>
+	<string id="pri_a28_army_about_surge_2">
+	<text>Une autre йmission, je me fais rйel fatiguйs d'entre eux.</text>
+	</string>
+	<string id="pri_a28_army_about_surge_3">
+	<text>Argh ... Je sens que je suis dans une tranchйe avec des chars roulant sur elle.</text>
+	</string>
+	<string id="pri_a28_army_confusion">
+	<text>Hein? ... Bon, courir!</text>
+	</string>
+	<string id="pri_a28_army_its_here">
+	<text>c'est ici!</text>
+	</string>
+	<string id="pri_a28_army_surge_talk_1_first">
+	<text>Man, je pensais que les pluies acides йtait assez mauvais ici.</text>
+	</string>
+	<string id="pri_a28_army_surge_talk_1_second">
+	<text>Oublie зa. Je йchangerais pour la pluie tous les jours du week-end, deux fois le dimanche.</text>
+	</string>
+	<string id="pri_a28_army_surge_talk_2_first">
+	<text>Putain, qui est fort! Mes oreilles bourdonnent encore, je sens que je suis sourd.</text>
+	</string>
+	<string id="pri_a28_army_surge_talk_2_second">
+	<text>Quoi? Hehheh ... Juste jouer avec vous.</text>
+	</string>
+	<string id="pri_a28_army_surge_talk_3_first">
+	<text>Hehh ... Chaque fois qu'il ya une йmission je reзois ce migraine.</text>
+	</string>
+	<string id="pri_a28_army_surge_talk_3_second">
+	<text>Tant que l'йmission ne vous tue je dis qui est assez bonne passe.</text>
+	</string>
+	<string id="pri_a28_army_what_is_that">
+	<text>Ca c'йtait quoi?!</text>
+	</string>
+	<string id="pri_a28_army_zombied_first">
+	<text>Zombies!</text>
+	</string>
+	<string id="pri_a28_army_zombied_in_building">
+	<text>il ya environ une douzaine de zombies dans le bвtiment.</text>
+	</string>
+	<string id="pri_a28_center_to_colonel_1">
+	<text>Colonel, pourquoi ne comms descendre?</text>
+	</string>
+	<string id="pri_a28_center_to_colonel_2">
+	<text>Bien. Trиs bien, йcoutez, le fonctionnement Fairway est repris par l'USS. Est-Major Degtyarev il?</text>
+	</string>
+	<string id="pri_a28_center_to_colonel_3">
+	<text>Bien. il commande а partir de maintenant. Dites-lui de rester sur place. il wil кtre contactй par un supйrieur peu.</text>
+	</string>
+	<string id="pri_a28_colonel_about_heli">
+	<text>Souhaitez-vous regarder зa! Les fils de putes effectivement rйalisйs ... Vous aviez raison, Strelok.</text>
+	</string>
+	<string id="pri_a28_colonel_about_snork">
+	<text>il n'y a pas de temps! Vйrifiez vos armes et feu а volontй!</text>
+	</string>
+	<string id="pri_a28_colonel_actor_talk">
+	<text>Major, puis-je avoir un mot?</text>
+	</string>
+	<string id="pri_a28_colonel_after_surge">
+	<text>Il ressemble а l'йmission est terminйe. Kirillov, contactez HQ.</text>
+	</string>
+	<string id="pri_a28_colonel_cannot_wait">
+	<text>Major, nous ne pouvons pas attendre plus longtemps.</text>
+	</string>
+	<string id="pri_a28_colonel_clear_the_deck">
+	<text>Prйparez-vous, les hommes!</text>
+	</string>
+	<string id="pri_a28_colonel_close_by">
+	<text>Allez, les gars! Une derniиre poussйe!</text>
+	</string>
+	<string id="pri_a28_colonel_evacuation">
+	<text>Sortez, йquipe!</text>
+	</string>
+	<string id="pri_a28_colonel_fire_will">
+	<text>Feu а volontй! Allez!</text>
+	</string>
+	<string id="pri_a28_colonel_go_left">
+	<text>Dйplacer vers la gauche et couvrir de l'autre!</text>
+	</string>
+	<string id="pri_a28_colonel_instructions">
+	<text>t'as entendu les nouvelles, les boursiers. Quand nous allons, coller ensemble et de garder en vie le Stalker. Des questions? ... Prйparez-vous а bouger!</text>
+	</string>
+	<string id="pri_a28_colonel_ok_go_here">
+	<text>Grвce а l'arc!</text>
+	</string>
+	<string id="pri_a28_colonel_ready_to_go">
+	<text>Restez vigilant et suivre les ordres! nous sommes vraiment proche au point d'йvacuation. Passons!</text>
+	</string>
+	<string id="pri_a28_colonel_see_helicopter">
+	<text>Merde! il est combattants Monolith! Feu а volontй et continuer d'avancer vers les hйlicoptиres!</text>
+	</string>
+	<string id="pri_a28_colonel_strelok_out">
+	<text>Merde! Strelok est en panne! Mais nous avons encore а sortir d'ici. Allez!</text>
+	</string>
+	<string id="pri_a28_colonel_to_center_1">
+	<text>En raison de l'йmission. il est impossible d'йtablir comms pendant une.</text>
+	</string>
+	<string id="pri_a28_colonel_to_center_2">
+	<text>Oui.</text>
+	</string>
+	<string id="pri_a28_colonel_to_center_3">
+	<text>Roger.</text>
+	</string>
+	<string id="pri_a28_colonel_wait_actor">
+	<text>Major, oщ кtes-vous? Nous devons obtenir Strelok au point d'йvacuation!</text>
+	</string>
+	<string id="pri_a28_colonel_wait_actor_go">
+	<text>Major, nous allons devoir continuer а avancer.</text>
+	</string>
+	<string id="pri_a28_colonel_wait_actor_long">
+	<text>Major, nous ne pouvons pas attendre pour vous beaucoup plus longtemps.</text>
+	</string>
+	<string id="pri_a28_colonel_wait_actor_return">
+	<text>Ok, laissez-nous continuer d'avancer!</text>
+	</string>
+	<string id="pri_a28_colonel_we_close">
+	<text>nous sommes sur le chemin!</text>
+	</string>
+	<string id="pri_a28_colonel_will_time">
+	<text>Bien reзu! nous y serons bientфt!</text>
+	</string>
+	<string id="pri_a28_colonel_zombied_attack">
+	<text>Chaque zombie dans Pripyat va savoir nous arrivons! Nous devons aller plus vite! Courir!</text>
+	</string>
+	<string id="pri_a28_colonel_zombied_first">
+	<text>Passons а la droite le long du bвtiment! Temps double!</text>
+	</string>
+	<string id="pri_a28_continuation">
+	<text>Putain de merde, vous кtes encore lа? Eh bien, si vous besoin de quelque chose, de me trouver а la base. Je suis de retour et je l'ai apportй Stalkers cette fois.</text>
+	</string>
+	<string id="pri_a28_evac_com_cant_wait">
+	<text>Nos ordres sont de dйcoller si nous sommes sous attaque, alors dйpкchez-vous l'enfer!</text>
+	</string>
+	<string id="pri_a28_evac_com_helicopter_run_time">
+	<text>Nous ne pouvons pas attendre plus longtemps! nous partons en 60 secondes!</text>
+	</string>
+	<string id="pri_a28_evac_com_ready">
+	<text>Major Degtyarev, nous sommes prкts а aller!</text>
+	</string>
+	<string id="pri_a28_evac_com_scene_end_when_strelok_dead">
+	<text>Bien reзu!</text>
+	</string>
+	<string id="pri_a28_evac_com_to_helicopter">
+	<text>Pour les hйlicoptиres! Allez allez Allez!</text>
+	</string>
+	<string id="pri_a28_evac_com_where_you">
+	<text>Stingray! Oщ es tu?</text>
+	</string>
+	<string id="pri_a28_evac_come_close">
+	<text>Major Degtyarev, nous prenons un tir nourri de l'ennemi non identifiй! Nous ne pouvons pas tenir longtemps!</text>
+	</string>
+	<string id="pri_a28_medic_about_snork">
+	<text>Ces salauds ... а nouveau. Nous devrions peut-кtre faire le tour du bвtiment.</text>
+	</string>
+	<string id="pri_a28_signaller_after_surge_1">
+	<text>Roger!</text>
+	</string>
+	<string id="pri_a28_signaller_after_surge_2">
+	<text>HQ sur la ligne!</text>
+	</string>
+	<string id="pri_a28_ssu_to_actor_1">
+	<text>Major, vous me recevez?</text>
+	</string>
+	<string id="pri_a28_ssu_to_actor_2">
+	<text>[Commande USS] Bon. Dиs cet instant, vous кtes responsable de la rйalisation opйration Fairway. Kovalsky et l'йquipe Stingray vous aider; Rapport.</text>
+	</string>
+	<string id="pri_a28_ssu_to_actor_3">
+	<text>[Commande USS] Roger. Accepter son offre. Savez-vous ce qui a causй nos hйlicoptиres а planter?</text>
+	</string>
+	<string id="pri_a28_ssu_to_actor_5">
+	<text>[Commande USS] Bon. Cela signifie que nous avons jusqu'а la prochaine йmission. vous serez rassemblйs avec le Stalker de la position B28. Stingray йquipe sera йvacuй avec vous, les oiseaux sont dйjа dans l'air. Over and Out.</text>
+	</string>
+	<string id="pri_a28_strelok_dont_stop">
+	<text>ne vous arrкtez pas! Continuez а vous dйplacer!</text>
+	</string>
+	<string id="pri_a28_strelok_go_over_anomaly">
+	<text>Plus de zombies jusqu'а l'avant!</text>
+	</string>
+	<string id="pri_a28_strelok_run">
+	<text>Courir!</text>
+	</string>
+	<string id="pri_b301_zulus_after_fight">
+	<text>Eh bien, ce fut amusant!</text>
+	</string>
+	<string id="pri_b301_zulus_hello_in_combat">
+	<text>Levez-vous contre le mur! Ces bвtards viennent de tous les cфtйs!</text>
+	</string>
+	<string id="pri_b301_zulus_surrounded_1">
+	<text>Prend зa!</text>
+	</string>
+	<string id="pri_b301_zulus_surrounded_2">
+	<text>Vous pensiez que je serais facile, hein ?!</text>
+	</string>
+	<string id="pri_b301_zulus_surrounded_3">
+	<text>Avoir une partie de cette!</text>
+	</string>
+	<string id="pri_b305_actor_ask_about_burning_antenn">
+	<text>vous кtes le Stalker qui a dйsactivй la Scorcher?</text>
+	</string>
+	<string id="pri_b305_actor_check_signal">
+	<text>Je vais vйrifier.</text>
+	</string>
+	<string id="pri_b305_actor_dont_see_anyone">
+	<text>Je ne vois personne.</text>
+	</string>
+	<string id="pri_b305_actor_emission_starts">
+	<text>Une йmission commence!</text>
+	</string>
+	<string id="pri_b305_actor_go">
+	<text>Merci, je vais le faire.</text>
+	</string>
+	<string id="pri_b305_actor_it_is_underground">
+	<text>il est sous terre.</text>
+	</string>
+	<string id="pri_b305_actor_need_center_to_know">
+	<text>Nous devons Informant le QG de ce dиs que possible.</text>
+	</string>
+	<string id="pri_b305_actor_understand">
+	<text>Gotcha.</text>
+	</string>
+	<string id="pri_b305_actor_we_have_problems">
+	<text>nous avons un problиme. Nos hйlicoptиres sont en chute pour des raisons que nous ont pas encore compris.</text>
+	</string>
+	<string id="pri_b305_actor_wondered">
+	<text>Alors qui est ce qu'il est ...</text>
+	</string>
+	<string id="pri_b305_army_what_freezer">
+	<text>Ha-ha-ha! Wow, jamais entendu зa avant! Un rйfrigйrateur, hein?</text>
+	</string>
+	<string id="pri_b305_kirilov_about_garik">
+	<text>Aussi, Garry a dirigй pour la station Yanov pour rйapprovisionner. Il m'a demandй de vous dire qu'il ne sera pas de retour pour quelques jours.</text>
+	</string>
+	<string id="pri_b305_kirilov_about_garik_vano">
+	<text>Aussi, Vano m'a demandй de vous dire que lui et Garry dirigй pour la station Yanov. Il a dit qu'ils vont ramener des souvenirs.</text>
+	</string>
+	<string id="pri_b305_kirilov_about_strelok_1">
+	<text>Merci pour votre aide! Par ailleurs, le colonel veut que vous lui payer une visite.</text>
+	</string>
+	<string id="pri_b305_kirilov_give_coordinates">
+	<text>Oui, je dois les coordonnйes, mais le signal est intermittent et ... il se dйplace!</text>
+	</string>
+	<string id="pri_b305_kirilov_give_new_coordinates">
+	<text>Le signal est de retour! Transmettre coordonnйes.</text>
+	</string>
+	<string id="pri_b305_kirilov_glad">
+	<text>Est-ce vraiment vous? Eh bien, je serai ...! Nous commencions а penser que nous avions jamais voir notre nouveau doc.</text>
+	</string>
+	<string id="pri_b305_kirilov_ok">
+	<text>Bien...</text>
+	</string>
+	<string id="pri_b305_kirilov_order_agree">
+	<text>Oui monsieur!</text>
+	</string>
+	<string id="pri_b305_kirilov_signal_lost">
+	<text>Le signal est parti.</text>
+	</string>
+	<string id="pri_b305_kirilov_signal_next_to_actor">
+	<text>il est de retour! il est juste а cфtй de vous.</text>
+	</string>
+	<string id="pri_b305_kirilov_source_is_near">
+	<text>il est proche. Et il se dirige vers notre base.</text>
+	</string>
+	<string id="pri_b305_kirilov_strange_signal">
+	<text>Colonel! Un signal radio a йtй dйtectй et sa source est non loin de la base. La transmission est cryptйe, et je l'ai pas йtй capable de le casser encore.</text>
+	</string>
+	<string id="pri_b305_kirilov_what_freezer">
+	<text>Quel rйfrigйrateur? Oщ l'AS tu trouvй?</text>
+	</string>
+	<string id="pri_b305_kirilov_what_happen">
+	<text>Donc ce qui est arrivй?</text>
+	</string>
+	<string id="pri_b305_kirilov_what_next">
+	<text>Et dans quel йtat serait-ce?</text>
+	</string>
+	<string id="pri_b305_kirilov_where_you_been">
+	<text>Ainsi? Dis-moi! Oщ йtiez-vous?</text>
+	</string>
+	<string id="pri_b305_kovalskiy_about_anomaly_map">
+	<text>Nous avons eu une carte avec un couloir aйrien sыr entre les anomalies ... Et les hйlicoptиres avaient des systиmes de protection de l'йmission!</text>
+	</string>
+	<string id="pri_b305_kovalskiy_about_deal">
+	<text>Jusqu'а ce que nous travaillons lа-bas aura pas de soutien par hйlicoptиre. La seule faзon d'arriver а la frontiиre de la zone est а pied.</text>
+	</string>
+	<string id="pri_b305_kovalskiy_ask_coordinates">
+	<text>Avez-vous les coordonnйes?</text>
+	</string>
+	<string id="pri_b305_kovalskiy_attack_case_prepare">
+	<text>Major, Kovalsky ici. vous feriez mieux de revenir ici. Nous devons nous prйparer а une йventuelle attaque. Bвtards ne nous attraper avec nos pantalon baissй, cette fois!</text>
+	</string>
+	<string id="pri_b305_kovalskiy_let_center_know">
+	<text>Je vais contacter mes commandants juste aprиs l'йmission.</text>
+	</string>
+	<string id="pri_b305_kovalskiy_news">
+	<text>Je parlais au commandant QG et signalй la situation а lui avec toutes les informations qui sont collectйes йtй. Il n'y aura pas aucun soutien de l'hйlicoptиre pendant un certain temps; il a suggйrй que nous fortifions votre position et attendons de nouveaux ordres. USS observateurs sont actuellement au siиge, vous serez donc en mesure de parler а vos supйrieurs assez tфt.</text>
+	</string>
+	<string id="pri_b305_kovalskiy_order_kirilov">
+	<text>Lieutenant! Get'em sur la ligne dиs que vous le pouvez!</text>
+	</string>
+	<string id="pri_b305_kovalskiy_talk_in_safe_place">
+	<text>Venez, laissez-nous parler а l'intйrieur!</text>
+	</string>
+	<string id="pri_b305_kovalskiy_think_of_attack">
+	<text>Monolith nouveau ?!</text>
+	</string>
+	<string id="pri_b305_kovalskiy_who_are_you">
+	<text>Qui es-tu?!</text>
+	</string>
+	<string id="pri_b305_kovalskiy_wondered">
+	<text>Quoi?!</text>
+	</string>
+	<string id="pri_b305_medik_dont_know_what_say">
+	<text>Hm ... Pas tout а fait sыr de savoir comment le dйcrire.</text>
+	</string>
+	<string id="pri_b305_medik_excuse">
+	<text>Oщ ai-je trouver ...? Je voudrais voir vous trouvez quelque chose dans mon йtat.</text>
+	</string>
+	<string id="pri_b305_medik_in_freezer">
+	<text>tu ne vas pas me croire quand mкme, mais ... dans un rйfrigйrateur.</text>
+	</string>
+	<string id="pri_b305_medik_talk_later">
+	<text>Ouf ... il est une longue histoire ... Je vais vous dire une autre fois.</text>
+	</string>
+	<string id="pri_b305_strelok_about_anomaly_randomize">
+	<text>qui est bizarre ... vous me dites que vous ne l'avez pas remarquй que des anomalies se dйplacer aprиs une йmission? Certains disparaissent, et de nouveaux apparaissent dans des endroits diffйrents, ce qui rend votre carte d'anomalies effectivement inutile.</text>
+	</string>
+	<string id="pri_b305_strelok_about_heli">
+	<text>Les raisons sont йvidentes. Il existe de nombreuses anomalies dans l'air, en particulier dans le centre de la zone.</text>
+	</string>
+	<string id="pri_b305_strelok_about_zone_destroying">
+	<text>Oui ... mais mon plan n'a pas fonctionnй. Je suis venu ici pour parler avec vos commandants. Je dois d'informations qui permettra а l'armйe de prendre le contrфle de la zone et de la dйtruire.</text>
+	</string>
+	<string id="pri_b305_strelok_give_up">
+	<text>Ne tirez pas, je me suis dirigй vers l'entrйe principale!</text>
+	</string>
+	<string id="pri_b305_strelok_how_to_get_away">
+	<text>Les йmissions ne sont pas seulement se succиdent pas. Si vous pouvez balayer la zone et d'identifier toutes les anomalies les hйlicoptиres pourront venir nous chercher en toute sйcuritй, а condition qu'ils soient expйdiйs juste aprиs une йmission.</text>
+	</string>
+	<string id="pri_b305_strelok_introduse">
+	<text>Mon nom est Strelok.</text>
+	</string>
+	<string id="pri_b35_both_done_end">
+	<text>Les deux cibles йliminйes. Bien jouй! Mission accomplie. Se retirer!</text>
+	</string>
+	<string id="pri_b35_envoy_sighted">
+	<text>Regardez, il ya un autre groupe! Voyons lequel d'entre eux est le messager.</text>
+	</string>
+	<string id="pri_b35_kovalski_calls_guide">
+	<text>Lieutenant Kirillov, Kovalsky ici. Je veux que vous escorter le major.</text>
+	</string>
+	<string id="pri_b35_merc_leader_sighted">
+	<text>Je devine l'un par l'entrйe principale est leur chef.</text>
+	</string>
+	<string id="pri_b35_primary_target_down">
+	<text>Premiиre cible йliminйe.</text>
+	</string>
+	<string id="pri_b35_primary_target_lost_end">
+	<text>Premiиre cible йchappй. Se retirer!</text>
+	</string>
+	<string id="pri_b35_rendevous_done">
+	<text>elles sont faites! Le temps de les faire tomber!</text>
+	</string>
+	<string id="pri_b35_rendevous_in_process">
+	<text>Les cibles sont par l'entrйe principale.</text>
+	</string>
+	<string id="pri_b35_rendevous_started">
+	<text>Major! Les mercenaires sont en position.</text>
+	</string>
+	<string id="pri_b35_secondary_target_down">
+	<text>Deuxiиme cible йliminйe.</text>
+	</string>
+	<string id="pri_b35_secondary_target_lost_end">
+	<text>Deuxiиme cible йchappй. Se retirer!</text>
+	</string>
+	<string id="pri_b35_targets_lost_end">
+	<text>Ces deux objectifs sont impossible а rйaliser. Abandonner la mission et retomber!</text>
+	</string>
+</string_table>

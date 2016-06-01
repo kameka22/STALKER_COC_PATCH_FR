@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_name">
+		<text>Wild game meat</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_text">
+		<text>Dйpecez des mutants fraоchement morts pour rйcupйrer de la viande. Puis rapportez %s а Skinflint au camp de la Libertй aux Entrepфts Militaires.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_about">
+		<text>J'ai exactement le job qu'il te faut, man, si t'as pas peur de quelques mutants. T'es interessй ?</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_about">
+		<text>Y'a des mecs y m'rapportent parfois une ou deux bкtes de temps en temps, pour la viande. Mais зa s'fait rare derniйrement - donc si t'as rien d'autre а faire et que t'es partant, y m'faut %s. Nos cuisiniers s'occupent de la viande juste lа dans la cuisine, assaisonnйe avec de la bonne ganja, ail et fines herbes, hйhй...</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_finish">
+		<text>Woah, toi grand chasseur mec ! Moi avoir paiement pour toi. Toi pouvoir fumer mйgabeuh de la stratosphйre avec argent moi donner toi, hйhйhйййй...</text>
+	</string>
+	<!-- mil_smart_terrain_7_7_freedom_mechanic_stalker -->
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_name">
+		<text>Find %s</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_text">
+		<text>Vous devez rйcupйrer pour Screw un %s. Rapportez-le а Screw si vous arrivez а en trouver.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_about">
+		<text>Yeah man, tu veux faire un truc pour moi ? J'ai b'zoin d'outils spйcifiques pour bricoler sur les guns.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_about">
+		<text>Nickel, y m'faut un %s. J'te paierais si tu peux m'rapporter зa.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_finish">
+		<text>Trop merci, man ! J'savais que j'avais bien fait de te l'demander а toi. T'as l'air d'un mec qui peut faire les trucs sans dйconner, respect.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_name">
+		<text>Find %s</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_text">
+		<text>Vous devez rйcupйrer pour Screw un %s. Il a besoin d'outils plus avancйs pour faire des modifications encore meilleures. Rapportez-le а Screw si vous arrivez а mettre la main dessus.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_about">
+		<text>Haha, зa fait chier de d'mander, mais mec j'ai franchement besoin de plus d'outils lа. Tu m'ramиnes ce que j'ai d'mandй la derniйre fois, mais en version meilleure qualitй, tu vois quoi ? Tu peux l'faire ?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_about">
+		<text>Cool, J'ai besoin d'un %s. Ce machin devrait contenir les outils que j'ai trop besoin pour bosser sur nos gunz.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_finish">
+		<text>S'tu continues comme зa а trop bien bosser, tout l'monde ici va t'adorer mec. Ci-mer, man.</text>
+	</string>
+	<!-- mil_smart_terrain_7_7_freedom_leader_stalker -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
+		<text>Conquйrir un Territoire</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_text">
+		<text>Vous avez reзu la tвche de mettre fin а une menace territoriale proche. Revenez voir Lukash quand ce sera fait.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_about">
+		<text>On m'a informй qu'y a une grosse menace contre notre camp. Y faut qu'on rйagisse dare-dare avant qu'ils se rapprochent. J'ai b'soin d'un mec capable de s'en charger.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
+		<text>Tu l'as fait, le truc ? Nickel.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
+		<text>Defend Territory</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_text">
+		<text>You have been tasked to defend a faction territory. Report back to Lukash after the job is done.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
+		<text>J'ai une mission importante dispo pour toi. Le Devoir a choppй un d'nos camps, et il m'faut un vrai Bonhomme pour le reconquйrir, enfin le re-chopper quoi.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
+		<text>C'est fait, le truc ? Beau boulot, gars.</text>
+	</string>
+</string_table>

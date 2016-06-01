@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<!--------------------------- mar_smart_terrain_base_doctor -->
+	<string id="mar_smart_terrain_base_doctor_start_1">
+	<text>Qu'est-ce qui t'amиne ici ?</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_need_health_care_0">
+	<text>J'ai besoin d'une assistance medicale.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_need_health_care_1">
+	<text>Bon, je vais voir ce que je peux faire.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_need_health_care_2">
+	<text>Bon, je vais jeter un oeil... Aucune blessure ? Tu n'as aucun signe d'irradiation. Je pense que tout est en ordre... c'est bon, tu peux y aller.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_need_health_care_11">
+	<text>[suite ...]</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_need_health_care_111">
+	<text>C'йtait pas si terrible, hein ? Tu peux y aller.</text>
+	</string>
+<!--------------------------- marsh_stalker_barmen -->
+	<string id="marsh_stalker_barmen_start_dialog_1">
+	<text>Ah, un nouveau visage ! Les gens ici m'appellent le Bibliothйcaire. Je suis le barman local. Je rйpondrais а toutes tes questions. Parfois, je poste des offres d'emploi ou j'entends quelques rumeurs intйressantes, alors repasse souvent.</text>
+	</string>
+	<string id="marsh_stalker_barmen_start_dialog_2">
+	<text>Hey, stalker. Qu'est-ce qu'il te faut ?</text>
+	</string>
+<!--------------------------- mar_base_owl_stalker_trader -->
+	<string id="mar_base_owl_stalker_trader_start_dialog_1">
+	<text>Besoin de fournitures ou d'equipement ? D'informations ? ... Ou peut-кtre tu veux vendre une info ?</text>
+	</string>
+<!---------------------------- marsh_stalker_tech --->
+	<string id="marsh_stalker_tech_start_1">
+	<text>Salutations, stalker. Je peux t'aider ? Les bons outils sont durs а trouver dans la Zone, mais je peux quand mкme rйparer ton йquipement et faire des petites amйliorations.</text>
+	</string>
+</string_table>

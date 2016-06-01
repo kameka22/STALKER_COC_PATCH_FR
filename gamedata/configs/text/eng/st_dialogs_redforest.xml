@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<string id="red_forester_hello_dialog_0">
+		<text>Que me vaut le plaisir ?</text>
+	</string>
+	<string id="red_forester_about_forest_0">
+		<text>Parlez-moi de la Forкt Rouge.</text>
+	</string>
+	<string id="red_forester_about_forest_1">
+		<text>C'йtait une rйserve naturelle avant, et moi j'йtais le forestier. Je protйgeais la forкt et ses animaux contre les braconniers. Maintenant, la Zone protиge cet endroit, et elle le fait si bien que les gens sont prкts а faire un dйtour d'une dizaine de kilomиtres juste pour йviter de passer par ici. Si un йtranger met les pieds dans la forкt, il est mort... Je suis peut-кtre le Forestier, mais mкme moi je n'sais pas exactement ce qui s'passe ici. Un homme entre dans la brume, et aprиs il est aspirй dans le nйant. Tu pourrais marcher juste derriиre lui que tu saurais mкme pas ce qu'il lui est arrivй. Voilа, gamin, c'est comme зa ici.</text>
+	</string>
+	<string id="red_forester_about_zone_0">
+		<text>Qu'est-ce que vous pouvez me dire sur la Zone ?</text>
+	</string>
+	<string id="red_forester_about_zone_1">
+		<text>La Zone... hй... La Zone a une vie propre, et nous, les gens, on fait qu'essayer de lui pourrir -certains plus, d'autres moins. La Zone essaie de neutraliser tout risque pour son existence, de la mкme maniиre que nos corps luttent contre les maladies. Nous on est les microbes, et la Zone a de la fiиvre. Les Йmissions, c'est un moyen pour la Zone de nous 'vomir'. Plus notre prйsence lui causera des irritations, plus ses Йmissions seront puissantes.</text>
+	</string>
+	<string id="red_forester_about_zone_11">
+		<text>Comment est-ce que vous avez survйcu ici toutes ces annйes, tout seul, au milieu de tous ces dangers ?</text>
+</string>
+	<string id="red_forester_about_zone_111">
+		<text>La moindre bкtise peut dйtruire la Zone... et tout ce qui lui appartient avec. Pas seulement les mutants et les anomalies, mais aussi les artйfacts, et vous les Stalkers... et moi. Je peux sentir que la Zone est profondйment prйoccupйe -quelque chose la dйrange, зa perturbe son йquilibre. Une grosse, grosse tempиte se prйpare... et je n'sais pas ce qui y survivra.</text>
+	</string>
+	<string id="red_forester_hello_dialog_1">
+		<text>Qu'est-ce qu'un gamin comme toi peut bien chercher chez le Forestier ?</text>
+	</string>
+	<string id="red_forester_hello_dialog_2">
+		<text>Est-ce que c'est le Hasard qui t'a amenй а moi ?</text>
+	</string>
+	<string id="red_forester_hello_dialog_3">
+		<text>Bonne chance, gamin !</text>
+	</string>
+	<string id="red_forester_hello_dialog_4">
+		<text>Ne m'oublie pas !</text>
+	</string>
+	<string id="red_forester_hello_dialog_5">
+		<text>Souviens-toi de moi !</text>
+	</string>
+	<string id="red_forester_who_are_you_0">
+		<text>Qui es-tu, gamin ?</text>
+	</string>
+	<string id="red_forester_who_are_you_1">
+		<text>Ce que je peux te dire sur moi ? Ben, je suis le Forestier. Je suis ici depuis tellement longtemps... J'ai passй toute ma vie а vivre а cфtй de cette forкt. Je suis vieux, maintenant. A mon вge, on reste attachй а son lieu de rйsidence, peu importe oщ c'est. J'ai refusй d'кtre йvacuй, aprиs l'accident а la Centrale... J'ai aussi survйcu а l'apparition de la zone. Je me souviens d'un grand flash, une grande lumiйre, sur l'horizon... beaucoup de gens sont morts ce jour-lа, mais la Zone m'a йpargnй, tu vois ? Eh, elle m'a pas seulement йpargnй, elle m'a fait un cadeau ! Avant je pouvais retrouver mon chemin n'importe quand dans la forкt, mкme la nuit, et maintenant je peux sentir un moyen sыr de passer а travers des anomalies mortelles. Tous les Stalkers m'envient, mais je n'peux pas dire que je suis trиs content d'mon cadeau. Faut que tu comprennes que tout vient а un prix, dans la vie... un jour, la Zone voudra un paiement pour son cadeau. voilа ce que j'crains, gamin.</text>
+</string>
+	<string id="red_forester_who_are_you_111">
+		<text>Non, c'йtait une forкt de pins comme toutes les autres. C'йtait aussi une rйserve naturelle, mais c'est tout ce qu'elle avait de spйcial а l'йpoque. Elle est devenu rouge aprиs l'accident de la Centrale Nuclйaire de Tchernobyl, en 1986. Elle йtait verte quand je suis allй au lit, et quand je me suis rйveillй tout йtait comme tu le vois aujourd'hui. Aprиs, la Zone est apparue, et les animaux et les oiseaux ont abandonnй la forкt. Je suis le seul кtre vivant а кtre restй. Juste moi, une forкt rouge, et cette brume йpaisse qui se dissipe jamais.</text>
+	</string>
+	<string id="red_forester_who_are_you_11111">
+		<text>Oui, beaucoup de Stalkers sont morts ici. J'ai mкme entendu des rumeurs qui disent qu'un mauvais esprit vit dans la Forкt Rouge. Moi, je dis que cette forкt, c'est comme tout le reste dans la Zone. Si tu la traites bien, elle te fera rien. Le problиme c'est que vous les Stalkers, vous faites rien de bon, vous faites comme si tout vous appartenait, vous traitez tout n'importe comment. Vous cherchez а possйder des parties de la Zone, et en retour, vous avez... ce que vous mйritez.</text>
+	</string>
+</string_table>

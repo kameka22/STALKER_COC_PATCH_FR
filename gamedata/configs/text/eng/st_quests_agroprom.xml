@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- agr_smart_terrain_1_6_army_mechanic_stalker -->
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_name">
+	<text>Trouvez %s</text>
+</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_text">
+	<text>Vous avez йtй invitй а rйcupйrer un %s. Ramenez-le а Spooner si vous arrivez а mettre la main dessus.</text>
+</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_about">
+	<text>Hй, je peux vous demander un truc ? Si зa vous intйresse de m'aider, je vais vous dire ce qu'il me faut.</text>
+</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_fetch_about">
+	<text>Je besoin d'outils а partir d'un %s. Ce machin devrait contenir tout ce dont j'ai besoin pour amйliorer votre йquipement. Si vous pouvez m'en rapporter un, je vous paierais.</text>
+</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_fetch_finish">
+	<text>Gйnial ! Vous avez apportй exactement ce que j'avais demandй. Merci.</text>
+</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_name">
+	<text>Trouvez %s</text>
+</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_text">
+	<text>Vous avez йtй invitй а rйcupйrer un %s. Il a besoin d'outils plus efficaces pour faire des modifications encore meilleures. Ramenez-le а Spooner si vous arrivez а mettre la main dessus.</text>
+</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_about">
+	<text>Bon, si vous кtes partant, il me faut plus d'outils. Mais ils seront peut-кtre un peu plus difficiles а trouver. Vous pouvez faire зa pour moi ?</text>
+</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_fetch_about">
+	<text>Je besoin d'un %s. Ce machin devrait contenir ce dont j'ai besoin. Si vous pouvez m'en rapporter un, je vous serais reconnaissant, je vais mкme vous offrir un rabais а partir de maintenant.</text>
+</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_fetch_finish">
+	<text>Gйnial ! Revenez а tout moment si vous avez besoin de moi pour jeter un oeil а votre йquipement.</text>
+</string>
+</string_table>

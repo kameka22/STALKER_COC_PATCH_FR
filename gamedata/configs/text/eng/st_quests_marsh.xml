@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- ecolog_companion_task_1       -->
+	<string id="ecolog_companion_task_1_start_dialog_1">
+	<text>Vous кtes notre guide ? Je vais marquer l'emplacement sur votre PDA, ouvrez la voie et nous suivrons. Aprиs que nous ayons complйtй nos analyses, vous nous reconduirez au camp en toute sйcuritй. Parlez-moi quand nous y serons.</text>
+	</string>
+	<string id="ecolog_companion_task_1_start_dialog_2">
+	<text>Oui ? Nous devons avancer, plus nous attendons et plus cela devient dangereux.</text>
+	</string>
+	<string id="ecolog_companion_task_1_complete">
+	<text>Merci, Stalker. Vous avez fait du trиs bon travail bien. Voici votre paiement.</text>
+	</string>
+	<string id="ecolog_companion_task_1_actor_reply">
+	<text>Bien.</text>
+	</string>
+	<!-- mar_base_stalker_barmen -->
+	<string id="mar_base_stalker_barmen_task_1_name">
+	<text>Йliminer la menace des mutantes</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_text">
+	<text>Des mutants ont йtй repйrйs prиs de cet endroit qui rend la zone dangereuse pour certains de ses habitants. Vous avez йtй chargй d'йliminer la menace mutante dans la zone. Faites un rapport au Bibliothйcaire quand ce sera fait.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_about">
+	<text>T'es un chasseur passionnй ? On cherche quelqu'un pour rendre les Marais un peu plus sыrs en allant abattre les mutants qui rфdent dans les endroits que notre faction frйquente. Tu veux faire ce boulot ?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_finish">
+	<text>Fantastique ! Voilа ton paiement. Je ferais en sorte de passer le mot autour du camp, tout le monde saura qu'on est de nouveau en sйcuritй et que c'est grвce а toi. Merci, Stalker.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_name">
+	<text>Йliminer la menace des Bandits</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_text">
+	<text>Vous avez йtй chargй d'йliminer la menace des bandits dans la rйgion. Faites un rapport au Bibliothйcaire quand ce sera fait.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_about">
+	<text>On a un gros problиme avec les bandits dans le coin. Ces bandes de meurtriers ont fait des embuscades sur nos camps hors de la base principale en essayant de prendre le territoire entier. Tant qu'ils seront lа, зa va nous empкcher d'accйder а tous les passages sыrs dans les marais. On a besoin d'un Stalker expйrimentй qui a pas peur de se salir les mains. Tu veux bien nous aider ?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_finish">
+	<text>Fantastique! Voilа ton paiement. Je ferais en sorte de passer le mot autour du camp, tout le monde saura qu'on est de nouveau en sйcuritй. Merci, Stalker.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_name">
+	<text>Viandes de gibier sauvage</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_text">
+	<text>Dйpecez des mutants fraichement morts pour recueillir leur viande. Puis ramenez-la %s pour bibliothйcaire dans le camp de Clear Sky.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_about">
+	<text>Si t'es bon avec un fusil et que t'as pas peur des mutants, j'ai un job pour toi. T'es intйressй ?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_fetch_about">
+	<text>Y'а plus beaucoup de rations, et c'est mon boulot de faire que tout le monde garde le ventre plein dans le camp. Certains des gars me ramenaient un gibier ou deux de temps en temps, mais зa se fait rare ces derniers temps -donc, si t'es pas trop occupй et que tu passes ton temps dehors, je besoin %s. Je dйcoupe et je traite la viande ici, dans ma cuisine. Oublie pas que effrayer les mutants зa rend leur viande toute dure, а cause de l'adrйnaline. Et aussi, moins ils saignent, meilleur est le goыt de leur viande. Donc fais bien gaffe quand tu tires, ok ?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_fetch_finish">
+	<text>Grandiose, t'es un bon chasseur en fait ! Je te dois un paiement, le voilа.</text>
+	</string>
+	<!-- mar_base_owl_stalker_trader_task_*			-->
+	<string id="mar_base_owl_stalker_trader_task_1_name">
+	<text>Livrer le PDA a Alegro аu Cordon</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_1_text">
+	<text>Spore a besoin de vous pour donner un PDA chiffrй а Alegro au Cordon.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_1_about">
+	<text>Okay, champion. Besoin d'un taf ? Ce PDA doit etre livrй а un mec qui traоne au camp des recrues au Cordon, son nom c'est Alйgro. Il va t'indemniser а la livraison. Va pas tomber dans une flaque d'eau ou faire une connerie dans ce genre-lа, hein... ou je te botterais ton cul personnellement. Pendant que tu seras lа-bas, regarde ce qu'il a а offrir, il peut mettre la main sur du beau matos... si tu paies le prix.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_2_name">
+	<text>Dйtruisez l'hйlicoptиre militaire</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_2_text">
+	<text>Spore en a marre et veut que vous dйtruisiez l'hйlicoptиre. Il vous offrira un rabais si vous y parvenez.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_2_about">
+	<text>Ce putain d'hйlicoptиre me rend dingue. Chaque fois que cette saloperie patrouille la frontiиre Sud, mes oreilles sifflent, putain ! Ca me donne envie de matraquer un bйbй Croque-Mort ! Descend-moi c'te putain de truc et j'te ferais un rabais. Et magne-toi, avant que je tue quelqu'un.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_name">
+	<text>Escorter les scientifiques</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_text">
+	<text>Les scientifiques de Clear Sky vous ont engagй pour les guider vers un emplacement spйcifique pour йtude. Une fois la recherche menйe avec succиs, ramenez-les au camp, oщ vous serez indemnisй.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_about">
+	<text>Les scientifiques d'ici ont besoin d'un Stalker expйrimentй pour les amener sur le terrain faire leurs recherches. T'es prкt а faire зa ? Ton boulot зa sera de les maintenir en vie et de les guider vers leur destination. Mais si tu foires, зa va te faire une mauvaise rйputation ici. Toujours partant ?</text>
+	</string>
+ 
+	<string id="mar_base_stalker_tech_task_1_name">
+	<text>Trouvez %s</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_text">
+	<text>Vous avez йtй invitй а rйcupйrer un %s. Ramener а T-Bone si vous arrivez а mettre la main sur un.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_about">
+	<text>C'est vraiment difficile а trouver des outils dans la Zone. Je pourrais faire des meilleures amйliorations sur une plus grande variйtй d'йquipements si je pouvais mettre la main sur des nouveaux outils. Si tu es intйressй, je vais te dire ce que je cherche.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_fetch_about">
+	<text>Je besoin d'un %s. Ce genre de boоte devrait contenir les outils dont j'ai besoin pour travailler sur les armes. Si tu pouvais m'en rapporter, je te serais infiniment reconnaissant, et mкme je te paierais pour зa.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_fetch_finish">
+	<text>Merveilleux, mec ! Tiens, зa c'est un peu d'argent pour toi.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_name">
+	<text>Trouvez %s</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_text">
+	<text>Vous avez йtй invitй а rйcupйrer un %s. Il a besoin d'outils plus avancйs pour faire d'encore meilleures amйliorations. Ramener а T-Bone si vous arrivez а mettre la main sur un.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_about">
+	<text>Je manque vraiment d'outils. Tu m'a rapportй des bons trucs la derniиre fois, mais j'ai besoin d'outils de qualitй supйrieure. Si tu es intйressй, je vais te dire ce qu'il me faut.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_fetch_about">
+	<text>Je besoin d'un %s. Il devrait contenir certaines plus d'outils que je dois faire un peu de travail sur les armes. Si vous pouvez apporter un retour pour moi, je serai reconnaissant, et je te paierais mкme pour зa.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_fetch_finish">
+	<text>Gйnial ! Tu reviens me sauver la mise encore une fois ! Tiens, cet argent c'est pour toi.</text>
+	</string>
+</string_table>

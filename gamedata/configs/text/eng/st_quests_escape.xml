@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- -->
+	<string id="esc_2_12_stalker_nimble_task_1_name">
+	<text>Trouvez %s</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_text">
+	<text>Nimble vous a demandй de trouver une arme а feu spйcifique. Elle doit кtre d'йtat neuf. Revenez le voir quand vous aurez trouvй ce qu'il cherche.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_about">
+	<text>J'ai un client а la recherche d'une arme а feu spйcifique, et j'ai besoin de quelqu'un pour m'aider а la trouver. Si tu es intйressй, je te donnerais plus de dйtails. Qu'est-ce que t'en dis ?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_about">
+	<text>%s ... Voilа ce que je dois trouver, mais зa doit кtre en parfait йtat. Le client paie le prix fort, et il veut pas d'une merde toute rouillйe qui va s'enrayer dans une situation de vie ou de mort. Je vais te donner la plupart des profits puisque tu vas faire tout le travail. Reviens quand tu l'auras trouvй, mec.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_finish">
+	<text>C'est une belle arme. Je pense que mon client sera content quand je lui remettrais зa. Voilа ce que je te dois.</text>
+	</string>
+	<!--      esc_m_trader_task_*	 -->
+	<string id="esc_m_trader_task_1_name">
+	<text>Tueur de contrat</text>
+	</string>
+	<string id="esc_m_trader_task_1_text">
+	<text>Sidorovich vous contractй pour exйcuter un contrat. Trouvez et йliminez la cible puis retournez voir Sidorovich pour le paiement.</text>
+	</string>
+	<string id="esc_m_trader_task_1_about">
+	<text>J'ai une liste de Stalkers qui ont besoin qu'on s'occupe de leur cas. Le pire espиce de rвclures finissent gйnйralement sur cette liste... pour diverses raisons. La Zone a besoin qu'on trie ses ordures de temps en temps. Qu'est-ce que t'en dis, Stalker, t'es oK pour jouer les mercenaires ?</text>
+	</string>
+	<string id="esc_m_trader_task_1_finish">
+	<text>Bien, donc tu m'as dйbarrassй de ce connard ! Voilа ce que je t'avais promis:</text>
+	</string>
+	<string id="esc_m_trader_task_2_name">
+	<text>Йliminer des bandits а la station de vйhicule</text>
+	</string>
+	<string id="esc_m_trader_task_2_text">
+	<text>Organiser un assaut sur la station de vйhicule et йliminer les bandits qui occupent l'emplacement.</text>
+	</string>
+	<string id="esc_m_trader_task_2_about">
+	<text>Des bandits ont fait leur base dans l'ancienne gare de vйhicules. Ces connards braquent ou tuent tous ceux qui utilisent les routes autour du camp. Et зa, зa perturbe les activitйs locales pour mes clients et les Stalkers qui se rйfugient dans le camp. C'est mauvais pour mes affaires ! Je veux que tu t'occupes d'eux. Si tu veux, va parler а Fanatique, il peut t'assister.</text>
+	</string>
+	<string id="esc_m_trader_task_2_finish">
+	<text>Excellent travail, Stalker! Toi et moi on va кtre les meilleurs amis du monde, si tu continues comme зa ! Voici ce que j'ai promis:</text>
+	</string>
+	<!--     esc_2_12_stalker_wolf	 -->
+	<string id="esc_2_12_stalker_wolf_task_1_name">
+	<text>Йliminer la menace mutante</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_text">
+	<text>Loup vous a demandй de purger une superficie de toute la menace mutante afin d'assurer la sйcuritй du village de recrue; ainsi que les harceleurs qui traversent Cordon. Atteingnez l'emplacement et йliminez tous les mutants. Revenez voir Wolf pour paiement une fois le travail terminй.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_about">
+	<text>Stalker, j'ai besoin de quelqu'un de plus expйrimentй que les recrues ici pour une tвche importante. Le Cordon devient un endroit trиs dangereux avec tout cet йlevage de mutants par ici. Je veux que tu chasses autour d'une zone que je vais marquer sur votre PDA. La tвche est de tuer tous les mutants que tu vois. Si tu fais зa pour moi, зa te fera gagner un peu d'argent. Alors, t'es partant ?</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_finish">
+	<text>Merci, les recrues seront beaucoup plus en sйcuritй maintenant, grвce а toi. Voilа ton argent.</text>
+	</string>
+	<!-- esc_smart_terrain_5_7_loner_mechanic_stalker -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name">
+	<text>Trouvez %s</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
+	<text>Vous avez йtй invitй а rйcupйrer un %s. Ramenez-le а Xenotech si vous arrivez а mettre la main dessus.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_about">
+	<text>J'ai besoin d'un service, mec. Beaucoup de Stalkers viennent par ici me demander si je peux modifier leurs armes, mais je peux pas. J'ai pas les bons outils. Je pourrais faire des amйliorations sur une plus grande variйtй d'йquipements si je pouvais mettre la mains sur les bons outils. S'te plaоt, mec, tu vas m'aider ?</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_about">
+	<text>Gйnial mec ! Je besoin d'un %s. Ce truc devrait contenir les outils qu'il me faut pour bosser sur les armes. Si tu pouvais m'en rapporter, j'te paierais pour зa.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_finish">
+	<text>Bon, nickel, c'est exactement ce que je voulais. Tiens, je t'avais promis un paiement, prend зa.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_name">
+	<text>Trouvez %s</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_text">
+	<text>Vous avez йtй invitй а rйcupйrer un %s. Il a besoin d'outils plus avancйs pour faire de meilleures amйliorations. Ramenez-le а Xenotech si vous arrivez а mettre la main dessus.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_about">
+	<text>Mon entreprise est en plein essor aujourd'hui, de plus en plus de Stalkers viennent me voir quand ils ont besoin de modifier leur arme. Mais j'aurais vraiment besoin de plus d'outils. Tu m'as apportй une belle boоte а outils de qualitй la derniиre fois, mais j'ai besoin d'un ensemble de qualitй encore plus йlevйe. Si tu es intйressй, je vais te dire ce que je veux.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_about">
+	<text>Je besoin d'un %s. Si tu peux m'en rapporter un, je te s'rais reconnaissant, je vais mкme te payer pour cela.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_finish">
+	<text>Ah, ouais ! Voilа un peu d'argent, tu le mйrites.</text>
+	</string>
+</string_table>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<!--------------------------- val_smart_terrain_7_4_bandit_trader_stalker -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_1">
+	<text>Hй, mec ! Si t'as besoin d'un truc, j'ai plein de matos a vendre, et aussi du taf si t'en cherches. J'suis le mec qu'on vient voir quand on veut vider ses poches apres une bonne journee d'pillage, haha !</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_2">
+	<text>Hй, mec. De quoi t'as besoin ? Tu cherches un boulot ?</text>
+</string>
+<!---------------------------- val_smart_terrain_7_3_bandit_mechanic_stalker --->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_start_dialog_1">
+	<text>Qu'est-ce qui t'faut aujourd'hui, mec ? J'vais essayer d'arranger ton matos pourri. Ah ouais, et si tu trouves des PDA cryptйs, j'peux te les acheter, ca m'intйresse.</text>
+	</string>
+</string_table>

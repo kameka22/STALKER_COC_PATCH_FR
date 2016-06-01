@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+
+<!--			-- Clear Sky --				-->
+
+	<string id="csky_novice_outfit_name">
+	<text>Veste en cuir de la Faction du Firmament</text>
+	</string>
+	<string id="csky_light_outfit_name">
+	<text>Armure ClearSky CS-3a</text>
+	</string>
+	<string id="csky_light_outfit_description">
+	<text>Cette armure йtait autrefois utilisйe pour les opйrations de recherche dans les zones de faible activitй anormale. Depuis l'йlimination de la faction Firmament, elle est un rappel que mкme une excellente protection corporelle ne peut pas vous garantir la sйcuritй de ce cфtй du pйrimиtre. Comprend une poche а artefact.</text>
+	</string>
+	<string id="csky_medium_outfit_name">
+	<text>Armure CS-2</text>
+	</string>
+	<string id="csky_medium_outfit_description">
+	<text>L'armure CS-2 йtait autrefois la combinaison de protection standard des troupes de Firmament. La CS-2 se compose d'un gilet pare-balles militaire avec une veste porte-charge par-dessus. Depuis l'йlimination de la faction Firmament, cette armure est un rappel que mкme une excellente protection corporelle ne peut pas vous garantir la sйcuritй de ce cфtй du pйrimиtre. Comprend une poche а artefact.</text>
+	</string>
+	<string id="csky_heavy_outfit_name">
+	<text>Armure CS-1</text>
+	</string>
+	<string id="csky_heavy_outfit_description">
+	<text>Auparavant йquipement standard des escouades d'assaut de Firmament. Aprиs l'йlimination de la faction, cette armure est un rappel que mкme une excellente protection corporelle ne peut pas vous garantir la sйcuritй de ce cфtй du pйrimиtre. L'armure est capable d'arrкter une balle de pistolet, tandis que le porteur est йgalement bien protйgй contre les anomalies. Comprend une poche а artefact.</text>
+	</string>
+
+<!--			-- Ecologist --				-->
+
+
+
+
+	<string id="ecolog_outfit_orn_name">
+	<text>SSP-99 combinaison de protection</text>
+	</string>
+	<string id="ecolog_outfit_orn_description">
+	<text>Le vкtement de protection chimique SSP-99 est spйcialement conзu pour les conditions de la Zone, utilisйs par les Ecologistes et par les Stalkers qui coopиrent avec eux. La combinaison contient un systиme de filtrage de l'air et un dispositif de climatisation intйgrй, elle est йgalement rйsistante а la chaleur et а l'йlectricitй, offre une bonne protection contre les radiations et les anomalies biologiques, et rйsiste aux environnements chimiques agressifs. N'ayant pas йtй conзu pour le combat, elle ne fournit aucune protection pare-balle ni contre les йclats.</text>
+	</string>
+	<string id="ecolog_outfit_grn_name">
+	<text>SSP-99M combinaison de protection</text>
+	</string>
+	<string id="ecolog_outfit_grn_description">
+	<text>Le vкtement de protection chimique SSP-99M est spйcialement conзu pour les expйditions scientifiques dans la zone. La SSP-99M est une combinaison SSP-99 modifiйe de haute qualitй, avec une protection pare-balle et pare-йclats accrue car elle a йtй conзue pour les gardes qui escortent les expйditions scientifiques.</text>
+	</string>
+	<string id="ecologist_guard_outfit_name">
+	<text>combinaison de garde Йcologiste</text>
+	</string>
+ 
+	<string id="ecologist_guard_outfit_description">
+	<text>Cette combinaison se compose d'un justaucorps en toile caoutchoutйe bi-couches avec doublure en plexiglas et gilet pare-balles intйgrй. Crйй spйcifiquement pour les membres de la faction Ecologiste, cette combinaison est basйe sur la populaire combinaison Sunrise. Livrй avec des conteneurs d'artefacts intйgrйs.</text>
+	</string>
+
+
+
+
+<!--			-- Duty --				-->
+
+
+	<string id="dolg_novice_outfit_name">
+	<text>Veste en cuir du Devoir</text>
+	</string>
+ 
+	<string id="dolg_outfit_name">
+	<text>PS5-M protection universelle</text>
+	</string>
+ 
+	<string id="dolg_outfit_description">
+	<text>Cette version moderne de l'armure du Devoir convient mieux aux recrues Stalker habituйs а des combinaisons lйgиres. Contrairement а la sйrie ZSP, cette combinaison offre une bonne protection contre les anomalies tout en йtant capable d'arrкter une balle de pistolet. La combinaison ne peut recevoir de conteneur d'artefact, mais peut кtre amйliorйe avec un systиme automatisй de soutien au combat а la place.</text>
+	</string>
+ 
+	<string id="dolg_heavy_outfit_name">
+	<text>Armure ZSP-9d</text>
+	</string>
+ 
+	<string id="dolg_heavy_outfit_description">
+	<text>Ce modиle prйcoce de la combinaison de la faction du Devoir est une armure Spetsnaz ZSP-9 modifiйe pour la Zone. Elle est capable d'arrкter une balle de fusil, cependant ce niveau de protection est obtenu au prix d'un poids йlevй, d'un grand encombrement et d'une protection anti-anomalie pratiquement inexistante. La combinaison ne peut recevoir de conteneur d'artefact, mais peut кtre amйliorйe avec un systиme automatisй de soutien au combat а la place.</text>
+	</string>
+ 
+	<string id="dolg_exo_outfit_name">
+	<text>Exosquelette du Devoir</text>
+	</string>
+ 
+	<string id="dolg_exo_outfit_description">
+	<text>Les membres du Devoir ont dйcidй d'utiliser des matйriaux plus lourds pour amйliorer la rйsistance pare-balles au dйtriment du reste. Cette version de l'Exosquelette, bien que lourde, vous donnera l'impression d'кtre un char d'assaut. Son seul dйfaut est que sa protection anti-anomalie est si peu efficace que mкme l'anomalie la moins dangereuse peut mettre а mal son porteur.</text>
+	</string>
+
+
+
+
+<!--			-- Freedom --				-->
+
+
+	<string id="svoboda_novice_outfit_name">
+	<text>Veste en cuir de la libertй</text>
+	</string>
+ 
+	<string id="svoboda_heavy_outfit_name">
+	<text>Sentinelle de la Libertй</text>
+	</string>
+ 
+	<string id="svoboda_heavy_outfit_description">
+	<text>Cette combinaison de Stalker avec gilet pare-balles renforcй fabriquйe par des artisans de la faction Libertй reprйsente un bon compromis entre le combat et la protection anti-anomalie. L'armure intйgrйe comprend un blindage et dix couches de Kevlar, capables d'arrкter une balle de pistolet. La combinaison est recouverte du composй Souverain, assez cher, pour la protection anomalie. Livrй avec un conteneur а artefact.</text>
+	</string>
+ 
+	<string id="svoboda_light_outfit_name">
+	<text>Vents de libertй</text>
+	</string>
+ 
+	<string id="svoboda_light_outfit_description">
+	<text>Cette combinaison de Stalker lйgиre est faite par des artisans de la faction Libertй. Le tissu de la combinaison est traitй avec de l'Horizon, une solution spйciale dйveloppйe par essais et erreurs par la faction pour augmenter la rйsistance а des anomalies. Comme la combinaison Lever de Soleil, le Vent de la Libertй est fourni avec armure intйgrйe et conteneurs а artefacts.</text>
+	</string>
+
+  	<string id="svoboda_heavy_outfit_2_name">
+    		<text>Gardien de la libertй</text>
+  	</string>
+
+  	<string id="svoboda_heavy_outfit_2_description">
+    		<text>Un modиle moderne de combinaison la faction Libertй. Plus appropriй aux nouvelles recrues de Stalker, qui sont habituйs aux combinaisons simples. Contrairement а la sйrie de PS3, cette variante offre une protection dйcente contre les anomalies et une protection minimale contre les balles. La combinaison a deux conteneurs а artefacts.</text>
+  	</string>
+
+  	<string id="svoboda_exo_outfit_name">
+    		<text>Exosquelette de la Libertй</text>
+  	</string>
+
+  	<string id="svoboda_exo_outfit_description">
+    		<text>Une version amйliorйe d'un exosquelette normal. L'utilisation de matйriaux plus lйgers ont permis aux concepteurs de rйduire le poids de la combinaison et d'incorporer la marque habituelle de la faction Libertй, une haute protection contre les anomalies. Ses seuls dйfauts sont un faible blindage et une faible rйsistance aux impacts.</text>
+  	</string>
+
+
+
+
+
+<!--			-- Loner --				-->
+
+
+
+	<string id="novice_outfit_name">
+	<text>Veste en cuir beige</text>
+	</string>
+ 
+	<string id="novice_outfit_description">
+	<text>La veste en cuir ne fournit pas une protection suffisante contre les conditions difficiles de la Zone, car c'est tout simplement un anorak de cuir avec un pantalon bleu rentrй dans des bottes de randonnйe. Typiquement portй avec un sac а dos et des sangles supplйmentaires sur la poitrine. Le cuir offre peu de protection contre des coups de feu ou de griffes, et est absolument inutile contre les radiations ou les anomalies.</text>
+	</string>
+ 
+	<string id="stalker_outfit_name">
+	<text>Lever body</text>
+	</string>
+ 
+	<string id="stalker_outfit_description">
+	<text>Cette combinaison de Stalker faite maison se compose d'un justaucorps en toile caoutchoutйe bi-couches avec doublure en plexiglas et gilet pare-balles intйgrй. Malgrй le fait que l'armure est incapable de protйger le porteur contre les balles, mкme de pistolet, la combinaison jouit d'une grande popularitй en raison de son faible coыt et de son potentiel de customisation. Livrй avec des conteneurs d'artefacts intйgrйs.</text>
+	</string>
+ 
+	<string id="exo_outfit_name">
+	<text>Exosquelette</text>
+	</string>
+ 
+	<string id="exo_outfit_description">
+	<text>Un йchantillon expйrimental d'un exosquelette militaire. N'a jamais йtй produit en masse en raison des coыts extraordinaires et de certains dйfauts de conception. Malgrй cela, il est trиs demandй dans la Zone en raison de sa capacitй а supporter le poids de n'importe quel йquipment que son porteur veut transporter, et de petits lots sont donc fabriquйs dans des installations souterraines extйrieur de l'Ukraine. Livrй avec un conteneur d'artefact intйgrй.</text>
+	</string>
+ 
+	<string id="scientific_outfit_name">
+	<text>SEVA body</text>
+	</string>
+ 
+	<string id="scientific_outfit_description">
+	<text>Cette combinaison, produite par l'un des instituts de recherche de dйfense de Kiev, est une excellente alternative а des poursuites stalker maison. Alors que son armure intйgrйe ne peut arrкter une balle de pistolet, son systиme de protection contre les anomalies et anti-radiations est sans pareil. Entiиrement йvolutive et offrant deux conteneurs d'artefacts intйgrйs, cette combinaison est l'йquipement de choix pour de nombreux Stalkers expйrimentйs.</text>
+	</string>
+
+
+
+
+
+
+<!--			-- Mercenary --				-->
+
+
+
+	<string id="merc_outfit_description">
+	<text>Tenue de choix pour la faction des Mercenaires. Sa conception est basйe sur la combinaison utilisйe par les forces spйciales des armйes occidentales. Grвce а un traitement spйcial du tissu, l'armure a une stabilitй renforcйe pendant le mouvement de ses plaques de blindage.</text>
+	</string>
+ 
+	<string id="merc_outfit_name">
+	<text>Combinaison de Mercenaire</text>
+	</string>
+ 
+	<string id="merc_exo_outfit_name">
+	<text>Exosquelette de Mercenaire</text>
+	</string>
+ 
+	<string id="merc_exo_outfit_description">
+	<text>Un йchantillon expйrimental d'un exosquelette militaire. Peint aux couleurs de la faction des Mercenaires, sa demande est forte parmi les mercenaires vйtйrans. Livrй avec un conteneur а artefact intйgrй.</text>
+	</string>
+
+
+<!--			-- Monolith--				-->
+
+
+
+
+
+
+	<string id="monolith_scientific_outfit_description">
+	<text>Une armure faite par des Monolithians ou un fabricant inconnu. Comprend un gilet pare-balles d'origine inconnue et dispose йgalement de modifications uniques offrant une lйgиre rйsistance aux effets Psi. Le systиme anti-anomalie et de radioprotection a йtй mis а jour pour correspondre а la body SEVA. La combinaison possйde trois conteneurs d'artefacts.</text>
+	</string>
+ 
+	<string id="monolith_scientific_outfit_name">
+	<text>Combinaison scientifique Monolith</text>
+	</string>
+ 
+
+	<string id="monolith_outfit_description">
+	<text>Une armure faite par des Monolithians ou un fabricant inconnu. Comprend un gilet pare-balles d'origine inconnue et dispose йgalement de modifications uniques offrant une lйgиre rйsistance aux effets Psi. La combinaison possйde trois conteneurs d'artefacts.</text>
+	</string>
+ 
+	<string id="monolith_outfit_name">
+	<text>Maillot de Monolith</text>
+	</string>
+
+
+
+
+
+
+<!--			-- Bandit --				-->
+
+
+	<string id="bandit_novice_outfit_name">
+	<text>Veste en cuir noir</text>
+	</string>
+ 
+	<string id="bandit_novice_outfit_description">
+	<text>Cet ensemble se compose d'un anorak de cuir noir avec des morceaux de kevlar cousus dans la doublure, d'un pantalon de survкtement bleu nichй dans des baskets blanches, et d'un sweat-shirt а capuche beige portй dessous. Souvent, un sac а dos en chanvre avec des sangles de fixation supplйmentaires sur la poitrine est йgalement portй.</text>
+	</string>
+ 
+	<string id="trenchcoat_outfit_name">
+	<text>Manteau en cuir</text>
+	</string>
+ 
+	<string id="trenchcoat_outfit_description">
+	<text>Un manteau en cuir noir. N'a pas d'autre usage que de garder le porteur au chaud la nuit ou le protйger d'une morsure de chien aveugle. Bien que le trench-coat est pas particuliиrement confortable, il est souvent utilisй par les Bandits dans la Zone - soit parce qu'il leur permet de se cacher dans l'obscuritй, ou tout simplement en raison de son aspect 'cool'.</text>
+	</string>
+ 
+	<string id="banditmerc_outfit_name">
+	<text>Combinaison mercenaire Bandit</text>
+	</string>
+ 
+	<string id="banditmerc_outfit_description">
+	<text>Tenue de choix pour la faction des Mercenaires, rйcemment 'empruntй' par des Bandits. Cette variante des Bandits souffre de dommages externes offrant une protection moins adйquate suite aux efforts fournis pour en 'libйrer' son ancien propriйtaire, cependant elle est non seulement moins coыteuse, mais aussi plus facile а trouver.</text>
+	</string>
+
+
+
+
+<!--			-- Military --				-->
+
+
+
+	<string id="specops_outfit_name">
+	<text>Combinaison Berill-5M blindйe</text>
+	</string>
+ 
+	<string id="specops_outfit_description">
+	<text>Cette combinaison militaire sйrie PS5 comprend un gilet pare-balles Body Armor avec le bйryllium par pulvйrisation cathodique modifiй pour une utilisation dans la Zone. Conзue pour les opйrations d'assaut dans les zones hautement radioactives, elle est inefficace dans les champs d'anomalies а haute activitй. La combinaison se retrouve chez les Stalkers grвce а l'armйe, dont les soldats йchangent la leur contre du butin. N'a aucun conteneur а artefact.</text>
+	</string>
+ 
+	<string id="military_outfit_name">
+	<text>SKAT-9 'Bulat' Suit blindй militaire</text>
+	</string>
+ 
+	<string id="military_outfit_description">
+	<text>Cette combinaison blindйe militaire moderne est conзue pour les opйrations d'assaut dans les zones а fortes anomalies. Comprend une lourde combinaison militaire blindйe de PSZ-12p, une combinaison de compensation intйgrйe et un justaucorps de protection anti-anomalies. L'armure fournit une excellente protection contre les balles et les йclats, sans rйduire grandement la mobilitй du porteur. N'a aucun conteneur а artefact.</text>
+	</string>
+
+
+
+
+<!--			-- Helmet --				-->
+
+
+	<string id="st_helm_battle">
+	<text>Sphиre M12 casque</text>
+	</string>
+ 
+	<string id="st_helm_battle_descr">
+	<text>Un casque en titane avec une doublure extйrieure en tissu robuste contenant des poches supplйmentaires pour piиces d'armure en acier et un masque facial blindй. Le Sphиre M-12 est normalement utilisй en combinaison avec une armure sйrie ZSP de Spetsnaz. Trиs populaire dans la zone grвce а son appareil respiratoire intйgrй et ses lunettes de vision nocturne de premiиre gйnйration, ainsi que pour fournir le maximum de protection possible pour la tкte. Livrй avec des ports pour matйriel йlectronique.</text>
+	</string>
+ 
+	<string id="st_helm_hardhat">
+	<text>Steel Helmet</text>
+	</string>
+ 
+	<string id="st_helm_hardhat_descr">
+	<text>Un vieux casque militaire en acier, dйsespйrйment obsolиte. N'offre aucune protection contre les anomalies ou les radiations, mais peut dйvier les balles. Ce casque n'a jamais йtй particuliиrement populaire dans la Zone, sauf pour une utilisation dans de brefs conflits armйs entre factions.</text>
+	</string>
+ 
+	<string id="st_helm_protective">
+	<text>Le casque de l'йcran</text>
+	</string>
+ 
+	<string id="st_helm_protective_descr">
+	<text>Un casque lйger avec visiиre йtanche destinй а la protection contre les anomalies. A en juger par la conception, le casque est fait par les mкmes instituts de recherche de dйfense ayant crйй la combinaison SEVA. Son utilisation prйvue peut trиs bien кtre en combinaison avec des costumes militaires pour les opйrations dans les zones fortement anormales.</text>
+	</string>
+ 
+	<string id="st_helm_respirator">
+	<text>Masque а gaz</text>
+	</string>
+ 
+	<string id="st_helm_respirator_descr">
+	<text>Un masque а gaz ordinaire en plastique et en caoutchouc, utilisй pour filtrer les particules radioactives et les substances toxiques. Largement utilisй par les recrues et les anciens combattants de toutes les factions en raison de sa fonctionnalitй universelle. Ne fournit aucune protection physique.</text>
+	</string>
+ 
+	<string id="st_helm_tactic">
+	<text>Casque tactique</text>
+	</string>
+ 
+	<string id="st_helm_tactic_descr">
+	<text>Un modиle occidental d'un casque tactique qui manque de camouflage. On ne sait pas comment il s'est retrouvй dans la Zone. Le casque est conзu pour fournir а un chef d'escouade une supйrioritй stratйgique sur l'ennemi par l'intermйdiaire de ses nombreux scanners et appareils de communications par satellite, qui ne sont pas installйs sur ce casque-ci. Protection en Kevlar multi-couches et йlйments blindйs pour protйger les composants йlectroniques. Comprend un respirateur et un dispositif de vision nocturne de premiиre gйnйration.</text>
+	</string>
+ 
+	<string id="st_helm_m40">
+	<text>M40 Champ Masque de protection</text>
+	</string>
+ 
+	<string id="st_helm_m40_descr">
+	<text>Le M-40 est le rйsultat d'un programme dans les annйes 1980 pour dйvelopper un successeur aux masques de protection de sйrie M-17. Le M-40 devait кtre un retour а la conception classique des masque а gaz avec une cartouche filtrante externe montйe sur le cфtй, plutфt que les filtres de joue internes du M-17, qui йtaient difficiles а changer, en particulier dans un environnement contaminй. Le M-40 est le masque а gaz favori des Occidentaux, comme les mercenaires. Manquant d'une forte protection contre les anomalies, le M-40 offre une protection pare-balle modйrйe.</text>
+	</string>
+
+
+
+
+
+<!--			-- Multiplayer --			-->
+
+
+
+	<string id="mp_exo_outfit_description">
+	<text>Cet Exosquelette offre une excellente protection contre les balles et les йclats des armes а fragmentation, au dйtriment de la mobilitй. Vulnйrable aux munitions perforantes.</text>
+	</string>
+	<string id="mp_exo_outfit_name">
+	<text>Exosquelette</text>
+	</string>
+	<string id="mp_military_outfit_description">
+	<text>Une militaire militaire blindйe crййe pour les opйrations d'assaut. Fournit une protection exceptionnelle contre les balles et les йclats des armes а fragmentation sans rйduire la mobilitй du porteur. Vulnйrable aux munitions perforantes.</text>
+	</string>
+	<string id="mp_military_outfit_name">
+	<text>Combinaison militaire blindйe</text>
+	</string>
+	<string id="mp_scientific_outfit_description">
+	<text>Cette combinaison, destinйe а mener des recherches dans la zone, combine un module respiratoire en circuit fermй et un revкtement d'isolation externe, rйsultant en une excellente protection contre les anomalies. En raison de la mauvaise protection contre les impacts physiques, la combinaison n'offre pas une bonne dйfense contre les balles et les йclats des armes а fragmentation. Livrй avec un conteneur de transport d'artefact intйgrй.</text>
+	</string>
+	<string id="mp_scientific_outfit_name">
+	<text>SEVA body</text>
+	</string>
+
+</string_table>

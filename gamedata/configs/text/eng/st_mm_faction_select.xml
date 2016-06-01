@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_faction_stalker">
+	<text>Solitaire</text>
+</string>
+	<string id="st_faction_stalker_desc">
+	<text>%c[245,0 245,220]Les Solitaires, ou Stalkers Neutres, ne sont pas alliйs avec l'une des factions agissant dans la Zone. \n\n Malgrй le harcиlement frйquent des mutants errants, des Bandits et des Militaires, de petits groupes ont rйussi а йtablir des avant-postes commerciaux solides dans toute la Zone. \n exemples notables \n le Village des nouveaux dans le Cordon et а bord du Skadovsk а Zaton.</text>
+</string>
+	<string id="st_faction_bandit">
+	<text>Bandit</text>
+</string>
+	<string id="st_faction_bandit_desc">
+	<text>%c[245,0 245,220]Les Bandits sont des membres de la pиgre venus dans la Zone pour diffйrentes raisons... se faire de l'argent en vendant des objets, йchapper а la Loi ou faire divers trafics, comme faire passer des armes du marchй noir dans la Zone. \n\n Malgrй l'absence de direction centrale ou d'une structure de commandement, ils ont rйussi а йtablir une base d'opйrations dans une usine dйsaffectйe au Nord de la Vallйe Sombre.</text>
+</string>
+	<string id="st_faction_dolg">
+	<text>Devoir</text>
+</string>
+	<string id="st_faction_dolg_desc">
+	<text>%c[245,0 245,220]Le Devoir est une faction paramilitaire opposйe а tous ceux qui cherchent a exploiter la Zone et, selon les vues du Devoir, a rйpandre sa corruption. \n\n Ils ont longtemps йtй en conflit fйroce avec la Libertй en raison de leurs idйaux contradictoires. \n \n Ils occupent un bunker situй а l'Est du Territoire Sauvage, non loin du bar 'Les 100 Rads'.</text>
+</string>
+	<string id="st_faction_freedom">
+	<text>Libertй</text>
+</string>
+	<string id="st_faction_freedom_desc">
+	<text>%c[245,0 245,220]La faction de la Libertй comprend des anarchistes et des casse-cou qui dйclarent de se battre pour le libre accиs а la Zone et par consйquent se trouvent en conflit constant avec le Devoir. \n\n Leur quartier gйnйral se trouve dans les Entrepфts Militaire, mais on peut йgalement les rencontrer ailleurs dans la Zone а de plus petits avant-postes.</text>
+</string>
+	<string id="st_faction_army">
+	<text>Militaire</text>
+</string>
+	<string id="st_faction_army_desc">
+	<text>%c[245,0 245,220]Le gouvernement Ukrainien, via son ministиre de l'Intйrieur, maintient fermй le pйrimиtre de la Zone grвce aux troupes du Service de Sйcuritй de l'Etat. \n\n Ils occupent aussi de nombreuses bases avancйes au sein de la Zone, notamment а l'Institut de recherche Agroprom et а un point de contrфle situй vers le Sud du Cordon.</text>
+</string>
+	<string id="st_faction_ecolog">
+	<text>Йcologiste</text>
+</string>
+	<string id="st_faction_ecolog_desc">
+	<text>%c[245,0 245,220]Les йcologistes sont un organisme financй par le gouvernement pour effectuer des recherches sur la Zone afin d'exploiter correctement son potentiel pour le bien de l'Humanitй. \n\n Ils opиrent а partir de deux bunkers quasi-identiques, un situй dans Yantar, au Sud du complexe de l'usine, et un autre un peu plus loin а Jupiter.</text>
+</string>
+	<string id="st_faction_killer">
+	<text>Mercenaire</text>
+</string>
+	<string id="st_faction_killer_desc">
+	<text>%c[245,245,220]Les Mercenaires sont des combattants venus de tous horizons qui vendent leurs services au plus offrant. On ignore qui sont leurs clients, et quels sont leurs intйrкts dans la zone. \n\n Leurs base se situe dans la Ville Morte, avec plusieurs autres avant-postes plus petits йparpillйs dans toute la Zone.</text>
+</string>
+	<string id="st_faction_monolith">
+	<text>Monolithe</text>
+</string>
+	<string id="st_faction_monolith_desc">
+	<text>%c[245,0 245,220]La faction du Monolithe est une secte de fanatiques religieux hostiles а tous, sauf les leurs. \n\n En dйpit de la destruction de la Conscience-C et ses consйquences ultйrieures, ils ont depuis rйapparu comme une force renaissante, et ont repris Pripyat, la centrale nuclйaire de Tchernobyl, les Gйnйrateurs et le Radar. \n\n Depuis qu'ils ont rйactivй le Lobotomisateur, ils n'ont eu aucune difficultй а consolider les lieux conquis par leurs avancйes.</text>
+</string>
+	<string id="st_faction_csky">
+	<text>Firmament</text>
+</string>
+	<string id="st_faction_csky_desc">
+	<text>%c[245,0 245,220]Firmament est un organisme scientifique et militaire indйpendant focalisй sur la recherche et la comprйhension de la Zone. \n\n Menacйs d'un effondrement presque complet aprиs leur assaut ratй et coыteux sur la centrale de Tchernobyl, une poignйe de rares survivants a nйanmoins rйussi а reconstruire la faction jusqu'а lui rendre son ancienne stature. \n\n Leur unique base se trouve dans les Marais, oщ ils sont isolйs et mиnent la plupart de leurs opйrations.</text>
+</string>
+	<string id="st_mm_faction_back">
+	<text>Arriиre</text>
+</string>
+	<string id="st_mm_faction_submit">
+	<text>Dйmarrer</text>
+</string>
+	<string id="st_mm_faction_rand">
+	<text>Alйatoire</text>
+</string>
+	<string id="st_mm_faction_cap_character_name">
+	<text>Nom:</text>
+</string>
+	<string id="st_mm_faction_cap_faction">
+	<text>Faction:</text>
+</string>
+</string_table>
